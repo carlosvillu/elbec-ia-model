@@ -1,1 +1,6 @@
-[% Títol] Creus que a l’escola es necessita@o temps de pati?Jo crec que a l’escola sí@o necessitem@o temps de pati.Per descansar mentre@o estem a l’escola.També crec que necessitem@o temps de pati perquè@o mentrentres [% Repetició a l’original] estem a l’escola treballant@o necessitem@o desconnectar@o.Per passar-nos@o bé@o.Fi.
+[% T√≠tol] Creus que a l'escola es necessita@o temps de pati?
+Jo crec que a l'escola s√≠@o necessitem@o temps de pati.
+Per descansar mentre@o estem a l'escola.
+Tamb√© crec que necessitem@o temps de pati perqu√®@o mentrentres [% Repetici√≥ a l'original] estem a l'escola treballant@o necessitem@o desconnectar@o.
+Per passar-nos@o b√©@o.
+Fi.

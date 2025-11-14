@@ -1,1 +1,6 @@
-[% Títol] Creus que els nens i nenes han d’anar a l’escola?Jo penso que sí@o hem@o d’anar a l’escola.El primer motiu és que hem@o d’estudiar per exemple si no estudies no podries parlar anglès, català@o, castellano@s ni sumar.La segona raó@o és que pots jugar amb els amics. A l’hora del pati pots jugar amb l’altra classe ja que et deixen@o ajuntar-te@o.Una@o altra raó@o és que t’ho passes@o molt bé perquè@o fas treballs en grup, t’ensenyen coses de forma divertida.En resum, que hem d’anar a l’escola per estudiar, per jugar i per passar-t’ho@o molt bé@o.
+[% T√≠tol] Creus que els nens i nenes han d'anar a l'escola?
+Jo penso que s√≠@o hem@o d'anar a l'escola.
+El primer motiu √©s que hem@o d'estudiar per exemple si no estudies no podries parlar angl√®s, catal√†@o, castellano@s ni sumar.
+La segona ra√≥@o √©s que pots jugar amb els amics. A l'hora del pati pots jugar amb l'altra classe ja que et deixen@o ajuntar-te@o.
+Una@o altra ra√≥@o √©s que t'ho passes@o molt b√© perqu√®@o fas treballs en grup, t'ensenyen coses de forma divertida.
+En resum, que hem d'anar a l'escola per estudiar, per jugar i per passar-t'ho@o molt b√©@o.

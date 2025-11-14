@@ -1,1 +1,6 @@
-[% títol] CREUS QUE ELS NENS I NENES HAN D’ANAR A L’ESCOLA?Jo crec que els nens i nenes sí@o han d’anar a l’escola.En primer lloc, per tenir un bon treball. Depèn@o de quin treball necessites@o anar a l’escola i estudiar molt.Per estar amb els teus amics i a la vegada estudiar.En tercer lloc, per tenir un millor futur i tenir un bon aprendiçatge.En conclusió, sí@o per tenir un bon treball, per estar amb els teus amics i a la vegada estudiar i per tenir un millor futur.
+[% t√≠tol] CREUS QUE ELS NENS I NENES HAN D'ANAR A L'ESCOLA?
+Jo crec que els nens i nenes s√≠@o han d'anar a l'escola.
+En primer lloc, per tenir un bon treball. Dep√®n@o de quin treball necessites@o anar a l'escola i estudiar molt.
+Per estar amb els teus amics i a la vegada estudiar.
+En tercer lloc, per tenir un millor futur i tenir un bon aprendi√ßatge.
+En conclusi√≥, s√≠@o per tenir un bon treball, per estar amb els teus amics i a la vegada estudiar i per tenir un millor futur.

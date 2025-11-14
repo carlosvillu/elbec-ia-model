@@ -1,1 +1,2 @@
-[% Títol] Creus que a l’escola es necessita temps de pati?Jo trobo que necessitem el pati perquè és un moment desconnectar@o i jugar amb els amics de les altres classes. També opino que està@o bé@o perquè@o si ens quedéssim@o tota l’estona [% Acaba aquí]
+[% T√≠tol] Creus que a l'escola es necessita temps de pati?
+Jo trobo que necessitem el pati perqu√® √©s un moment desconnectar@o i jugar amb els amics de les altres classes. Tamb√© opino que est√†@o b√©@o perqu√®@o si ens qued√©ssim@o tota l'estona [% Acaba aqu√≠]

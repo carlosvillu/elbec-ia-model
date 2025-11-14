@@ -1,1 +1,6 @@
-[% Títol] CREUS QUE ELS NENS DE LA TEVA EDAT HAN DE TENIR MÒBIL@o?Jo crec que no.Per primera raó la vista. Els nens s’enganxen molt al mòbil.Per segona raó les aplicacions “No adequades” [% cometes a l’original], s’estan amb el mòbil@o dia i nit.Una altra raó és l’exercici, en comptes de mirar el mòbil podrien fer exercici.En conclusió, no s’hauria de mirar el mòbil per la meva edat per la vista, les aplicacions “No adequades” [% cometes a l’original], i l’exercici.
+[% T√≠tol] CREUS QUE ELS NENS DE LA TEVA EDAT HAN DE TENIR M√íBIL@o?
+Jo crec que no.
+Per primera ra√≥ la vista. Els nens s'enganxen molt al m√≤bil.
+Per segona ra√≥ les aplicacions "No adequades" [% cometes a l'original], s'estan amb el m√≤bil@o dia i nit.
+Una altra ra√≥ √©s l'exercici, en comptes de mirar el m√≤bil podrien fer exercici.
+En conclusi√≥, no s'hauria de mirar el m√≤bil per la meva edat per la vista, les aplicacions "No adequades" [% cometes a l'original], i l'exercici.

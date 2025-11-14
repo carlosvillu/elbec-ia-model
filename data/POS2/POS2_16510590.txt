@@ -1,1 +1,5 @@
-[% Títol] Creus que els nenes i nenes [% repetició a l’original] han d’anar a l’escola?1 Jo crec que sí@o.Perquè@o nens i nenes m’agrada@o mucho@s coses@o els nens m’agrada festes jugares i mòbil@o i videogame@o@s.2 Però@o el nenes m’agrada estudiar amigues@o i cursions i profesores@s.3 Nens i nenes m’agrada mucho@s coses@o però@o nenes no decir@s que jo m’agrada este@s coses@o però@o nens m’agrada una cosa@o i eso@s decir@s que jo m’agrada este@s cosa@o i jo quieres@s comprar@o però@o nenes no i estregia crec.
+[% T√≠tol] Creus que els nenes i nenes [% repetici√≥ a l'original] han d'anar a l'escola?
+1 Jo crec que s√≠@o.
+Perqu√®@o nens i nenes m'agrada@o mucho@s coses@o els nens m'agrada festes jugares i m√≤bil@o i videogame@o@s.
+2 Per√≤@o el nenes m'agrada estudiar amigues@o i cursions i profesores@s.
+3 Nens i nenes m'agrada mucho@s coses@o per√≤@o nenes no decir@s que jo m'agrada este@s coses@o per√≤@o nens m'agrada una cosa@o i eso@s decir@s que jo m'agrada este@s cosa@o i jo quieres@s comprar@o per√≤@o nenes no i estregia crec.

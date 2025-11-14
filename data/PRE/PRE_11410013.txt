@@ -1,1 +1,3 @@
-[% Títol] Creus que a l’escola es necessita el temps de pati?El pati és@o important@o per descansar@o el temps que hem@o estat treballant a la classe.També@o és necessari@o per esmorzar@o. Per mi és@o important el pati per tenir un moment lliure. També@o per jugar i conèixer@o més@ nens i nenes i fer més@o amics entre nosaltres. El pati també@o és@ molt important per aprendre nous jocs i saber què@o lis agrada als nens i nenes dels altres cursos@o o altres classes. 
+[% T√≠tol] Creus que a l'escola es necessita el temps de pati?
+El pati √©s@o important@o per descansar@o el temps que hem@o estat treballant a la classe.
+Tamb√©@o √©s necessari@o per esmorzar@o. Per mi √©s@o important el pati per tenir un moment lliure. Tamb√©@o per jugar i con√®ixer@o m√©s@ nens i nenes i fer m√©s@o amics entre nosaltres. El pati tamb√©@o √©s@ molt important per aprendre nous jocs i saber qu√®@o lis agrada als nens i nenes dels altres cursos@o o altres classes. 

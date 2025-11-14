@@ -1,1 +1,8 @@
-[% format de llista a l’original]1- Sí@o, perquè@o si no s’avorririen dins de la classe. 2- També@o perquè@o no es divertirien en tota l’estona d’escola.3- I també@o que tenen que@s despejar-se@o la ment.4- També@o que tenen que@s tindre l’estona depati epr fer les coses que li agraden.5- També@o tenen que@s veure els companys/es de l’altre classe.6- També@o no li agradarien fer tota l’estona feinetes i controls.7- També@o crec que no perquè@o farien els dies d’educació física@o.
+[% format de llista a l'original]
+1- S√≠@o, perqu√®@o si no s'avorririen dins de la classe. 
+2- Tamb√©@o perqu√®@o no es divertirien en tota l'estona d'escola.
+3- I tamb√©@o que tenen que@s despejar-se@o la ment.
+4- Tamb√©@o que tenen que@s tindre l'estona depati epr fer les coses que li agraden.
+5- Tamb√©@o tenen que@s veure els companys/es de l'altre classe.
+6- Tamb√©@o no li agradarien fer tota l'estona feinetes i controls.
+7- Tamb√©@o crec que no perqu√®@o farien els dies d'educaci√≥ f√≠sica@o.

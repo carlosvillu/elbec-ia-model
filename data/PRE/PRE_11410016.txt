@@ -1,1 +1,3 @@
-[% Títol] Creus que a l’escola es necessita temps de pati, el temps d’esbarjo?Sí@o, per@o distreure’s@o de la classe@o. També@o per@o jugar@o amb@o els @amb els [% Repetició a l'original] amics durant@o el temps@o de pati, i descansar@o de la classe@o de qualsevol@o assignatura@o i per@o menjar@o l’esmorzar@o. 
+[% T√≠tol] Creus que a l'escola es necessita temps de pati, el temps d'esbarjo?
+S√≠@o, per@o distreure's@o de la classe@o. Tamb√©@o per@o jugar@o amb@o els @amb els [% Repetici√≥ a l'original] amics durant@o el temps@o de pati, i descansar@o de la classe@o de qualsevol@o assignatura@o i per@o menjar@o l'esmorzar@o. 
+

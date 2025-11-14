@@ -1,1 +1,6 @@
-[% títol] Creus que a l’escola es necessita temps de pati, el temps d’esbarjo?Jo crec que sí@o que hauríem@o de tenir pati.La primera raó és que necessitem que ens doni l’aire, perquè fa molta calor.La segona raó és que ens cansem, perquè de tant escriure, estudiar@o, etc, ens cansem.La tercera raó és que hem d’esmorzar amb temps al pati, perquè així@o ens reuperem per la següent@o classe.En conclusió, jo crec que sí@o que hauríem@o de tenir pati.
+[% t√≠tol] Creus que a l'escola es necessita temps de pati, el temps d'esbarjo?
+Jo crec que s√≠@o que haur√≠em@o de tenir pati.
+La primera ra√≥ √©s que necessitem que ens doni l'aire, perqu√® fa molta calor.
+La segona ra√≥ √©s que ens cansem, perqu√® de tant escriure, estudiar@o, etc, ens cansem.
+La tercera ra√≥ √©s que hem d'esmorzar amb temps al pati, perqu√® aix√≠@o ens reuperem per la seg√ºent@o classe.
+En conclusi√≥, jo crec que s√≠@o que haur√≠em@o de tenir pati.

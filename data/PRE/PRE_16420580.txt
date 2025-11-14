@@ -1,1 +1,8 @@
-[% text en format de llista a l’original i escrit en majúscules]1. NO, PERQUÈ@o SE POT MAREJAR-SE@o2. POT ESCRIURE UNA PERSONES3. QUE UN JOC ON I SI LE@s POT ESCRIBIR@s4. UNA PERSONA@o QUE NO CONEIXIS@o5. EN WHATSAPP@o@s6. NO ES CONCENTRA@o
+[% text en format de llista a l'original i escrit en maj√∫scules]
+1. NO, PERQU√à@o SE POT MAREJAR-SE@o
+2. POT ESCRIURE UNA PERSONES
+3. QUE UN JOC ON I SI LE@s POT ESCRIBIR@s
+4. UNA PERSONA@o QUE NO CONEIXIS@o
+5. EN WHATSAPP@o@s
+6. NO ES CONCENTRA@o
+

@@ -1,1 +1,4 @@
-[% títol] Creus que les persones de la teva edat han d’anar a l’escola?Sí, jo crec que és necessari@o anar a l’escola per aprendre@o a llegir, escriure, diferents llengües@o … A part, que a casa no faries res, només@o jugar i avorrir-te tot el rato. Aquí el cole@s fas amistats i et diverteixes amb ells/es.Anar a l’escola et prepara per anar a l’institut i agafar un bon ritme, de l’institut a l’universitat, de l’universitat a treballar@o, i així@o aconseguir diners i guanyar-te la vida.Aquesta és la meva opinió.
+[% t√≠tol] Creus que les persones de la teva edat han d'anar a l'escola?
+S√≠, jo crec que √©s necessari@o anar a l'escola per aprendre@o a llegir, escriure, diferents lleng√ºes@o ‚Ä¶ A part, que a casa no faries res, nom√©s@o jugar i avorrir-te tot el rato. Aqu√≠ el cole@s fas amistats i et diverteixes amb ells/es.
+Anar a l'escola et prepara per anar a l'institut i agafar un bon ritme, de l'institut a l'universitat, de l'universitat a treballar@o, i aix√≠@o aconseguir diners i guanyar-te la vida.
+Aquesta √©s la meva opini√≥.

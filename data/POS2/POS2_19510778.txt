@@ -1,1 +1,6 @@
-[% Títol] Creus que a l’escola ha d’haver pati?Jo crec que sí@o.La primera raó és@o que és@o els seus mopments de desconnexió@o del dia per descansar, fer esports i parlar amb els amics.La segona raó és@o que com moltes persones saben cada vegada què@o menges@o et sumes calories i per gastar-les tens que fer esports i això@o és@o una part essencial@o per la vida saludable.I l’última@o raó és@o que després@o d’algunes feines va bé per la ment descansar i refrescar-se i estar calmat per estar preparat per altres feines.En conclusió, a l’escola hi ha d’haver pati perquè@o tots tenim que tenir un m [% s’acaba aquí]
+[% T√≠tol] Creus que a l'escola ha d'haver pati?
+Jo crec que s√≠@o.
+La primera ra√≥ √©s@o que √©s@o els seus mopments de desconnexi√≥@o del dia per descansar, fer esports i parlar amb els amics.
+La segona ra√≥ √©s@o que com moltes persones saben cada vegada qu√®@o menges@o et sumes calories i per gastar-les tens que fer esports i aix√≤@o √©s@o una part essencial@o per la vida saludable.
+I l'√∫ltima@o ra√≥ √©s@o que despr√©s@o d'algunes feines va b√© per la ment descansar i refrescar-se i estar calmat per estar preparat per altres feines.
+En conclusi√≥, a l'escola hi ha d'haver pati perqu√®@o tots tenim que tenir un m [% s'acaba aqu√≠]

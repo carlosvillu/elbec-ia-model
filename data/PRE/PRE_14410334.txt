@@ -1,1 +1,2 @@
-[% Títol] EL PATIEl pati és@o essencial@o per a una escola, perquè@o els nens i nenes necessiten@o jugar si no estarien@o jugant a classe. El pati sempre es necessita@o a una escola, si no els nens s’avorririen@o i per això@o es necessita@o el pati.
+[% T√≠tol] EL PATI
+El pati √©s@o essencial@o per a una escola, perqu√®@o els nens i nenes necessiten@o jugar si no estarien@o jugant a classe. El pati sempre es necessita@o a una escola, si no els nens s'avorririen@o i per aix√≤@o es necessita@o el pati.

@@ -1,1 +1,6 @@
-[% títol] Creus que a l’escola es necessita temps de pati, temps@o d’esbarjo?Jo crec que no, perquè no podem quedar-nos tot el dia al pati. Primer, hem@o d’estudiar i fer examensm perquè quan siguem grans, no sabrem@o res i ho necessitem.Segon, no es pot estar tot el dia al pati, perquè al final t’avorreixes@o. I per últim@o, perdries@o el temps@o cansant-se@o de tot, perquè faria@o molta calor.En conclusió@o, no podem estar al pati tot el dia.
+[% t√≠tol] Creus que a l'escola es necessita temps de pati, temps@o d'esbarjo?
+Jo crec que no, perqu√® no podem quedar-nos tot el dia al pati. 
+Primer, hem@o d'estudiar i fer examensm perqu√® quan siguem grans, no sabrem@o res i ho necessitem.
+Segon, no es pot estar tot el dia al pati, perqu√® al final t'avorreixes@o. 
+I per √∫ltim@o, perdries@o el temps@o cansant-se@o de tot, perqu√® faria@o molta calor.
+En conclusi√≥@o, no podem estar al pati tot el dia.

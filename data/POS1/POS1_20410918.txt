@@ -1,1 +1,6 @@
-[% Títol] Creus que a l’escola es necessita@o temps de pati?Jo crec que sí@o, aquesta és@o la meva opinió@o.Perquè@o els alunes de tota l’escola haurien d’anar al pati per fer un descans de les classes@o.Ja que fan quasi@o tot el dia o almenys@o la majoria d’hores de sol es mereixen un descans abans de continuar amb les classes@o i menjar@o una mica.A més a més, crec que no fer pati els impedeix@o tenir tantes idees@o com abans@o perquè@o estan cansats i només pensen en això.Aquesta és la meva opinió sobre això.
+[% T√≠tol] Creus que a l'escola es necessita@o temps de pati?
+Jo crec que s√≠@o, aquesta √©s@o la meva opini√≥@o.
+Perqu√®@o els alunes de tota l'escola haurien d'anar al pati per fer un descans de les classes@o.
+Ja que fan quasi@o tot el dia o almenys@o la majoria d'hores de sol es mereixen un descans abans de continuar amb les classes@o i menjar@o una mica.
+A m√©s a m√©s, crec que no fer pati els impedeix@o tenir tantes idees@o com abans@o perqu√®@o estan cansats i nom√©s pensen en aix√≤.
+Aquesta √©s la meva opini√≥ sobre aix√≤.

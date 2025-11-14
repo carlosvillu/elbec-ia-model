@@ -1,1 +1,6 @@
-[% Títol] CREUS QUE ELS NENS I NENES@o DE LA TEVA EDAT HAN D’ANAR A L’ESCOLA?[% Escrit amb lletra de pal]SI ÉS@o BONA@o PERSONA@o TÉ@o ELS MATEIXOS@o DRETS I ES@o POT QUEDAR@o AL PAÍS@o@h TINGUI@o L’EDAT@o QUE* [% Asterisc per indicar comentari a peu de pàgina] I SI NO ÉS@o BONA@o PERSONA@o NO TÉ@o ELS MATEIXOS@ DRETS I S’HA@o DE@o TORNAR@o AL SEU PAÍS D’ORIGEN@o TINGUIN@o L’EDAT@o QUE TINGUIN@o.*TINGUIN@o, PER@o XXX A QUI EL XXX. 
+[% T√≠tol] CREUS QUE ELS NENS I NENES@o DE LA TEVA EDAT HAN D'ANAR A L'ESCOLA?
+[% Escrit amb lletra de pal]
+SI √âS@o BONA@o PERSONA@o T√â@o ELS MATEIXOS@o DRETS I ES@o POT QUEDAR@o AL PA√çS@o@h TINGUI@o L'EDAT@o QUE* [% Asterisc per indicar comentari a peu de p√†gina] 
+I SI NO √âS@o BONA@o PERSONA@o NO T√â@o ELS MATEIXOS@ DRETS I S'HA@o DE@o TORNAR@o AL SEU PA√çS D'ORIGEN@o TINGUIN@o L'EDAT@o QUE TINGUIN@o.
+
+*TINGUIN@o, PER@o XXX A QUI EL XXX. 

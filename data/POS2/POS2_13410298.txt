@@ -1,1 +1,5 @@
-[% Títol] CREUS QUE ELS NENS I NENES@o DE LA TEVA EDAT HAN D’ANAR A L’ESCOLAJo crec que sí@o, els nens i nenes@o han d’anar a l’escola.En primer lloc, si tu no vas a l’escola et pots tornar més@o tonto perquè estudies@o menys@o. En segon lloc, no tens tans amics que una persona@o que sí@o que va a l’escola perquè no vas a l’escola.En tercer lloc, s’ha@o d’anar a l’escola sempre i quan@o tinguem@o vacances perquè també@o hem@o de desconnectar@o perquè hem@o de descansar.En resum, d’anar a l’escola sempre perquè si no no aprenem mai.
+[% T√≠tol] CREUS QUE ELS NENS I NENES@o DE LA TEVA EDAT HAN D'ANAR A L'ESCOLA
+Jo crec que s√≠@o, els nens i nenes@o han d'anar a l'escola.
+En primer lloc, si tu no vas a l'escola et pots tornar m√©s@o tonto perqu√® estudies@o menys@o. En segon lloc, no tens tans amics que una persona@o que s√≠@o que va a l'escola perqu√® no vas a l'escola.
+En tercer lloc, s'ha@o d'anar a l'escola sempre i quan@o tinguem@o vacances perqu√® tamb√©@o hem@o de desconnectar@o perqu√® hem@o de descansar.
+En resum, d'anar a l'escola sempre perqu√® si no no aprenem mai.

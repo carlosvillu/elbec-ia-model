@@ -1,1 +1,6 @@
-[% títol] CREUS QUE A L’ESCOLA HI HA D’HAVER TEMPS DE PATI?Jo crec que hi ha d’haver temps de pati.La primera raó és@o que necessitem@o temps de pati per treure l’energia@o, perquè sinó@o estaríem@o molt pesats.La segona raó és@o que els professors@o han de descansar, perquè sinó@o els explotaria el cap de tanta feina.La tercera raó és@o que tenim molt temps per jugar amb els amics a futbol@o, bàsquet@o, vòlei@o … ho passem molt bé jugant amb els amics a esports. L’última@o raó és@o que ho passes@o bé xerrant, perquè amb la gent que estimes sempre ho passes@o bé.En conclusió, a l’escola hi ha d’haver temps de pati per, treure l’energia@o, descansar i, fer esports amb els teus amics.
+[% t√≠tol] CREUS QUE A L'ESCOLA HI HA D'HAVER TEMPS DE PATI?
+Jo crec que hi ha d'haver temps de pati.
+La primera ra√≥ √©s@o que necessitem@o temps de pati per treure l'energia@o, perqu√® sin√≥@o estar√≠em@o molt pesats.
+La segona ra√≥ √©s@o que els professors@o han de descansar, perqu√® sin√≥@o els explotaria el cap de tanta feina.
+La tercera ra√≥ √©s@o que tenim molt temps per jugar amb els amics a futbol@o, b√†squet@o, v√≤lei@o ‚Ä¶ ho passem molt b√© jugant amb els amics a esports. L'√∫ltima@o ra√≥ √©s@o que ho passes@o b√© xerrant, perqu√® amb la gent que estimes sempre ho passes@o b√©.
+En conclusi√≥, a l'escola hi ha d'haver temps de pati per, treure l'energia@o, descansar i, fer esports amb els teus amics.

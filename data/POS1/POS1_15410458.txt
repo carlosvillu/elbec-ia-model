@@ -1,1 +1,6 @@
-[% Títol] Creus que els nens i les nenes de la teva edat han de tenir mòbil@o?Jo crec que no perquè@o és@o mal per la salut.1R: Per començar és@o addictiu@o perquè hi ha moltes coses addictives@o.2R: També@o els poden secuestrar@o@s perquè@o hi ha gent mala.3R: L’última@o raó és@o que els poden hackejar@o perquè@o hi ha molts hackers.En conclusió@o, els nens i nenes de la meva edat@o no han de tenir perquè@o hi han coses addictives@o, els poden hackejar@o i perquè@o hi ha gent mala.
+[% T√≠tol] Creus que els nens i les nenes de la teva edat han de tenir m√≤bil@o?
+Jo crec que no perqu√®@o √©s@o mal per la salut.
+1R: Per comen√ßar √©s@o addictiu@o perqu√® hi ha moltes coses addictives@o.
+2R: Tamb√©@o els poden secuestrar@o@s perqu√®@o hi ha gent mala.
+3R: L'√∫ltima@o ra√≥ √©s@o que els poden hackejar@o perqu√®@o hi ha molts hackers.
+En conclusi√≥@o, els nens i nenes de la meva edat@o no han de tenir perqu√®@o hi han coses addictives@o, els poden hackejar@o i perqu√®@o hi ha gent mala.

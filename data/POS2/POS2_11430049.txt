@@ -1,1 +1,6 @@
-[% Títol] CREUS QUE ELS NENS DE LA TEVA EDAT HAN DE TENIR MÒBIL?Jo crec que no.La primera raó@o és l’edat, la segona raó@o és els deures, i la tercera raó@o és la vista. La primera explicació@o és que som@o massa petits per tenir mòbil.La segona explicació@o és que si tens mòbil a la nostra@o edat no fas els deures perquè tot el rato@s estàs@o amb el mòbil. La tercera explicació@o és que si tens mòbil a la nostra@o edat t’enganxes@o molt al mòbil i et fa mal als ulls.Conclusió. Som massa petits per tenir mòbil i llavors@o no farem els deures i ens faran mal els ulls perquè estarem molt enganxats al mòbil@o.
+[% T√≠tol] CREUS QUE ELS NENS DE LA TEVA EDAT HAN DE TENIR M√íBIL?
+Jo crec que no.
+La primera ra√≥@o √©s l'edat, la segona ra√≥@o √©s els deures, i la tercera ra√≥@o √©s la vista. 
+La primera explicaci√≥@o √©s que som@o massa petits per tenir m√≤bil.
+La segona explicaci√≥@o √©s que si tens m√≤bil a la nostra@o edat no fas els deures perqu√® tot el rato@s est√†s@o amb el m√≤bil. La tercera explicaci√≥@o √©s que si tens m√≤bil a la nostra@o edat t'enganxes@o molt al m√≤bil i et fa mal als ulls.
+Conclusi√≥. Som massa petits per tenir m√≤bil i llavors@o no farem els deures i ens faran mal els ulls perqu√® estarem molt enganxats al m√≤bil@o.

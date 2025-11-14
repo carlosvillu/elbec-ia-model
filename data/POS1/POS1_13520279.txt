@@ -1,1 +1,1 @@
-[% text sencer en castellà]
+[% text sencer en castell√†]

@@ -1,1 +1,2 @@
-[% Títol] Creus que les persones de la teva edat han de tenir mòbil?@oNo perquè@o som@o molt petits i si volen jugar amb el mòbil@o li demanem al pare o a la mare i después@s poden sortir un ratet al carrer i jugar per no estar tot el rato amb el mòbil@o.
+[% T√≠tol] Creus que les persones de la teva edat han de tenir m√≤bil?@o
+No perqu√®@o som@o molt petits i si volen jugar amb el m√≤bil@o li demanem al pare o a la mare i despu√©s@s poden sortir un ratet al carrer i jugar per no estar tot el rato amb el m√≤bil@o.

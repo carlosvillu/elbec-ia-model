@@ -1,1 +1,9 @@
-[% Títol] CREUS QUE A L’ESCOLA HA D’HAVER PATI?La meva opinió@o és@o que sí@o hem de sortir al pati.La primera raó és que necessitem descansar la ment.Per exemple, si estiguéssim tantes hores al pati ens tornaríem bojos d’estres.El segon motiu és@o que tenim que parlar, jugar, córrer@o, cansar-nos...Perquè@o si no a la classe estaríem@o molt actius, estresats de tot i la mestra es cansaria de nosaltres.L’últim@o motiu és que a classe no hi ha lloc@o per córrer per jugar...Ja que la classe no és@o igual que un pati: no hi ha tobogans, pista, on parlar, osigui que és@o fonamental@o sortir al pati.Per finalitzar, la conclusió és@o que necessitem anar al pati, si no no aprendríem@o bé.
+[% T√≠tol] CREUS QUE A L'ESCOLA HA D'HAVER PATI?
+La meva opini√≥@o √©s@o que s√≠@o hem de sortir al pati.
+La primera ra√≥ √©s que necessitem descansar la ment.
+Per exemple, si estigu√©ssim tantes hores al pati ens tornar√≠em bojos d'estres.
+El segon motiu √©s@o que tenim que parlar, jugar, c√≥rrer@o, cansar-nos...
+Perqu√®@o si no a la classe estar√≠em@o molt actius, estresats de tot i la mestra es cansaria de nosaltres.
+L'√∫ltim@o motiu √©s que a classe no hi ha lloc@o per c√≥rrer per jugar...
+Ja que la classe no √©s@o igual que un pati: no hi ha tobogans, pista, on parlar, osigui que √©s@o fonamental@o sortir al pati.
+Per finalitzar, la conclusi√≥ √©s@o que necessitem anar al pati, si no no aprendr√≠em@o b√©.

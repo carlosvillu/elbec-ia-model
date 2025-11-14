@@ -1,1 +1,4 @@
-[% Títol] L’ESCOLA?Jo penso que els nens i nenes de la meva edat hem@o d’anar a l’escola perquè@o hem@o d’aprendre@o i també una mica ens ho hem@o de passar@o bé però@o jo posaria 1 hora menys o 30 minuts menys.A veure@o, que també és@o molt important anar a l’escola i sobretot aprendre molt però@o també hem@o de tindre un temps lliure no?
+[% T√≠tol] L'ESCOLA?
+Jo penso que els nens i nenes de la meva edat hem@o d'anar a l'escola perqu√®@o hem@o d'aprendre@o i tamb√© una mica ens ho hem@o de passar@o b√© per√≤@o jo posaria 1 hora menys o 30 minuts menys.
+A veure@o, que tamb√© √©s@o molt important anar a l'escola i sobretot aprendre molt per√≤@o tamb√© hem@o de tindre un temps lliure no?
+

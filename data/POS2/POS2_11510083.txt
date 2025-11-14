@@ -1,1 +1,7 @@
-[% Títol] Creus que els nens i nenes de la teva edat han de tenir mòbil@o?Jo crec que depèn@o perquè@o si vas@o sola al cole sí@o tens que tenir mòbil@o. La primera raó@o és@o que si vas sol/a sí@o que tens que portar@o mòbil@o perquè@o si vas sol/la i et passa@o algo pots trucar en canvi@o si no vas@o sol/a del cole no fa falta.Penúltima@o raó@ és@o que pots comunicar perquè@o si te@s comuniques@o pots conèixer@o gent però@o també@o poden saber@o on vius. L’última raó@o és@o que si tens mòbil@o hi ha homes que no son de la teva@o edat.Perquè@o si tens mòbil@o pots conèixer@o homes que no son de la teva edat [% Repetició] et pot passar@o coses.En conclusió@o si vas@o sola sí tens que  [% Acaba aquí]
+[% T√≠tol] Creus que els nens i nenes de la teva edat han de tenir m√≤bil@o?
+Jo crec que dep√®n@o perqu√®@o si vas@o sola al cole s√≠@o tens que tenir m√≤bil@o. 
+La primera ra√≥@o √©s@o que si vas sol/a s√≠@o que tens que portar@o m√≤bil@o perqu√®@o si vas sol/la i et passa@o algo pots trucar en canvi@o si no vas@o sol/a del cole no fa falta.
+Pen√∫ltima@o ra√≥@ √©s@o que pots comunicar perqu√®@o si te@s comuniques@o pots con√®ixer@o gent per√≤@o tamb√©@o poden saber@o on vius. 
+L'√∫ltima ra√≥@o √©s@o que si tens m√≤bil@o hi ha homes que no son de la teva@o edat.
+Perqu√®@o si tens m√≤bil@o pots con√®ixer@o homes que no son de la teva edat [% Repetici√≥] et pot passar@o coses.
+En conclusi√≥@o si vas@o sola s√≠ tens que  [% Acaba aqu√≠]

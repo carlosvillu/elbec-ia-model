@@ -1,1 +1,3 @@
-[% títol] PATIJo crec que sí@o que necessitem temps de pati perquè@o si no tindríem@o temps de pati no podríem@o descansar, el temps de pati per a mi és@o una estona que tenim lliure perquè@o sinó@o estaríem@o tota l’estona escrivint@o, fent matemàtiques@o, educació física@o, english@s …També l’estona del pati per a mi és@o una estona per estar jugant amb els meus amics i amigues i aquest temps lliure m’agrada molt.
+[% t√≠tol] PATI
+Jo crec que s√≠@o que necessitem temps de pati perqu√®@o si no tindr√≠em@o temps de pati no podr√≠em@o descansar, el temps de pati per a mi √©s@o una estona que tenim lliure perqu√®@o sin√≥@o estar√≠em@o tota l'estona escrivint@o, fent matem√†tiques@o, educaci√≥ f√≠sica@o, english@s ‚Ä¶
+Tamb√© l'estona del pati per a mi √©s@o una estona per estar jugant amb els meus amics i amigues i aquest temps lliure m'agrada molt.

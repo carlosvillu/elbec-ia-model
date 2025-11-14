@@ -1,1 +1,5 @@
-[% títol] El pati del matí@oJo crec que el pati és@o necessari perquè@o els nens no estiguin tot el rato@s treballant@o perquè@o sinó@o es cansarien@o i també tindrien gana al matí@o, i també és@o cansat@o.[% títol] El pati de la tardaA la tarda tamopc tindria gràcia@o menjar i tornar a la classe per treballar@o i a part jo crec que així@o no tndries amics i els profes també@o en el pati aprofiten per corregir@o els treballs@o, menjar, parlar.
+[% t√≠tol] El pati del mat√≠@o
+Jo crec que el pati √©s@o necessari perqu√®@o els nens no estiguin tot el rato@s treballant@o perqu√®@o sin√≥@o es cansarien@o i tamb√© tindrien gana al mat√≠@o, i tamb√© √©s@o cansat@o.
+
+[% t√≠tol] El pati de la tarda
+A la tarda tamopc tindria gr√†cia@o menjar i tornar a la classe per treballar@o i a part jo crec que aix√≠@o no tndries amics i els profes tamb√©@o en el pati aprofiten per corregir@o els treballs@o, menjar, parlar.

@@ -1,1 +1,7 @@
-[% Títol] HAN D’ANAR A L’ESCOLAEn primer lloc, jo crec que els nens i nenes sí@o han d’anar a l’escola perquè no ho saben@o tot i encara tenen que@s aprendre molt i coses noves.A continuació, hi ha assignatures@o que les poden utilitzar@o quan siguin grans.Quan passin@o de curs poden haver algunes assignatures@o que poden evolucionar i seran més difícils@o.També@o poden conèixer@o companys, companyes nous que poden ser uns bons amics.Això@o també@o passa@o amb els professors@o, professores que ells i elles són de gran ajuda.Finalment, aquesta ha sigut la meva opinió de si els nens i@o nenes haurien d’anar a l’escola? [% interrogant a l’original]
+[% T√≠tol] HAN D'ANAR A L'ESCOLA
+En primer lloc, jo crec que els nens i nenes s√≠@o han d'anar a l'escola perqu√® no ho saben@o tot i encara tenen que@s aprendre molt i coses noves.
+A continuaci√≥, hi ha assignatures@o que les poden utilitzar@o quan siguin grans.
+Quan passin@o de curs poden haver algunes assignatures@o que poden evolucionar i seran m√©s dif√≠cils@o.
+Tamb√©@o poden con√®ixer@o companys, companyes nous que poden ser uns bons amics.
+Aix√≤@o tamb√©@o passa@o amb els professors@o, professores que ells i elles s√≥n de gran ajuda.
+Finalment, aquesta ha sigut la meva opini√≥ de si els nens i@o nenes haurien d'anar a l'escola? [% interrogant a l'original]

@@ -1,1 +1,2 @@
-[% títol] PATIJo crec que el pati sí@o que és@o necessari@o perquè@o els nens després@o de calsse puguin jugar i passar s’ho bé. També, crec que sí@o perquè@o després@o d’estar avorrits puguin deixar tot l’avorriment, escapar-se del cos.
+[% t√≠tol] PATI
+Jo crec que el pati s√≠@o que √©s@o necessari@o perqu√®@o els nens despr√©s@o de calsse puguin jugar i passar s'ho b√©. Tamb√©, crec que s√≠@o perqu√®@o despr√©s@o d'estar avorrits puguin deixar tot l'avorriment, escapar-se del cos.

@@ -1,1 +1,4 @@
-[% Títol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN D’ANAR A L’ESCOLA?Tothom pot decidir@o ell mateix, no li obliga@o ningú. Però@o tenen més risc a quan@o siguin@o grans no saber@o tant. En canvi@o, els que si que van aprenen moltes coses i per això@o jo crec que és@o important. Per llengua, mates, projectes@o i el més important, passar-s’ho@o bé@o.També si ets bona gent pots fer molts amics.Bueno@s crec que és@o molt important anar a l’escola! [% Ha dibuixat una cara somrient]
+[% T√≠tol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN D'ANAR A L'ESCOLA?
+Tothom pot decidir@o ell mateix, no li obliga@o ning√∫. Per√≤@o tenen m√©s risc a quan@o siguin@o grans no saber@o tant. En canvi@o, els que si que van aprenen moltes coses i per aix√≤@o jo crec que √©s@o important. Per llengua, mates, projectes@o i el m√©s important, passar-s'ho@o b√©@o.
+Tamb√© si ets bona gent pots fer molts amics.
+Bueno@s crec que √©s@o molt important anar a l'escola! [% Ha dibuixat una cara somrient]

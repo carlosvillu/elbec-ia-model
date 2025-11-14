@@ -1,1 +1,5 @@
-[% títol] El PatiJo crec que tenir un pati a l’escola és important perquè serveix per a que els infants parlin entre ells i juguin, llavors serveix perquè facin un llaç entre ells.També, crec que és important que els infants tinguin pati perquè és un moment en el que estan lliures i que els estimula a fer diferents coses, com estar més atents a classe o intentar esforçar-se més per intentar donar el millor d’ells.Per últim, crec que és important que els infants tinguin pati perquè els ajuda a ser més autònoms@o.
+[% t√≠tol] El Pati
+Jo crec que tenir un pati a l'escola √©s important perqu√® serveix per a que els infants parlin entre ells i juguin, llavors serveix perqu√® facin un lla√ß entre ells.
+Tamb√©, crec que √©s important que els infants tinguin pati perqu√® √©s un moment en el que estan lliures i que els estimula a fer diferents coses, com estar m√©s atents a classe o intentar esfor√ßar-se m√©s per intentar donar el millor d'ells.
+Per √∫ltim, crec que √©s important que els infants tinguin pati perqu√® els ajuda a ser m√©s aut√≤noms@o.
+

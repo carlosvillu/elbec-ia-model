@@ -1,1 +1,6 @@
-[% Títol] CREUS QUE A L’ESCOLA ES NECESSITA TEMPS DE PATI, EL TEMPS D’ESBARJO?Jo crec que sí es necessita tenir temps d’esbarjo.La primera raó és que els alumnes hem de tenir temps d’estar tranquils perquè@o de tota la feina@o potser ens agobiem.La segona raó és que totes necessitem temps d’estudiar i així en el nostre temps lliure podem estudiar perquè@o estarem en pau i amb tranquil·litat.L’última raó és que tots algun dia podem estar de mal himor però si@o no sortim al carrer ni tenim temps lliure doncs podem estar de molt mal humor perquè@o necessitem temps d’estar lliures.En conclusió, per a mi és millor tenir d’esbarjo perquè si@o no ens podem agobiar, posar-nos de mal humor i perquè@o així tenim més pau i més tranquil·litat@o.
+[% T√≠tol] CREUS QUE A L'ESCOLA ES NECESSITA TEMPS DE PATI, EL TEMPS D'ESBARJO?
+Jo crec que s√≠ es necessita tenir temps d'esbarjo.
+La primera ra√≥ √©s que els alumnes hem de tenir temps d'estar tranquils perqu√®@o de tota la feina@o potser ens agobiem.
+La segona ra√≥ √©s que totes necessitem temps d'estudiar i aix√≠ en el nostre temps lliure podem estudiar perqu√®@o estarem en pau i amb tranquil¬∑litat.
+L'√∫ltima ra√≥ √©s que tots algun dia podem estar de mal himor per√≤ si@o no sortim al carrer ni tenim temps lliure doncs podem estar de molt mal humor perqu√®@o necessitem temps d'estar lliures.
+En conclusi√≥, per a mi √©s millor tenir d'esbarjo perqu√® si@o no ens podem agobiar, posar-nos de mal humor i perqu√®@o aix√≠ tenim m√©s pau i m√©s tranquil¬∑litat@o.

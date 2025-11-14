@@ -1,1 +1,6 @@
-[% Títol] Creus que els nens i nenes han d’anar a l’escolaSegons la meva opinió jo diria sí@o tenen que@s anar a l’escola.La primera raó és@o que perquè@o d’adults poden treballar del seu somni i tenir uns treballs bons.En segon lloc diria perquè@o han d’aprendre coses noves i estudiar per ser intel·ligents@o i treure bones notes.L’últim@o motiu és@o perquè@o els pares tenen que@s anar a treballar i tu a estudiar.Finalment, diria tenen que@s anar a l’escola per d’adults treballar.
+[% T√≠tol] Creus que els nens i nenes han d'anar a l'escola
+Segons la meva opini√≥ jo diria s√≠@o tenen que@s anar a l'escola.
+La primera ra√≥ √©s@o que perqu√®@o d'adults poden treballar del seu somni i tenir uns treballs bons.
+En segon lloc diria perqu√®@o han d'aprendre coses noves i estudiar per ser intel¬∑ligents@o i treure bones notes.
+L'√∫ltim@o motiu √©s@o perqu√®@o els pares tenen que@s anar a treballar i tu a estudiar.
+Finalment, diria tenen que@s anar a l'escola per d'adults treballar.

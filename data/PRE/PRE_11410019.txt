@@ -1,1 +1,4 @@
-[% Títol] Creus que a l’escola es necessita temps de pati, el temps d’esbarjoSí@o, perquè@o amb el pati podríem@o fer moltes coses com relaxar-nos, tranquilitzar-te@o, parlar@o i moltes coses més@o. També@o per jugar coses amb el teu amic, com futbol, bàsquet@o, PingPong, escondite@s, pilla pilla@s i ballar@h.Per anar al lavabo, fer les teves@o coses, també menjar o beure aigua.
+[% T√≠tol] Creus que a l'escola es necessita temps de pati, el temps d'esbarjo
+
+S√≠@o, perqu√®@o amb el pati podr√≠em@o fer moltes coses com relaxar-nos, tranquilitzar-te@o, parlar@o i moltes coses m√©s@o. Tamb√©@o per jugar coses amb el teu amic, com futbol, b√†squet@o, PingPong, escondite@s, pilla pilla@s i ballar@h.
+Per anar al lavabo, fer les teves@o coses, tamb√© menjar o beure aigua.

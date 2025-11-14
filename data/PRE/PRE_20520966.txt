@@ -1,1 +1,2 @@
-[% títol] El mòbilJo crec que sí@o, però a la vegada no. Si tu ets una persona irresponsable@o no tindria@o mòbil perquè per un despist tonto et poden robar el mòbil, però si ets una persona responsable sí@o, perquè tu estaràs@o més pendent del teu mòbil, i si t’envàs@o sol o sola sí@o perquè si et passa alguna cosa pots trucar al teu pare o a la teva mare@o.
+[% t√≠tol] El m√≤bil
+Jo crec que s√≠@o, per√≤ a la vegada no. Si tu ets una persona irresponsable@o no tindria@o m√≤bil perqu√® per un despist tonto et poden robar el m√≤bil, per√≤ si ets una persona responsable s√≠@o, perqu√® tu estar√†s@o m√©s pendent del teu m√≤bil, i si t'env√†s@o sol o sola s√≠@o perqu√® si et passa alguna cosa pots trucar al teu pare o a la teva mare@o.

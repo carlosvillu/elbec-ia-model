@@ -1,1 +1,4 @@
-[% T’tol] Creus que les persones de la teva edat han dÕanar a lÕescola? S’@o per@o anar@o per aprendre:* Idiomes.* Saber xxx.* Xxx.
+[% TÃ­tol] Creus que les persones de la teva edat han d'anar a l'escola? SÃ­@o per@o anar@o per aprendre:
+* Idiomes.
+* Saber xxx.
+* Xxx.

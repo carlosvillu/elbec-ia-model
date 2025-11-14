@@ -1,1 +1,4 @@
-[% títol] Creieu que les persones de la vostra edat han d’anar a l’escola?Jo crec que sí@o que haurien d’anar a l’escola perquè si no hi anéssim@o no podríem@o entrar en una universitat i després treballar de que volguéssim@o. És veritat que fa mandra llevar-te a les tantes de la matinada i vestir-se, esmorzar, rentar-se les dents, dutxar-se… i després arribar a les tal tal tal [% repetició a l’original] xxx o et faran bronca@s.L’escola és també el lloc on fas (normalment) el teu millor amic.En resum, heu d’anar a l’escola.
+[% t√≠tol] Creieu que les persones de la vostra edat han d'anar a l'escola?
+Jo crec que s√≠@o que haurien d'anar a l'escola perqu√® si no hi an√©ssim@o no podr√≠em@o entrar en una universitat i despr√©s treballar de que volgu√©ssim@o. √âs veritat que fa mandra llevar-te a les tantes de la matinada i vestir-se, esmorzar, rentar-se les dents, dutxar-se‚Ä¶ i despr√©s arribar a les tal tal tal [% repetici√≥ a l'original] xxx o et faran bronca@s.
+L'escola √©s tamb√© el lloc on fas (normalment) el teu millor amic.
+En resum, heu d'anar a l'escola.

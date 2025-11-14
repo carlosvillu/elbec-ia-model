@@ -1,1 +1,6 @@
-[% títol] Creus que les persones de la vostra edat han d’anar a l’escola?Jo crec que les persones de la nostra edat han d’anar a l’escola perquè estem en una edat per aprendre, també és important perquè la primària és lo més fàcil.Hi ha gent de la nostra edat que no va a l’escola perquè no li deixen o no volen.També és moment per disfrutar perquè quan@o creixis tindràs uns altres amics i una altra vida.Aquesta és la meva opinió de: creus que les persones de la vostra edat han d’anar a l’escola?
+[% t√≠tol] Creus que les persones de la vostra edat han d'anar a l'escola?
+Jo crec que les persones de la nostra edat han d'anar a l'escola perqu√® estem en una edat per aprendre, tamb√© √©s important perqu√® la prim√†ria √©s lo m√©s f√†cil.
+Hi ha gent de la nostra edat que no va a l'escola perqu√® no li deixen o no volen.
+Tamb√© √©s moment per disfrutar perqu√® quan@o creixis tindr√†s uns altres amics i una altra vida.
+Aquesta √©s la meva opini√≥ de: creus que les persones de la vostra edat han d'anar a l'escola?
+

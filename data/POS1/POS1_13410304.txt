@@ -1,1 +1,6 @@
-[% Títol] Creus que a l’escola ha d’haver pati?Segons la meva opinió@o és@o que sí@o tindríem@o que@s tindre hora del pati.En primer lloc perquè@o tenim que@s jugar i menjar@o perquè@o si no per què@ hi ha pati a l’escola.Una altra@o raó és@o que tenim que@s descansar perquè@o si no estaríem@o cansats d’escriure.En tercer lloc els nens es tenen que@s desfugar-se@o com que som petits@o.Per acabar, jo crec que que [% repetició a l’original] tenim que@s tindre pati.
+[% T√≠tol] Creus que a l'escola ha d'haver pati?
+Segons la meva opini√≥@o √©s@o que s√≠@o tindr√≠em@o que@s tindre hora del pati.
+En primer lloc perqu√®@o tenim que@s jugar i menjar@o perqu√®@o si no per qu√®@ hi ha pati a l'escola.
+Una altra@o ra√≥ √©s@o que tenim que@s descansar perqu√®@o si no estar√≠em@o cansats d'escriure.
+En tercer lloc els nens es tenen que@s desfugar-se@o com que som petits@o.
+Per acabar, jo crec que que [% repetici√≥ a l'original] tenim que@s tindre pati.

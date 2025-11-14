@@ -1,1 +1,2 @@
-[% text en majúscules]EL ELS [% repetició de l’original] NENS NO HAN@o DE TENIR@o MÒBIL@o.
+[% text en maj√∫scules]
+EL ELS [% repetici√≥ de l'original] NENS NO HAN@o DE TENIR@o M√íBIL@o.

@@ -1,1 +1,4 @@
-[% títol] Creus que Els nens i nEnes de la teva deat han de tenir mòbil@o?Jo crec que@o Els nens i les nenes no han@o de tenir mòbil@o perquè@o els nens@o i nenes els poden trencar molt fàcilment@o. Però@o els cuiden@o molt.A més@o a més@o perquè@o poden mirar coses@o inapropiades@o pels nens i nenes. També@o perquè@o no li entrés@o a Instagram@s, tiktok@o@s, facebook@o@s. Perquè@o es poden engabxar molt i no saben@o controlar-ho@o. També@o és@o molt important@o perquè@o es poden afectan molt. Pot ser que tinguin@o molts problemes@o.FI [% en majúscules]
+[% t√≠tol] Creus que Els nens i nEnes de la teva deat han de tenir m√≤bil@o?
+Jo crec que@o Els nens i les nenes no han@o de tenir m√≤bil@o perqu√®@o els nens@o i nenes els poden trencar molt f√†cilment@o. Per√≤@o els cuiden@o molt.
+A m√©s@o a m√©s@o perqu√®@o poden mirar coses@o inapropiades@o pels nens i nenes. Tamb√©@o perqu√®@o no li entr√©s@o a Instagram@s, tiktok@o@s, facebook@o@s. Perqu√®@o es poden engabxar molt i no saben@o controlar-ho@o. Tamb√©@o √©s@o molt important@o perqu√®@o es poden afectan molt. Pot ser que tinguin@o molts problemes@o.
+FI [% en maj√∫scules]

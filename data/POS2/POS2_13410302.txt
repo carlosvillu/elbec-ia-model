@@ -1,1 +1,6 @@
-[% Títol] Creus que els nens i nenes han@o d’anar al cole a l’estiu@o?Jo crec que no estic@o del tot d’acord.La primera raó@o és@o que és@o necessari@o ja que has d’aprendre.La segona raó@o és@o que si treballes@o i treballes@o no podries descansar ja que sempre estaries treballant.L’última raó@o és@o que si és@o tot l’estiu no perquè no deixaries@o descansar la ment.En conclusió@o, és@o important@o sí@o però@o no sempre perquè@o no descansaries@o.
+[% T√≠tol] Creus que els nens i nenes han@o d'anar al cole a l'estiu@o?
+Jo crec que no estic@o del tot d'acord.
+La primera ra√≥@o √©s@o que √©s@o necessari@o ja que has d'aprendre.
+La segona ra√≥@o √©s@o que si treballes@o i treballes@o no podries descansar ja que sempre estaries treballant.
+L'√∫ltima ra√≥@o √©s@o que si √©s@o tot l'estiu no perqu√® no deixaries@o descansar la ment.
+En conclusi√≥@o, √©s@o important@o s√≠@o per√≤@o no sempre perqu√®@o no descansaries@o.

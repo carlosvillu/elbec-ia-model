@@ -1,1 +1,3 @@
-[% Títol] El pati?La meva opinió@o és@o que l’escola sí@o que necessita el pati perquè@o si estem agobiats@o o estem molt enfadats amb una persona podem sortir corrents a l’hora del pati i desagobiar-se@o o per no veure aquella persona.O també simplement@o ganes de jugar. Per això@o per mi és la part que més m’agrada del dia anar a jugar al pati.
+[% T√≠tol] El pati?
+La meva opini√≥@o √©s@o que l'escola s√≠@o que necessita el pati perqu√®@o si estem agobiats@o o estem molt enfadats amb una persona podem sortir corrents a l'hora del pati i desagobiar-se@o o per no veure aquella persona.
+O tamb√© simplement@o ganes de jugar. Per aix√≤@o per mi √©s la part que m√©s m'agrada del dia anar a jugar al pati.

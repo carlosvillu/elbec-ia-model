@@ -1,1 +1,2 @@
-[% títol] El PatiEl pati és@o important perquè@o l’infant@o necessita@o jugar una estona per relaxar-se@o. El@o pati és@o per jugar com al pilla@o pilla@o@s o l’escondite@s, és@o molt divertit perquè@o estàs@o amb@o els teus amics, adéu@o!
+[% t√≠tol] El Pati
+El pati √©s@o important perqu√®@o l'infant@o necessita@o jugar una estona per relaxar-se@o. El@o pati √©s@o per jugar com al pilla@o pilla@o@s o l'escondite@s, √©s@o molt divertit perqu√®@o est√†s@o amb@o els teus amics, ad√©u@o!

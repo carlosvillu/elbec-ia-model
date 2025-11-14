@@ -1,1 +1,8 @@
-Jo crec que necessitem més@o temps de pati perquè@o:[% format llista a l’original]- Perquè@o necessitem un descans.- Perquè@o també@o volem jugar, no tan sol estudiar.- Tenim molt poquet temps de pati volem més.- Perquè@o tinc moltes amigues amb les@o que vull@o jugar.- Perquè@o vull@o jugar.- Perquè@o tinc cosins@o petits i vull@o estar@o amb ells.
+Jo crec que necessitem m√©s@o temps de pati perqu√®@o:
+[% format llista a l'original]
+- Perqu√®@o necessitem un descans.
+- Perqu√®@o tamb√©@o volem jugar, no tan sol estudiar.
+- Tenim molt poquet temps de pati volem m√©s.
+- Perqu√®@o tinc moltes amigues amb les@o que vull@o jugar.
+- Perqu√®@o vull@o jugar.
+- Perqu√®@o tinc cosins@o petits i vull@o estar@o amb ells.

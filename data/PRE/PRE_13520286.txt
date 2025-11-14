@@ -1,1 +1,5 @@
-[% títol] DEPÈN@o DE ELS PARES O MARESHi han pares i mares que volen que tinguem mòbil@o, per si ens passa algo@s poder comunicar-nos amb ells.Però@o al contrari hi han pares i mares que no volen que tinguem mòbil@o. Perquè@o els mòbils@o no són@o bons per el cervell.En la meva opinió@o jo crec que hem de tindre mòbil@o però@o no estar tot el dia amb la pantalla pegada@s.Només@o per comunicar-nos!!! [% signes d’exclamació a l’original]
+[% t√≠tol] DEP√àN@o DE ELS PARES O MARES
+Hi han pares i mares que volen que tinguem m√≤bil@o, per si ens passa algo@s poder comunicar-nos amb ells.
+Per√≤@o al contrari hi han pares i mares que no volen que tinguem m√≤bil@o. Perqu√®@o els m√≤bils@o no s√≥n@o bons per el cervell.
+En la meva opini√≥@o jo crec que hem de tindre m√≤bil@o per√≤@o no estar tot el dia amb la pantalla pegada@s.
+Nom√©s@o per comunicar-nos!!! [% signes d'exclamaci√≥ a l'original]

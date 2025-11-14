@@ -1,1 +1,4 @@
-[% text barrejat en majúscules i minúscules]En primer lloc, NO ANAr A l’escolA NO Pots AprenDre res i quAn@o ets gran NO SAPS res.En segon lloc, la TEVA CARRERA NO APrenDRÀs@o res i NO PODRÀS@o Tenir DINErs. En tercer@o lloc, si NO VAS A l’ESColA De gran NO tinDrÀS@o Amics@o per ajuDAr-TE@o.En conclusió@o, crec que sí@o tens que@s Anar@o a l’escola@o. NO ANAR@o A l’escola NO POTS AprenDre res i QUAN@o ets gran NO SAPS res. La tevA CarrerA, NO Aprendre res i NO poDrÀ@o tenir Diners. Si NO VAS A L’ESCOlA De gran, NO tinDrÀS@o Amics@o Per AjuDAr-te@o.
+[% text barrejat en maj√∫scules i min√∫scules]
+En primer lloc, NO ANAr A l'escolA NO Pots AprenDre res i quAn@o ets gran NO SAPS res.
+En segon lloc, la TEVA CARRERA NO APrenDR√Äs@o res i NO PODR√ÄS@o Tenir DINErs. En tercer@o lloc, si NO VAS A l'ESColA De gran NO tinDr√ÄS@o Amics@o per ajuDAr-TE@o.
+En conclusi√≥@o, crec que s√≠@o tens que@s Anar@o a l'escola@o. NO ANAR@o A l'escola NO POTS AprenDre res i QUAN@o ets gran NO SAPS res. La tevA CarrerA, NO Aprendre res i NO poDr√Ä@o tenir Diners. Si NO VAS A L'ESCOlA De gran, NO tinDr√ÄS@o Amics@o Per AjuDAr-te@o.

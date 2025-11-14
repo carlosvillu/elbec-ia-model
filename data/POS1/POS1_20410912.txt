@@ -1,1 +1,1 @@
-[% text escrit en castellà] 
+[% text escrit en castell√†] 

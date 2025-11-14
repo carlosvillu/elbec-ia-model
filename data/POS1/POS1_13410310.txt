@@ -1,1 +1,6 @@
-[% Títol] Creus que a l’escola ha@o d’haver patiSegons la meva opinió sí@o ha d’haver pati a l’escola.En primer lloc, sí@o hauria d’haver pati a l’escola perquè al pati podem jugar, menjar i fer amics.En segon lloc, si no hi ha pati faríem@o classes. Per exemple, si hi han classes@o ens agoviariem molt.Una altra@o raó és@o que em diverteixo molt. Perquè jugar amb els amics diverteix molt a més a més faig amics.En resum, és bo@o tenir pati per jugar.
+[% T√≠tol] Creus que a l'escola ha@o d'haver pati
+Segons la meva opini√≥ s√≠@o ha d'haver pati a l'escola.
+En primer lloc, s√≠@o hauria d'haver pati a l'escola perqu√® al pati podem jugar, menjar i fer amics.
+En segon lloc, si no hi ha pati far√≠em@o classes. Per exemple, si hi han classes@o ens agoviariem molt.
+Una altra@o ra√≥ √©s@o que em diverteixo molt. Perqu√® jugar amb els amics diverteix molt a m√©s a m√©s faig amics.
+En resum, √©s bo@o tenir pati per jugar.

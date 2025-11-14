@@ -1,1 +1,6 @@
-[% títol en majúscules] CREUS QUE A L’ESCOLA HI HA D’HAVER@o TEMPS DE PATI?La meva opinió és@o que sí@o que hi ha d’haver temps de pati.La primera raó és@o que podem gastar tota l’energia que tenim per després@o a la classe, estar calmats i tranquils.En segon lloc, el pati podem estar a l’aire lliure i podem respirar aire pur, i podem prendre el sol, …Finalment, al pati ens ho passem molt bé jugant. Juguem@o a jocs de córrer@o, fem esport, podem fer tombarelles.En conclusió crec que sí@o que necessitem estones de pati perquè gastem tota l’energia, respirem aire pur i podem jugar a jocs que a la classe no podem. 
+[% t√≠tol en maj√∫scules] CREUS QUE A L'ESCOLA HI HA D'HAVER@o TEMPS DE PATI?
+La meva opini√≥ √©s@o que s√≠@o que hi ha d'haver temps de pati.
+La primera ra√≥ √©s@o que podem gastar tota l'energia que tenim per despr√©s@o a la classe, estar calmats i tranquils.
+En segon lloc, el pati podem estar a l'aire lliure i podem respirar aire pur, i podem prendre el sol, ‚Ä¶
+Finalment, al pati ens ho passem molt b√© jugant. Juguem@o a jocs de c√≥rrer@o, fem esport, podem fer tombarelles.
+En conclusi√≥ crec que s√≠@o que necessitem estones de pati perqu√® gastem tota l'energia, respirem aire pur i podem jugar a jocs que a la classe no podem. 

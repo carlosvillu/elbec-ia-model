@@ -1,1 +1,4 @@
-[% Títol] Creus que a l’escola es necessita temps de pati?El pati és@o l’estona de descans després@o de qualsevol@o classe.Els nens i les nenes necessiten una estona al pati per parlar, jugar, descansar.Jo crec que per lo@o menys els nens i nenes necessiten 30 minuts de pati i com a màxim@o 2 hores.
+[% T√≠tol] Creus que a l'escola es necessita temps de pati?
+El pati √©s@o l'estona de descans despr√©s@o de qualsevol@o classe.
+Els nens i les nenes necessiten una estona al pati per parlar, jugar, descansar.
+Jo crec que per lo@o menys els nens i nenes necessiten 30 minuts de pati i com a m√†xim@o 2 hores.

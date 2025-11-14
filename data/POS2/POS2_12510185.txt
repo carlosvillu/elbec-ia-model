@@ -1,1 +1,6 @@
-[% Títol] CREUS QUE A L’ESCOLA HA D’HAVER PATI?Jo crec que sí@o perquè@o tenim que...1- Perquè@o tenim que descansar perquè@o estaríem@o molt esgotats de treballar.2- Per tindre temps de jugar amb els teus amics o amigues si no tindríem@o pati no tindríem@o temps de jugar.3- No tindríem@o aire d’estar tots a les classes tot el dia.En conclusió, jo crec que hauríem de tenir pati perquè@o si no passaríem@o molta calor tot el dia dins la classe i estaríem molt cansats i estaríem@o tot el dia fent@o mates, centre d’interès@o, feinetes que estaríem@o tots super esgotats.
+[% T√≠tol] CREUS QUE A L'ESCOLA HA D'HAVER PATI?
+Jo crec que s√≠@o perqu√®@o tenim que...
+1- Perqu√®@o tenim que descansar perqu√®@o estar√≠em@o molt esgotats de treballar.
+2- Per tindre temps de jugar amb els teus amics o amigues si no tindr√≠em@o pati no tindr√≠em@o temps de jugar.
+3- No tindr√≠em@o aire d'estar tots a les classes tot el dia.
+En conclusi√≥, jo crec que haur√≠em de tenir pati perqu√®@o si no passar√≠em@o molta calor tot el dia dins la classe i estar√≠em molt cansats i estar√≠em@o tot el dia fent@o mates, centre d'inter√®s@o, feinetes que estar√≠em@o tots super esgotats.

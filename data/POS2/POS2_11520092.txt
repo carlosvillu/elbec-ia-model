@@ -1,1 +1,7 @@
-[% títol] Creus que els nens i nenes de la teva edat han@o de tenir mòbil?Crec que pot ser que n i que si, depèn@o.[% format llista a l’original, seguint l’estratègia CREC]Raó@o 1: Potser que els seus pares no li deixen tenir mòbil. Perquè@o el nen pot que trenqui el seu mòbil a l’instant@o, però@o si el nen cuida les seves coses.Raó 2: Pot ser que els seus pares no tenen suficients diners, perquè@o han@o gastat el diners per una cosa important@o.Raó 3: Pot ser que no hi ha en la tenda de mòbils. S’han venut tots els mòbils@o.En conclusió@o, els nens pot ser que [% acaba aquí]
+[% t√≠tol] Creus que els nens i nenes de la teva edat han@o de tenir m√≤bil?
+Crec que pot ser que n i que si, dep√®n@o.
+[% format llista a l'original, seguint l'estrat√®gia CREC]
+Ra√≥@o 1: Potser que els seus pares no li deixen tenir m√≤bil. Perqu√®@o el nen pot que trenqui el seu m√≤bil a l'instant@o, per√≤@o si el nen cuida les seves coses.
+Ra√≥ 2: Pot ser que els seus pares no tenen suficients diners, perqu√®@o han@o gastat el diners per una cosa important@o.
+Ra√≥ 3: Pot ser que no hi ha en la tenda de m√≤bils. S'han venut tots els m√≤bils@o.
+En conclusi√≥@o, els nens pot ser que [% acaba aqu√≠]

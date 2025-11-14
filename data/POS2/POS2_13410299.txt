@@ -1,1 +1,6 @@
-[% Títol] CREUS QUE ELS NENS I NENES HAN D’ANAR A L’ESCOLA?Segons el que penso, no estic d’acord del tot.Per començar, els nens/es la major part de la seva vida coneixen noves persones a l’escola degut a que hi ha centens i centens de nens/es.Una raó també és que els nens i nenes estan molt temps a l’escola ja que entre examen i deures els dos dies de vances que tenen ja no hi serveixen per temps lliure.Una última raó és que a l’escola estudien i aprenen coses noves, però@o estar tancat en una@o aula no és molt còmode@o.Per tancar, no, no crec que sigui bo del tot, però té alguns aprenentatges...
+[% T√≠tol] CREUS QUE ELS NENS I NENES HAN D'ANAR A L'ESCOLA?
+Segons el que penso, no estic d'acord del tot.
+Per comen√ßar, els nens/es la major part de la seva vida coneixen noves persones a l'escola degut a que hi ha centens i centens de nens/es.
+Una ra√≥ tamb√© √©s que els nens i nenes estan molt temps a l'escola ja que entre examen i deures els dos dies de vances que tenen ja no hi serveixen per temps lliure.
+Una √∫ltima ra√≥ √©s que a l'escola estudien i aprenen coses noves, per√≤@o estar tancat en una@o aula no √©s molt c√≤mode@o.
+Per tancar, no, no crec que sigui bo del tot, per√≤ t√© alguns aprenentatges...

@@ -1,3 +1,15 @@
-[% títol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN DE TENIR MÒBIL@o?
-[% format llista a l’original]
-Jo crec que no:- És bastant car.	o Perquè si nosaltres tenim un mòbil, els pares/mares etc… tenen que@s gastar més diners 	per potser una cosa innecessària@o depèn@o del cas.- No és bo per els teus ulls.	o Perquè si estàs@o molt amb el mòbil des de tan petit els teus ulls es cansen@o més 		ràpid per les pantalles, i a mesura que siguis més gran els teus ulls es cansaran encara 	més.- Pots tenir un rellotge@o tan eficient@o com el mòbil.	o Hi ha rellotges@o que poden ser bàsicament@o un mòbil més petit, i t’ajuda igual, 		perquè és econòmic@o, és més pràctic@o, etc…En conclusió, no seria tan bo tenir un mòbil a la nostra@o edat per l’economia, pel bé dels teus ulls i, si tenim l’opcio@o d’un rellotge@o que és un mòbil més petit, millor.
+[% t√≠tol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN DE TENIR M√íBIL@o?
+
+[% format llista a l'original]
+
+Jo crec que no:
+- √âs bastant car.
+	o Perqu√® si nosaltres tenim un m√≤bil, els pares/mares etc‚Ä¶ tenen que@s gastar m√©s diners 	per potser una cosa innecess√†ria@o dep√®n@o del cas.
+
+- No √©s bo per els teus ulls.
+	o Perqu√® si est√†s@o molt amb el m√≤bil des de tan petit els teus ulls es cansen@o m√©s 		r√†pid per les pantalles, i a mesura que siguis m√©s gran els teus ulls es cansaran encara 	m√©s.
+
+- Pots tenir un rellotge@o tan eficient@o com el m√≤bil.
+	o Hi ha rellotges@o que poden ser b√†sicament@o un m√≤bil m√©s petit, i t'ajuda igual, 		perqu√® √©s econ√≤mic@o, √©s m√©s pr√†ctic@o, etc‚Ä¶
+
+En conclusi√≥, no seria tan bo tenir un m√≤bil a la nostra@o edat per l'economia, pel b√© dels teus ulls i, si tenim l'opcio@o d'un rellotge@o que √©s un m√≤bil m√©s petit, millor.

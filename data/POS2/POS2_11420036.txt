@@ -1,1 +1,6 @@
-Jo crec que sí@o perquè@o.[% forma llista a l’original seguint l’estratègia CREC]Raó@o 1: Jo crec que sí@o, perquè@o així@o els nens i les nenes són@o més@o independents@o perquè@o poden mirar l’hora@o el temps, ho poden utilitzar també@o si van sols poden trucar@o als seus pares.Raó@o 2: jo crec que sí@o, perquè@o poden fer alguns jocs que t’ensenyi coses noves, així@o aprens coses i a la forma divertida@o.Raó@o 3: jo crec que sí@o, perquè@o pots tenir una alarma al mòbil@o quan hagi@o passat una estona amb el mòbil@o i, després@o, també@o pot estar amb la família@o.En resum: jo crec que sí@o, perquè@o poden ser més independents@o i poden estar una estona amb el mòbil@o, uns dies a la setmana i per tot això@o jo crec que sí@o.
+Jo crec que s√≠@o perqu√®@o.
+[% forma llista a l'original seguint l'estrat√®gia CREC]
+Ra√≥@o 1: Jo crec que s√≠@o, perqu√®@o aix√≠@o els nens i les nenes s√≥n@o m√©s@o independents@o perqu√®@o poden mirar l'hora@o el temps, ho poden utilitzar tamb√©@o si van sols poden trucar@o als seus pares.
+Ra√≥@o 2: jo crec que s√≠@o, perqu√®@o poden fer alguns jocs que t'ensenyi coses noves, aix√≠@o aprens coses i a la forma divertida@o.
+Ra√≥@o 3: jo crec que s√≠@o, perqu√®@o pots tenir una alarma al m√≤bil@o quan hagi@o passat una estona amb el m√≤bil@o i, despr√©s@o, tamb√©@o pot estar amb la fam√≠lia@o.
+En resum: jo crec que s√≠@o, perqu√®@o poden ser m√©s independents@o i poden estar una estona amb el m√≤bil@o, uns dies a la setmana i per tot aix√≤@o jo crec que s√≠@o.

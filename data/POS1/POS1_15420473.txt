@@ -1,1 +1,3 @@
-[% tot el text en majúscules][% títol] CREUS QUE ELS NENS I NENES DE LA TEVA@o EDAT HAN DE TENIR MÒBIL@o? NO, PERQUÈ@o NO HAN@o DE TENIR MÒBIL@o, PERQUÈ@o ES@o MALO@s TENER@s TANTA@o PANTALLA@o
+[% tot el text en maj√∫scules]
+[% t√≠tol] CREUS QUE ELS NENS I NENES DE LA TEVA@o EDAT HAN DE TENIR M√íBIL@o? 
+NO, PERQU√à@o NO HAN@o DE TENIR M√íBIL@o, PERQU√à@o ES@o MALO@s TENER@s TANTA@o PANTALLA@o

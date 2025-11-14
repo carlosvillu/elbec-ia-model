@@ -1,1 +1,5 @@
-[% Títol] CREUS QUE LES PERSONES DE LA TEVA EDAT HAN D’ANAR A L’ESCOLA?Jo crec que no i també crec que sí@o.[% Separa les raons esquemàticament]==> Sí@o, perquè@o necessiten@o saber coses que no saben i coses que volen@o saber i necessiten@o aprendre per quan@o siguin grans per seguir la seva@o passió@o de treball@o que volen@o.==> No, perquè@o els nens i nenes@o tenen la llibertat de no anar a l’escola si no volen@o perquè@o no els poden obligar@o a anar al cole.
+[% T√≠tol] CREUS QUE LES PERSONES DE LA TEVA EDAT HAN D'ANAR A L'ESCOLA?
+Jo crec que no i tamb√© crec que s√≠@o.
+[% Separa les raons esquem√†ticament]
+==> S√≠@o, perqu√®@o necessiten@o saber coses que no saben i coses que volen@o saber i necessiten@o aprendre per quan@o siguin grans per seguir la seva@o passi√≥@o de treball@o que volen@o.
+==> No, perqu√®@o els nens i nenes@o tenen la llibertat de no anar a l'escola si no volen@o perqu√®@o no els poden obligar@o a anar al cole.

@@ -1,1 +1,2 @@
-[% Títol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN DE TENIR MÒBIL@o?Jo penso que no, perquè@o sinó@o estarien tot al dia amb la pantalla i no als pares o mares. Jo crec que sí@o, perquè@o si es perdes als podria@o trucar@o. Jo crec que sí@o, perquè@o si s’avorreixen@o tenen els amics per jugar, així@o no s’avorreix@o.
+[% T√≠tol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN DE TENIR M√íBIL@o?
+Jo penso que no, perqu√®@o sin√≥@o estarien tot al dia amb la pantalla i no als pares o mares. Jo crec que s√≠@o, perqu√®@o si es perdes als podria@o trucar@o. Jo crec que s√≠@o, perqu√®@o si s'avorreixen@o tenen els amics per jugar, aix√≠@o no s'avorreix@o.

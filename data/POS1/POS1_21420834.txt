@@ -1,1 +1,2 @@
-[% t’tol] Creus que els nens i les@o nenes de la teva edat@o han@o dÕanar a lÕescola?S’@o, perqu@o tenen que@s aprenen i tamb@o fer@o amics, a continuaci—@o poden@o aprendre@o a llegir. Poden tamb@o ser molt inteláligents@o en les@o matemˆtiques@o. Poden aprendre@o llengua catalana, Espanyola i moltes altres llengŸes@o.
+[% tÃ­tol] Creus que els nens i les@o nenes de la teva edat@o han@o d'anar a l'escola?
+SÃ­@o, perquÃ¨@o tenen que@s aprenen i tambÃ©@o fer@o amics, a continuaciÃ³@o poden@o aprendre@o a llegir. Poden tambÃ©@o ser molt intelÂ·ligents@o en les@o matemÃ tiques@o. Poden aprendre@o llengua catalana, Espanyola i moltes altres llengÃ¼es@o.

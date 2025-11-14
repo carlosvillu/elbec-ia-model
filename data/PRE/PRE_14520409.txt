@@ -1,1 +1,3 @@
-[% títol] CREUS QUE A L’ESCOLA ES NECESSITA@o TEMPS@o DE PATI? Jo crec que l’hora@o del pari sí@o ha d’estar. L’hora@o del pati està@o bé@o per els nens es poden distreure@o i jugar.Però@o tindran de deixar més@o temps@o dels esports no cal. Així@o els nens petits tenen més@o espai per a jugar. El pati és@o gran i va bé@o per a jugar. Sí@o que cal pati per distreure’s@o.
+[% t√≠tol] CREUS QUE A L'ESCOLA ES NECESSITA@o TEMPS@o DE PATI?
+ Jo crec que l'hora@o del pari s√≠@o ha d'estar. L'hora@o del pati est√†@o b√©@o per els nens es poden distreure@o i jugar.
+Per√≤@o tindran de deixar m√©s@o temps@o dels esports no cal. Aix√≠@o els nens petits tenen m√©s@o espai per a jugar. El pati √©s@o gran i va b√©@o per a jugar. S√≠@o que cal pati per distreure's@o.

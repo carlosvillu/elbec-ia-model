@@ -1,1 +1,6 @@
-[% Títol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN DE TENIR MÒBIL?Jo crec que els nens i nenes de la meva edat no han de tindre mòbil.La primera raó és@o que hi ha info falsa. La info falsa pot fer que pensem coses i no són@o correctes.La segona raó és que estem enganxats@o als mòbils@o. Si ens enganxem@o, a l’hora de dormir ens costa més i fa que el dia següent@o no estiguem tan atents!La tercera raó és@o que surten coses inadequades@o. Si hi han coses inadequades@o podem tindre problemes@o i pensar coses rares. També@o surten coses que després@o tenim malsons!En conclusió@o, hi ha info falsa, estem enganxats@o i que hi ha coses inadequades@o, són@o les meves 3 raons@o!
+[% T√≠tol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN DE TENIR M√íBIL?
+Jo crec que els nens i nenes de la meva edat no han de tindre m√≤bil.
+La primera ra√≥ √©s@o que hi ha info falsa. La info falsa pot fer que pensem coses i no s√≥n@o correctes.
+La segona ra√≥ √©s que estem enganxats@o als m√≤bils@o. Si ens enganxem@o, a l'hora de dormir ens costa m√©s i fa que el dia seg√ºent@o no estiguem tan atents!
+La tercera ra√≥ √©s@o que surten coses inadequades@o. Si hi han coses inadequades@o podem tindre problemes@o i pensar coses rares. Tamb√©@o surten coses que despr√©s@o tenim malsons!
+En conclusi√≥@o, hi ha info falsa, estem enganxats@o i que hi ha coses inadequades@o, s√≥n@o les meves 3 raons@o!

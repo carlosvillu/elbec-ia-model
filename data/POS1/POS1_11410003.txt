@@ -1,1 +1,3 @@
-[% Títol] Creus Que Els nens i nenes De la Teva Edat Han D’anar a l’escola?Sí Han d’anar a l’escola perquè@o si no no poden aprendre@o, i si no Aprenen@o no Poden Corregir@o les Faltes d’ortografia@o.I si no saben no poden fer un text ben@o fet@o i menys els de la nostra edat perquè@o nosaltres ja hauríem@o de saber corregir@o les Faltes.
+[% T√≠tol] Creus Que Els nens i nenes De la Teva Edat Han D'anar a l'escola?
+S√≠ Han d'anar a l'escola perqu√®@o si no no poden aprendre@o, i si no Aprenen@o no Poden Corregir@o les Faltes d'ortografia@o.
+I si no saben no poden fer un text ben@o fet@o i menys els de la nostra edat perqu√®@o nosaltres ja haur√≠em@o de saber corregir@o les Faltes.

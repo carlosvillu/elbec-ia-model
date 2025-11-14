@@ -1,1 +1,3 @@
-[% Títol] Creus que les persones de la teva edat han d’anar a l’escola.Sí@o, perquè han d’aprendre perquè quan siguin grans puguin treballar i guanyar diners. Si tu no saps@o moltes coses de gran no podràs escollir el treball que t’agradi i a lo millor et donen un treball en el que cobres molt pocs diners i cansa molt.El teu futur depèn@o de si quan ets petit estudies i tries bones notes.
+[% T√≠tol] Creus que les persones de la teva edat han d'anar a l'escola.
+S√≠@o, perqu√® han d'aprendre perqu√® quan siguin grans puguin treballar i guanyar diners. Si tu no saps@o moltes coses de gran no podr√†s escollir el treball que t'agradi i a lo millor et donen un treball en el que cobres molt pocs diners i cansa molt.
+El teu futur dep√®n@o de si quan ets petit estudies i tries bones notes.

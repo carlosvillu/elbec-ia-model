@@ -1,1 +1,10 @@
-[% guions i signes d’exclamació fidels a l’original][% títol] L’entrevista:- Creus que les persones de 10 i 11 anys han de tenir mòbil, [% nom censurat per protecció de dades]?- Jo crec que no.- Per què no?- Perquè@o els nens i nenes d’aquesta edat encara no tenen la ment preparada per tenir un mòbil, a més d’això poden diure a la gent desconeguda on viuen, el seu telèfon@o i les seves dades. I per això crec que no han de tenir mòbil.- Tu als deu anys vas tenir mòbil?- No, no vaig tenir mòbil però un amic meu sí. I li va passar el que us he dit.- Moltes gràcies, Marc!!- Gràcies@o a tu també@o i adeu!!!- Adeu!
+[% guions i signes d'exclamaci√≥ fidels a l'original][% t√≠tol] L'entrevista:
+- Creus que les persones de 10 i 11 anys han de tenir m√≤bil, [% nom censurat per protecci√≥ de dades]?
+- Jo crec que no.
+- Per qu√® no?
+- Perqu√®@o els nens i nenes d'aquesta edat encara no tenen la ment preparada per tenir un m√≤bil, a m√©s d'aix√≤ poden diure a la gent desconeguda on viuen, el seu tel√®fon@o i les seves dades. I per aix√≤ crec que no han de tenir m√≤bil.
+- Tu als deu anys vas tenir m√≤bil?
+- No, no vaig tenir m√≤bil per√≤ un amic meu s√≠. I li va passar el que us he dit.
+- Moltes gr√†cies, Marc!!
+- Gr√†cies@o a tu tamb√©@o i adeu!!!
+- Adeu!

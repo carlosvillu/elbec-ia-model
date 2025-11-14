@@ -1,1 +1,8 @@
-[% títol] Creus que els nens i nenes de la teva edat@o han de tenir mòbil?Jo crec que els nens de la meva edat@o no han de tenir mòbil.La primera raó, és que el mòbil és dolent pels ulls, perquè és una pantalla i les pantalles es fan massa@o llum.Una altra@o raó, és que t’enganxes molt ràpid i no fas res més.Perquè tens moltes coses per mirar al mòbil i sense ell no penses què@o pots fer.L’última@o raó, és que sense el mòbil t’ho@o passes molt millor.Perquè pots fer moltes coses més.En conclusió, els nens de la meva edat@o no han de tenir mòbil@o perquè és dolent pels ulls i t’enganxes molt ràpid a ell.
+[% t√≠tol] Creus que els nens i nenes de la teva edat@o han de tenir m√≤bil?
+Jo crec que els nens de la meva edat@o no han de tenir m√≤bil.
+La primera ra√≥, √©s que el m√≤bil √©s dolent pels ulls, perqu√® √©s una pantalla i les pantalles es fan massa@o llum.
+Una altra@o ra√≥, √©s que t'enganxes molt r√†pid i no fas res m√©s.
+Perqu√® tens moltes coses per mirar al m√≤bil i sense ell no penses qu√®@o pots fer.
+L'√∫ltima@o ra√≥, √©s que sense el m√≤bil t'ho@o passes molt millor.
+Perqu√® pots fer moltes coses m√©s.
+En conclusi√≥, els nens de la meva edat@o no han de tenir m√≤bil@o perqu√® √©s dolent pels ulls i t'enganxes molt r√†pid a ell.

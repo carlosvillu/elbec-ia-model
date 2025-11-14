@@ -1,1 +1,6 @@
-[% Títol] Creus que a l’escola hi ha d’haver temps per el pati?Jo crec que sí@o hi ha d’haver temps per el pati.Una raó necessitem@o anar al pati perquè@o estar tancats a una aula agobia una mica de vegades.Una segona raó@o necessitem@o jugar perquè@o tenim que utilitzar la imaginació per sobreviure@o i divertir-nos@o.Una tercera raó necessitem@o desconnectar@o de la classe perquè@o la imaginació@o, jugar és part de ser nens i nenes.En conclusió@o, jo crec que si estem molt de temps a l’aula és asfixiant@o i jugar necessitem@o per sobreviure@o i divertir-nos i per últim@o jugar és@o el@o més@o important de ser nens i nenes.
+[% T√≠tol] Creus que a l'escola hi ha d'haver temps per el pati?
+Jo crec que s√≠@o hi ha d'haver temps per el pati.
+Una ra√≥ necessitem@o anar al pati perqu√®@o estar tancats a una aula agobia una mica de vegades.
+Una segona ra√≥@o necessitem@o jugar perqu√®@o tenim que utilitzar la imaginaci√≥ per sobreviure@o i divertir-nos@o.
+Una tercera ra√≥ necessitem@o desconnectar@o de la classe perqu√®@o la imaginaci√≥@o, jugar √©s part de ser nens i nenes.
+En conclusi√≥@o, jo crec que si estem molt de temps a l'aula √©s asfixiant@o i jugar necessitem@o per sobreviure@o i divertir-nos i per √∫ltim@o jugar √©s@o el@o m√©s@o important de ser nens i nenes.

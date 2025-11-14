@@ -1,1 +1,2 @@
-[% títol] PATIJo crec que el temps de pati a l’escola és necessari per descansar, per estar a l’aire lliure, també per desfogar-nos i divertir-nos, pensar, estudiar i fer esport.
+[% t√≠tol] PATI
+Jo crec que el temps de pati a l'escola √©s necessari per descansar, per estar a l'aire lliure, tamb√© per desfogar-nos i divertir-nos, pensar, estudiar i fer esport.

@@ -1,1 +1,5 @@
-[% Títol] CREUS QUE A L’ESCOLA HA D’HAVER PATIJo crec que sí@o tindríem@o de tenir pati.La primera raó és que no tindriem@o espai per jugar@o. Per exemple, el pati és més divertit perquè@o té coses@o per exemple coses d’aguantar l’equilibri. Una altra@o raó és que a més a més seria més divertit. També una altra@o explicació al pati pots córrer més perquè@o tens més espai.L’última@o raó és que el pati és més gran el pati [% repetició a l’original]. Per exemple és que la classe no és tan divertida com el pati i també és més gran.En conclusió@o, és molt divertit, gran, per molts nens i nenes@o de l’escola. 
+[% T√≠tol] CREUS QUE A L'ESCOLA HA D'HAVER PATI
+Jo crec que s√≠@o tindr√≠em@o de tenir pati.
+La primera ra√≥ √©s que no tindriem@o espai per jugar@o. Per exemple, el pati √©s m√©s divertit perqu√®@o t√© coses@o per exemple coses d'aguantar l'equilibri. Una altra@o ra√≥ √©s que a m√©s a m√©s seria m√©s divertit. Tamb√© una altra@o explicaci√≥ al pati pots c√≥rrer m√©s perqu√®@o tens m√©s espai.
+L'√∫ltima@o ra√≥ √©s que el pati √©s m√©s gran el pati [% repetici√≥ a l'original]. Per exemple √©s que la classe no √©s tan divertida com el pati i tamb√© √©s m√©s gran.
+En conclusi√≥@o, √©s molt divertit, gran, per molts nens i nenes@o de l'escola. 

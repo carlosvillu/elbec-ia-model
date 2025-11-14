@@ -1,1 +1,2 @@
-[% títol] Creus que els nens i nenes de la teva edat han d’anar a l’escola?Jo crec que sí@o, perquè@o tenen que@s aprendre@o molts@o idiomes@o, llegir, escriure@o, per si vas a un país@o perquè@o si no parles@o amb@o el seu idioma@o no t’endendran res de lo@o que parles. Així@o pots@o parlar bé, si parles amb@o el seu idioma! Sinó@o no aprenem res de l’escola.
+[% t√≠tol] Creus que els nens i nenes de la teva edat han d'anar a l'escola?
+Jo crec que s√≠@o, perqu√®@o tenen que@s aprendre@o molts@o idiomes@o, llegir, escriure@o, per si vas a un pa√≠s@o perqu√®@o si no parles@o amb@o el seu idioma@o no t'endendran res de lo@o que parles. Aix√≠@o pots@o parlar b√©, si parles amb@o el seu idioma! Sin√≥@o no aprenem res de l'escola.

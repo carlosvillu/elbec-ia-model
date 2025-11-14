@@ -1,1 +1,5 @@
-[% Títol] Creus que les persones de la teva edat han d’anar a l’escola?Jo crec que la decisió@o de les persones que van a l’escola o estudien a casa és@o per com són aquelles persones i per els pares.La majoria de persones van a l’escola (o han anat) però@o hi ha persones que per exemple estudien a casa.Hi ha molta gent que pensa que les persones que aprenen des de casa saben menys però@o en realitat hi ha@o molts casos que estudien més@o perquè@o no saben què@o estem fent a l’escola. Però també el fet de no anar a l’escola els pot fer que tinguin menys amics i els costi socialitzar.Haver@o d’anar a l’escola no ha d’anar tothom però estudiar i aprendre@o sí@o.
+[% T√≠tol] Creus que les persones de la teva edat han d'anar a l'escola?
+Jo crec que la decisi√≥@o de les persones que van a l'escola o estudien a casa √©s@o per com s√≥n aquelles persones i per els pares.
+La majoria de persones van a l'escola (o han anat) per√≤@o hi ha persones que per exemple estudien a casa.
+Hi ha molta gent que pensa que les persones que aprenen des de casa saben menys per√≤@o en realitat hi ha@o molts casos que estudien m√©s@o perqu√®@o no saben qu√®@o estem fent a l'escola. Per√≤ tamb√© el fet de no anar a l'escola els pot fer que tinguin menys amics i els costi socialitzar.
+Haver@o d'anar a l'escola no ha d'anar tothom per√≤ estudiar i aprendre@o s√≠@o.

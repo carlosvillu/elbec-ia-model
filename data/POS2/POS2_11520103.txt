@@ -1,1 +1,11 @@
-[% títol] CREUS QUE ELS NENS NENES DE LA TEVA EDAT HAN DE TENIR MÒBIL?Jo, penso que els nens i nenes de la meva edat no han de tenir mòbil.Una raó és que som molt petits per viure depenent de qunis contenits. Perquè si ens agrada volem copiar-lo, això provoca que de grans volguem més aparells i estiguem més enganxats.Un altre raó és que ens tornem addictes@o, sobretot en xarxes socials. Això fa que estiguem moltes hores amb l’aparell i agafem més sovint: mals de cap, problemes en la vista …Els aparells també poden intervindre en la nostra vida i fer que no siguem tan@o socials, tindre que@s anar al matge per alguna cosa relacionada…Una última raó és que si som molt petits no controlem el que fem a l’hora d’utilitzar-lo. Això significa que: podem entrar en pàgines equiovcades, no vigilar amb les teves dades …En conclusió, jo penso que els nens i nenes de la meva edat no han de tenir mòbil perquè no som poru grans per controlar el que fem amb el mòbil.
+[% t√≠tol] CREUS QUE ELS NENS NENES DE LA TEVA EDAT HAN DE TENIR M√íBIL?
+Jo, penso que els nens i nenes de la meva edat no han de tenir m√≤bil.
+
+Una ra√≥ √©s que som molt petits per viure depenent de qunis contenits. 
+Perqu√® si ens agrada volem copiar-lo, aix√≤ provoca que de grans volguem m√©s aparells i estiguem m√©s enganxats.
+Un altre ra√≥ √©s que ens tornem addictes@o, sobretot en xarxes socials. 
+Aix√≤ fa que estiguem moltes hores amb l'aparell i agafem m√©s sovint: mals de cap, problemes en la vista ‚Ä¶
+Els aparells tamb√© poden intervindre en la nostra vida i fer que no siguem tan@o socials, tindre que@s anar al matge per alguna cosa relacionada‚Ä¶
+Una √∫ltima ra√≥ √©s que si som molt petits no controlem el que fem a l'hora d'utilitzar-lo. 
+Aix√≤ significa que: podem entrar en p√†gines equiovcades, no vigilar amb les teves dades ‚Ä¶
+En conclusi√≥, jo penso que els nens i nenes de la meva edat no han de tenir m√≤bil perqu√® no som poru grans per controlar el que fem amb el m√≤bil.

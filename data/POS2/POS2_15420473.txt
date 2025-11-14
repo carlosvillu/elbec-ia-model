@@ -1,1 +1,6 @@
-[% text en majúscules]SÍ@o PERQUÈ@o JUGUEN@o ELS NEN I NENES@oPERQUÈ@o EL PATI HI@o HA@o L’ESCOLAPERQUÈ@o ELS NEN JUGUEN@o AMB@o NENES@oI ELS PATI SÓN@o DIVERTIDA 
+[% text en maj√∫scules]
+S√ç@o PERQU√à@o JUGUEN@o ELS NEN I NENES@o
+PERQU√à@o EL PATI HI@o HA@o L'ESCOLA
+PERQU√à@o ELS NEN JUGUEN@o AMB@o NENES@o
+I ELS PATI S√ìN@o DIVERTIDA 
+

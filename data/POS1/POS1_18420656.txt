@@ -1,1 +1,7 @@
-[% títol] Creus que els nens i nenes han d’anar a l’escola?Jo crec que sí, perquè@o els nens i nenes tenen que@s aprendre coses i per això@o existeixen escoles para@s que aprenguin@o.També@o tenen que@s anar a l’escola perquè@o així@o aprenden@s per quan@o siguin grans tenir una professió@o i anar a la universitat@o.Però@o també@o anar a l’escola et servirà@o per tota la vida quan@o et sigui necessari@o.També@o és@o una responsabilitat@o per els nens i nenes.També@o anar a l’escola t’ajudarà@o amb el que et costi. I per això@o crec que els nens i les nenes tenen que@s anar a l’escola.
+[% t√≠tol] Creus que els nens i nenes han d'anar a l'escola?
+Jo crec que s√≠, perqu√®@o els nens i nenes tenen que@s aprendre coses i per aix√≤@o existeixen escoles para@s que aprenguin@o.
+Tamb√©@o tenen que@s anar a l'escola perqu√®@o aix√≠@o aprenden@s per quan@o siguin grans tenir una professi√≥@o i anar a la universitat@o.
+Per√≤@o tamb√©@o anar a l'escola et servir√†@o per tota la vida quan@o et sigui necessari@o.
+Tamb√©@o √©s@o una responsabilitat@o per els nens i nenes.
+Tamb√©@o anar a l'escola t'ajudar√†@o amb el que et costi. 
+I per aix√≤@o crec que els nens i les nenes tenen que@s anar a l'escola.

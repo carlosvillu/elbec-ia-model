@@ -1,1 +1,6 @@
-[% Títol] Creus que els nens i nenes han d’anar a l’escola[% indica amb una R o una E cada raó i explicació](R)La primera raó és@o que jo penso que els nens i nenes han d’anar a l’escola perquè@o si els nens i nenes estan@o a casa i estaràs@o avorrit (E) perquè@o estaràs a casa.(R)2 La segona raó@o és@o que els nens i nenes han d’aprendre@o les coses. Perquè així@o es pots aprendre@o més@o.(3R) La tercera@o raó@o és@o que els nens i nenes han de millorar les coses. Perquè així@o es pots millorar més@o.En conclusió, jo crec que és un bon idea perquè@o els nens nens han d’aprendre@o les coses i també han millorar@o les coses.
+[% T√≠tol] Creus que els nens i nenes han d'anar a l'escola
+[% indica amb una R o una E cada ra√≥ i explicaci√≥]
+(R)La primera ra√≥ √©s@o que jo penso que els nens i nenes han d'anar a l'escola perqu√®@o si els nens i nenes estan@o a casa i estar√†s@o avorrit (E) perqu√®@o estar√†s a casa.
+(R)2 La segona ra√≥@o √©s@o que els nens i nenes han d'aprendre@o les coses. Perqu√® aix√≠@o es pots aprendre@o m√©s@o.
+(3R) La tercera@o ra√≥@o √©s@o que els nens i nenes han de millorar les coses. Perqu√® aix√≠@o es pots millorar m√©s@o.
+En conclusi√≥, jo crec que √©s un bon idea perqu√®@o els nens nens han d'aprendre@o les coses i tamb√© han millorar@o les coses.

@@ -1,1 +1,3 @@
-[% Títol] LA MEVA OPINIÓ@o DE L’HORA DEL PATIJo opino que els infants@o de les escoles han de tenir hora del pati. Crec que és@o important@o perquè descansen@o d’estudiar 30 minuts, poden parlar amb companys/es d’altres classes, poden córrer@o, poden parlar de quedar algun dia i fer una festa.També@o estic molt poc en contra@o perquè@o després@o els nens no es concentren tant@o perquè@o estan esverats@o.
+[% T√≠tol] LA MEVA OPINI√ì@o DE L'HORA DEL PATI
+Jo opino que els infants@o de les escoles han de tenir hora del pati. Crec que √©s@o important@o perqu√® descansen@o d'estudiar 30 minuts, poden parlar amb companys/es d'altres classes, poden c√≥rrer@o, poden parlar de quedar algun dia i fer una festa.
+Tamb√©@o estic molt poc en contra@o perqu√®@o despr√©s@o els nens no es concentren tant@o perqu√®@o estan esverats@o.

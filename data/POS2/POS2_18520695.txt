@@ -1,1 +1,7 @@
-[% títol en majúscules] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN DE TENIR MÒBIL?En primer lloc, jo crec que en algunes vegades sí@o i en altres no.La primera raó és@o que no podrien necessitar@o per trucar, ja que no podrien necessitar@o per alguna emergència@o.A continuació, la segona raó és@o que podrien passar tot el dia amb el seu telèfon/mòbil, però@o també necessiten@o temps per altres coses.També si tens mòbil, podries estar en perill, perquè@o poden parlar amb persones desconegudes on poden fer altra@o cosa perillosa.En tancament, sí@o podrien tenir telèfon@o però@o no fer un ús@o de cada dia, sinó@o de 2-3 hores, i per altra@o part ho podrien tindre per algun cas d’emergència@o. 
+[% t√≠tol en maj√∫scules] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN DE TENIR M√íBIL?
+En primer lloc, jo crec que en algunes vegades s√≠@o i en altres no.
+La primera ra√≥ √©s@o que no podrien necessitar@o per trucar, ja que no podrien necessitar@o per alguna emerg√®ncia@o.
+A continuaci√≥, la segona ra√≥ √©s@o que podrien passar tot el dia amb el seu tel√®fon/m√≤bil, per√≤@o tamb√© necessiten@o temps per altres coses.
+Tamb√© si tens m√≤bil, podries estar en perill, perqu√®@o poden parlar amb persones desconegudes on poden fer altra@o cosa perillosa.
+En tancament, s√≠@o podrien tenir tel√®fon@o per√≤@o no fer un √∫s@o de cada dia, sin√≥@o de 2-3 hores, i per altra@o part ho podrien tindre per algun cas d'emerg√®ncia@o. 
+

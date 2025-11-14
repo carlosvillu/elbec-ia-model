@@ -1,1 +1,6 @@
-[% títol] Creus que a l’escola ha d’haver@o patiJo crec que sí@o, perquè@o si no tenim pati potser estem molt esverats@o.La meva primera raó és@o que si no sortim al pati, estaríem@o molt avorrits@o. Si no sortim al pati al final ens avorrim@o molt.La meva segona raó és@o que si no sortim al pati estarem molt esverats@o amb ganes de jugar. Si no sortim al pati al final estarem amb ganes de jugar i esverats@o. [% repetició de la frase a l’original]La meva última@o raó és@o que tindríem@o que sortir al pati perquè@o si tot està@o tancat tindrem molta@o calor@o. Si tot està@o tancat tindrem molta calor@o. [% repetició de frase a l’original]En conclusió@o, crec que sí@o que tindríem@o que@s anar al pati.
+[% t√≠tol] Creus que a l'escola ha d'haver@o pati
+Jo crec que s√≠@o, perqu√®@o si no tenim pati potser estem molt esverats@o.
+La meva primera ra√≥ √©s@o que si no sortim al pati, estar√≠em@o molt avorrits@o. Si no sortim al pati al final ens avorrim@o molt.
+La meva segona ra√≥ √©s@o que si no sortim al pati estarem molt esverats@o amb ganes de jugar. Si no sortim al pati al final estarem amb ganes de jugar i esverats@o. [% repetici√≥ de la frase a l'original]
+La meva √∫ltima@o ra√≥ √©s@o que tindr√≠em@o que sortir al pati perqu√®@o si tot est√†@o tancat tindrem molta@o calor@o. Si tot est√†@o tancat tindrem molta calor@o. [% repetici√≥ de frase a l'original]
+En conclusi√≥@o, crec que s√≠@o que tindr√≠em@o que@s anar al pati.

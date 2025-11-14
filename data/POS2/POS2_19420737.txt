@@ -1,1 +1,6 @@
-[% títol] CREUS QUE A L’ESCOLA D’HAVER PATIJo crec que a l’escola ha@o d’haver-hi@o pati.Una raó@o és@o que els nens tanta estona tancats es poden agobiar@s, per exemple@o amb la calor o xxx.La segona raó@o és@o que al pati pots jugar i passar-t’ho@o molt bé@o, en canvi@o si estàs@o tancat a la classe@o t’avorreixes@o molt.L’última@o raó@o és@o que al final si no t’ho@o passes bé@o, al final no hi@o voldràs@o anar però@o hi@o hauràs@o d’anar i et farà@o mandra.En conclusió@o, en l’escola ha@o d’haver-hi@o pati perquè@o t’agobies tanta estona a la classe@o, al pati t’ho@o passes bé@o, al pati i al final sinó@o t’avorreixes@o i no vols@o anar.
+[% t√≠tol] CREUS QUE A L'ESCOLA D'HAVER PATI
+Jo crec que a l'escola ha@o d'haver-hi@o pati.
+Una ra√≥@o √©s@o que els nens tanta estona tancats es poden agobiar@s, per exemple@o amb la calor o xxx.
+La segona ra√≥@o √©s@o que al pati pots jugar i passar-t'ho@o molt b√©@o, en canvi@o si est√†s@o tancat a la classe@o t'avorreixes@o molt.
+L'√∫ltima@o ra√≥@o √©s@o que al final si no t'ho@o passes b√©@o, al final no hi@o voldr√†s@o anar per√≤@o hi@o haur√†s@o d'anar i et far√†@o mandra.
+En conclusi√≥@o, en l'escola ha@o d'haver-hi@o pati perqu√®@o t'agobies tanta estona a la classe@o, al pati t'ho@o passes b√©@o, al pati i al final sin√≥@o t'avorreixes@o i no vols@o anar.

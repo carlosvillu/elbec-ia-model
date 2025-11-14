@@ -1,1 +1,10 @@
-[% fa una llista de punts a favor i punts en contra]Sí@o* Per aprendre.* Per jugar amb els companys.* Per conèixer@o gent nova.NO* Perquè@o no li agrada.* Perquè@o és@o avorrit@o.* No sé@o.Jo crec que sí@o per poder aprendre i divertir-se@o, perquè@o estar a casa és@o de vegades avorrit@o i estar tot el dia mirant@o la tele o amb mòbil@o o la play@s, la nintendo@s, fa molt mal als ulls aunque@o@s per tots no anar a classes un dia és@o com un miracle!!!! [% signes d’exclamació a l’original]
+[% fa una llista de punts a favor i punts en contra]
+S√≠@o
+* Per aprendre.
+* Per jugar amb els companys.
+* Per con√®ixer@o gent nova.
+NO
+* Perqu√®@o no li agrada.
+* Perqu√®@o √©s@o avorrit@o.
+* No s√©@o.
+Jo crec que s√≠@o per poder aprendre i divertir-se@o, perqu√®@o estar a casa √©s@o de vegades avorrit@o i estar tot el dia mirant@o la tele o amb m√≤bil@o o la play@s, la nintendo@s, fa molt mal als ulls aunque@o@s per tots no anar a classes un dia √©s@o com un miracle!!!! [% signes d'exclamaci√≥ a l'original]

@@ -1,1 +1,4 @@
-[% text en majúscules]CREC QUE@o SÍ@oLA PRIMERA@o RAÓ@oELS@o NENS@o I LES@o NENES@o S’HA@o DIVERTIR@h
+[% text en maj√∫scules]
+CREC QUE@o S√ç@o
+LA PRIMERA@o RA√ì@o
+ELS@o NENS@o I LES@o NENES@o S'HA@o DIVERTIR@h

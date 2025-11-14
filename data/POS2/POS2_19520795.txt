@@ -1,1 +1,5 @@
-[% títol en majúscules] CREUS QUE A L’ESCOLA HI HA D’HAVER@o TEMPS DE PATIJo crec que sí@o hi ha d’haver@o temps per el pati.La primera raó és@o que que [% repetició a l’original] tenir temps de pati, perquè@o necessites@o diversió@o i córrer@o.La segona raó és@o perquè@o estàs@o nerviós@o i necessites@o aire@o si no anessis@o al pati, el teu cos necessitaria molt aire del que et demana.Per últim@o, la tercera raó és@o que si tens que@s anar al pati, a la classe sentat, a la cadira, no et mouries gens@o, la mobilitat és@o molt important. En conclusió@o, és@o millor anar al pati per aquests@o tres motius i molts més@o.
+[% t√≠tol en maj√∫scules] CREUS QUE A L'ESCOLA HI HA D'HAVER@o TEMPS DE PATI
+Jo crec que s√≠@o hi ha d'haver@o temps per el pati.
+La primera ra√≥ √©s@o que que [% repetici√≥ a l'original] tenir temps de pati, perqu√®@o necessites@o diversi√≥@o i c√≥rrer@o.
+La segona ra√≥ √©s@o perqu√®@o est√†s@o nervi√≥s@o i necessites@o aire@o si no anessis@o al pati, el teu cos necessitaria molt aire del que et demana.
+Per √∫ltim@o, la tercera ra√≥ √©s@o que si tens que@s anar al pati, a la classe sentat, a la cadira, no et mouries gens@o, la mobilitat √©s@o molt important. En conclusi√≥@o, √©s@o millor anar al pati per aquests@o tres motius i molts m√©s@o.

@@ -1,1 +1,3 @@
-[% Títol] Creus que a l’escola hi ha d’haver temps de pati.Jo crec que sí@o per poder esmorzar perquè@o si no tindríem@o molta gana durant@o la classe@o, perquè@o ens toqui l’aire perquè@o a la classe@o fa molta calor durant l’estiu@o, per no fer tantes classes@o seguides perquè@o et canses molt.En conclusió@o, jo crec que que [% repetició a l’original] sí@o per poder esmorzar, perquè@o ens toqui l’aire i per poder descansar.
+[% T√≠tol] Creus que a l'escola hi ha d'haver temps de pati.
+Jo crec que s√≠@o per poder esmorzar perqu√®@o si no tindr√≠em@o molta gana durant@o la classe@o, perqu√®@o ens toqui l'aire perqu√®@o a la classe@o fa molta calor durant l'estiu@o, per no fer tantes classes@o seguides perqu√®@o et canses molt.
+En conclusi√≥@o, jo crec que que [% repetici√≥ a l'original] s√≠@o per poder esmorzar, perqu√®@o ens toqui l'aire i per poder descansar.

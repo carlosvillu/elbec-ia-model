@@ -1,1 +1,2 @@
-[% text en majúscules]SÍ@o TENEN@o QUE@o IR@s AL L’ESCOLA PERÒ@o SON A NENS I TENEN@o QUE@o IR@s A L’ESCOLA@o PARA@s APRENDER@s
+[% text en maj√∫scules]
+S√ç@o TENEN@o QUE@o IR@s AL L'ESCOLA PER√í@o SON A NENS I TENEN@o QUE@o IR@s A L'ESCOLA@o PARA@s APRENDER@s

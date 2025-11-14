@@ -1,1 +1,4 @@
-[% títol en majúscules] CREUS QUE A L’ESCOLA HA D’HAVER PATI?Jo crec que sí, tenim que@s esmorzar, necessitem@o llibertat i més@o coses.Si no tenim pati, no podríem@o esmorzar i és@o millor esmorzar al pati que a la classe.Perquè@o així@o no embruti la classe amb el menjar.
+[% t√≠tol en maj√∫scules] CREUS QUE A L'ESCOLA HA D'HAVER PATI?
+Jo crec que s√≠, tenim que@s esmorzar, necessitem@o llibertat i m√©s@o coses.
+Si no tenim pati, no podr√≠em@o esmorzar i √©s@o millor esmorzar al pati que a la classe.
+Perqu√®@o aix√≠@o no embruti la classe amb el menjar.

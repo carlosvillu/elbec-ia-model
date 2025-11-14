@@ -1,1 +1,11 @@
-[% Títol] Creus que els nens i nenes de la teva edat han de@o tenir mòbil?Jo crec que els nens i nenes de la meva edat no han de tenir mòbil.[% Segueix la planificació de l’estratègia CREC]Raó 1) [% Subratllat] Et pot fer molt mal@o al cervell.La primera raó@o és que el mòbil, sobretot “de petits” [% Cometes a l’original] et pot fer molt de mal@o al cervell. I si comences@o a mirar el mòbil t’addictaràs@o al mòbil. Raó 2) [% Subratllat] Et creus coses que no són veritat.La segona raó@o és que per Youtube@s, Tiktok@s i de tant en tant Google@s et fan creure coses que no són@o veritat.Raó 3) [% Subratllat] No aprens res del mòbil.La tercera raó@o és que el mòbil són tonteries.Concloure.En conclusió@o, no és bo que els nens i nenes de la meva edat i els adults tinguin el mòbil.
+[% T√≠tol] Creus que els nens i nenes de la teva edat han de@o tenir m√≤bil?
+Jo crec que els nens i nenes de la meva edat no han de tenir m√≤bil.
+[% Segueix la planificaci√≥ de l'estrat√®gia CREC]
+Ra√≥ 1) [% Subratllat] Et pot fer molt mal@o al cervell.
+La primera ra√≥@o √©s que el m√≤bil, sobretot "de petits" [% Cometes a l'original] et pot fer molt de mal@o al cervell. I si comences@o a mirar el m√≤bil t'addictar√†s@o al m√≤bil. 
+Ra√≥ 2) [% Subratllat] Et creus coses que no s√≥n veritat.
+La segona ra√≥@o √©s que per Youtube@s, Tiktok@s i de tant en tant Google@s et fan creure coses que no s√≥n@o veritat.
+Ra√≥ 3) [% Subratllat] No aprens res del m√≤bil.
+La tercera ra√≥@o √©s que el m√≤bil s√≥n tonteries.
+Concloure.
+En conclusi√≥@o, no √©s bo que els nens i nenes de la meva edat i els adults tinguin el m√≤bil.

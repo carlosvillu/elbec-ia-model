@@ -1,1 +1,5 @@
-[% Títol] CREUS QUE A L’ESCOLA ES NECESSITA TEMPS DE PATI, EL TEMPS D’ESBARJO?Jo crec que sí@o, la primera raó és@o perquè@o així@o descansen les monitores@o i els nens i nenes@o.La segona raó és@o perquè@o els nens necessiten@o jugar, córrer@o i escalada.La tercera raó és@o perquè@o necessiten fer esports i si fem tot el dia classe ens avorrirem@o una miqueta.En conclusió, sí@o perquè@o així fem esports o jugar.
+[% T√≠tol] CREUS QUE A L'ESCOLA ES NECESSITA TEMPS DE PATI, EL TEMPS D'ESBARJO?
+Jo crec que s√≠@o, la primera ra√≥ √©s@o perqu√®@o aix√≠@o descansen les monitores@o i els nens i nenes@o.
+La segona ra√≥ √©s@o perqu√®@o els nens necessiten@o jugar, c√≥rrer@o i escalada.
+La tercera ra√≥ √©s@o perqu√®@o necessiten fer esports i si fem tot el dia classe ens avorrirem@o una miqueta.
+En conclusi√≥, s√≠@o perqu√®@o aix√≠ fem esports o jugar.

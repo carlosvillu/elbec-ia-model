@@ -1,1 +1,3 @@
-[% Títol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN D’ANAR A L’ESCOLA.Jo crec que els nens i nenes de la meva edat@o haurien@o d’anar@o a l’escola perquè@o a l’escola aprens moltes coses perquè@o si no anessis@o a l’escola series@o un tonto@s perquè@o no sabries fer res. Però si vas@o a l’escola aprens a sumar, a restar, a multiplicar, a dividir@o i a escriure, etc.A l’escola també@ coneixes a molta gent i fas amics i amigues@o.
+[% T√≠tol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN D'ANAR A L'ESCOLA.
+Jo crec que els nens i nenes de la meva edat@o haurien@o d'anar@o a l'escola perqu√®@o a l'escola aprens moltes coses perqu√®@o si no anessis@o a l'escola series@o un tonto@s perqu√®@o no sabries fer res. Per√≤ si vas@o a l'escola aprens a sumar, a restar, a multiplicar, a dividir@o i a escriure, etc.
+A l'escola tamb√©@ coneixes a molta gent i fas amics i amigues@o.

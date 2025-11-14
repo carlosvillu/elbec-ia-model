@@ -1,1 +1,2 @@
-[% Títol] Creus que es nens de la teva edat han d’anar a l’escola?Sí@o, perquè@o si van a l’escola des de@o molt petits@o poden aprendre més@o i millorar la cal·ligrafia@o i poden llegir molt millor i fer més@o amics i els pares com el seu fill té@o amics, els pares o mares es fan amics dels pares dels amics@o del fill.
+[% T√≠tol] Creus que es nens de la teva edat han d'anar a l'escola?
+S√≠@o, perqu√®@o si van a l'escola des de@o molt petits@o poden aprendre m√©s@o i millorar la cal¬∑ligrafia@o i poden llegir molt millor i fer m√©s@o amics i els pares com el seu fill t√©@o amics, els pares o mares es fan amics dels pares dels amics@o del fill.

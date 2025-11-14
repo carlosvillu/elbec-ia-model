@@ -1,1 +1,5 @@
-[% títol] Els nens poden@o utilitzar@o Mòbil@o?Jo diria que sí@o, perquè@o jo tinc@o. Jo parlo amb la meva família@o, amics@o, etc.També@o jugo com tots però@o solo@s 1 hora al dia si pot.Fas@o el treball@o amb ell@o.I per moltes coses més@o. També@o uns alta nens.
+[% t√≠tol] Els nens poden@o utilitzar@o M√≤bil@o?
+Jo diria que s√≠@o, perqu√®@o jo tinc@o. Jo parlo amb la meva fam√≠lia@o, amics@o, etc.
+Tamb√©@o jugo com tots per√≤@o solo@s 1 hora al dia si pot.
+Fas@o el treball@o amb ell@o.
+I per moltes coses m√©s@o. Tamb√©@o uns alta nens.

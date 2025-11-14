@@ -1,1 +1,6 @@
-[% títol] Creus que l’escola Hi Ha D’Haver temps de pati?Jo crec que l’escola sí@o Hi Ha D’haver temps de pati.La primera raó és@o que hauria D’haver temps de pati perquè@o necessitem una miqueta de descans.La segona raó és@o que no és bo@o estar a la classe sense pati.Per això@o ens donen trenta minuts per jugar al pati.En conclusió, jo crec que sí@o hauria D’haver temps de pati perquè@o necessitem@o descansar.
+[% t√≠tol] Creus que l'escola Hi Ha D'Haver temps de pati?
+Jo crec que l'escola s√≠@o Hi Ha D'haver temps de pati.
+La primera ra√≥ √©s@o que hauria D'haver temps de pati perqu√®@o necessitem una miqueta de descans.
+La segona ra√≥ √©s@o que no √©s bo@o estar a la classe sense pati.
+Per aix√≤@o ens donen trenta minuts per jugar al pati.
+En conclusi√≥, jo crec que s√≠@o hauria D'haver temps de pati perqu√®@o necessitem@o descansar.

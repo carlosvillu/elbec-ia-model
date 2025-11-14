@@ -1,1 +1,3 @@
-[% títol] CREUS QUE A L’ESCOLA ES NECESSITA TEMPS DE PATI?Jo crec que sí@o perquè@o després@o de tanta estona de classe es necessita una mica moure’s, i jugar una mica, córrer@o i parlar i que ens toqui una mica l’aire.També@o estic en contra, perquè@o l’estona de pati que tenim la podríem@o aprofitar per fer alguna altra feina més@o important que anar al pati dos quarts d’hora.
+[% t√≠tol] CREUS QUE A L'ESCOLA ES NECESSITA TEMPS DE PATI?
+Jo crec que s√≠@o perqu√®@o despr√©s@o de tanta estona de classe es necessita una mica moure's, i jugar una mica, c√≥rrer@o i parlar i que ens toqui una mica l'aire.
+Tamb√©@o estic en contra, perqu√®@o l'estona de pati que tenim la podr√≠em@o aprofitar per fer alguna altra feina m√©s@o important que anar al pati dos quarts d'hora.

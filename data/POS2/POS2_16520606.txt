@@ -1,1 +1,3 @@
-[% títol en majúscules] CREUS QUE LES PERSONES@o DE LA TEVA EDAT HAN D’ANAR A L’ESCOLAJo crec que les persones de la meva edat sí@o que haurien d’anar a l’escola. Per una banda cada dia aprens coses noves perquè@o en mates, català@o, etc. T’ensenyen@o coses diferents. Per un altre banda fas amics perquè@o en el pati et trobes@o amb altres nens i parleu. En conclusió@o, jo crec que els nens de la meva edat tindrien@o que@s anar a l’escola, ja que fas amics i aprens.
+[% t√≠tol en maj√∫scules] CREUS QUE LES PERSONES@o DE LA TEVA EDAT HAN D'ANAR A L'ESCOLA
+Jo crec que les persones de la meva edat s√≠@o que haurien d'anar a l'escola. Per una banda cada dia aprens coses noves perqu√®@o en mates, catal√†@o, etc. T'ensenyen@o coses diferents. Per un altre banda fas amics perqu√®@o en el pati et trobes@o amb altres nens i parleu. En conclusi√≥@o, jo crec que els nens de la meva edat tindrien@o que@s anar a l'escola, ja que fas amics i aprens.
+

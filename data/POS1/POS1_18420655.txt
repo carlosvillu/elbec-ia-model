@@ -1,1 +1,2 @@
-[% títol] Creus que els nens i nenes han [% acaba aquí el títol]Jo crec que sí@o, perquè@o és@o molt important anar a l’escola per aprendre i perquè@o els nens ho@o necessiten@o per la vida. Per multiplicar, sumar@o, restar i dividir@o i a llegir@o.
+[% t√≠tol] Creus que els nens i nenes han [% acaba aqu√≠ el t√≠tol]
+Jo crec que s√≠@o, perqu√®@o √©s@o molt important anar a l'escola per aprendre i perqu√®@o els nens ho@o necessiten@o per la vida. Per multiplicar, sumar@o, restar i dividir@o i a llegir@o.

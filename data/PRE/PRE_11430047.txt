@@ -1,3 +1,4 @@
-[% Simbols fidels a l’original] Sí perquè a classe sempre estan <<blablablablabla>>  i al pati “També”* però més en “Pau i harmonia”.
+[% Simbols fidels a l'original] 
+S√≠ perqu√® a classe sempre estan <<blablablablabla>>  i al pati "Tamb√©"* per√≤ m√©s en "Pau i harmonia".
 
-* a vegades
+* a vegades

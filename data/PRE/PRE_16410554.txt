@@ -1,1 +1,3 @@
-Jo@o crec que no tenen perquè@o ens fa mal a la vista i podem@o acabar@o amb@o ulleres@o perquè@o hay@o@s nens@o que li ha passat@o.El@o pots utilitzar@o quan@o surts sol del cole per@o si estàs@o molt@o lluny@o o te@o perds@o pots llamar@o@s als teus pares o familiars@o i te vinguin@o a recollir@o a on estàs@o.Però@o no recomano estar@o tot@o el@o fin@s de setmana@o amb el [% s’acaba aquí]
+Jo@o crec que no tenen perqu√®@o ens fa mal a la vista i podem@o acabar@o amb@o ulleres@o perqu√®@o hay@o@s nens@o que li ha passat@o.
+El@o pots utilitzar@o quan@o surts sol del cole per@o si est√†s@o molt@o lluny@o o te@o perds@o pots llamar@o@s als teus pares o familiars@o i te vinguin@o a recollir@o a on est√†s@o.
+Per√≤@o no recomano estar@o tot@o el@o fin@s de setmana@o amb el [% s'acaba aqu√≠]

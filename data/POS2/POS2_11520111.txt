@@ -1,1 +1,7 @@
-Jo crec que no.[% format de llista a l’original]R1: Perquè@o es podrien viciar molt amb el mòbil@o.R2: Perquè@o si està@o tot el dia jugant, s’oblidarien@o de fer els deures.R3: Perquè@o es podrien distreure per estar tot el dia amb el mòbil@o.Jo crec que no perquè@o es podrien viciar@o amb el mòbil@o, I perquè@o si estan tot el dia jugant se n’oblidarien@o de fer els deures. Es podrien distreure per estar@o tot el@o dia amb el mòbil@o. I si estàs@o carregant i jugant al mateix temps@o el mòbil@o pot explotar@o.
+Jo crec que no.
+[% format de llista a l'original]
+R1: Perqu√®@o es podrien viciar molt amb el m√≤bil@o.
+R2: Perqu√®@o si est√†@o tot el dia jugant, s'oblidarien@o de fer els deures.
+R3: Perqu√®@o es podrien distreure per estar tot el dia amb el m√≤bil@o.
+
+Jo crec que no perqu√®@o es podrien viciar@o amb el m√≤bil@o, I perqu√®@o si estan tot el dia jugant se n'oblidarien@o de fer els deures. Es podrien distreure per estar@o tot el@o dia amb el m√≤bil@o. I si est√†s@o carregant i jugant al mateix temps@o el m√≤bil@o pot explotar@o.

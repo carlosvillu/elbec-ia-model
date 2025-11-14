@@ -1,1 +1,2 @@
-[% Títol] Creus que a l’escola ha d’haver-hi pati.Jo crec que sí@o tendria que@s haver-hi@ pati. Primara raó@o és@o que podries@o jugar i divertir-te@o molt. La segona raó@o podries fer una pausa i la tercera@o raó@o tens que@s activar@o el teu cos. En resum, podries@o jugar@o una estona o tranquisarte.
+[% T√≠tol] Creus que a l'escola ha d'haver-hi pati.
+Jo crec que s√≠@o tendria que@s haver-hi@ pati. Primara ra√≥@o √©s@o que podries@o jugar i divertir-te@o molt. La segona ra√≥@o podries fer una pausa i la tercera@o ra√≥@o tens que@s activar@o el teu cos. En resum, podries@o jugar@o una estona o tranquisarte.

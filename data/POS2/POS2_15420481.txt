@@ -1,1 +1,3 @@
-[% text en majúscules]JO CREC QUE SÍ@o.PERQUÈ@o SINÓ@o NO PODRIEN@o DESCANSAR@o TOTHOM@o AL DIA I PERQUÈ@o SINÓ@o ENS FARIA MAL LA MÀ@o I EL COLL@o.
+[% text en maj√∫scules]
+JO CREC QUE S√ç@o.
+PERQU√à@o SIN√ì@o NO PODRIEN@o DESCANSAR@o TOTHOM@o AL DIA I PERQU√à@o SIN√ì@o ENS FARIA MAL LA M√Ä@o I EL COLL@o.

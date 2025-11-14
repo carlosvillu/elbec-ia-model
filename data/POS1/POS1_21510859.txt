@@ -1,1 +1,2 @@
-[% títol en majúscules] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN D’ANAR A L’ESCOLACrec que els nens i nenes sí@o que tenen que@s anar perquè tenen que@s aprendre sobre mates, geografia, a llegir, a ser autònom/a@o, tenir amics, cuidar bé el material, tenir respecte a tothom, tindre més@o coneixements sobre moltes coses.
+[% t√≠tol en maj√∫scules] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN D'ANAR A L'ESCOLA
+Crec que els nens i nenes s√≠@o que tenen que@s anar perqu√® tenen que@s aprendre sobre mates, geografia, a llegir, a ser aut√≤nom/a@o, tenir amics, cuidar b√© el material, tenir respecte a tothom, tindre m√©s@o coneixements sobre moltes coses.

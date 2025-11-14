@@ -1,1 +1,6 @@
-[% títol] Creus que a l’escola hi ha d’haver temps de pati?Segons la meva opinió a l’escola hi ha d’haver temps de pati.La primera raó és que els nens no estarien atents a classe@o, perquè no hauríem@o anat al pati.La segona raó és que els nens necessiten@o temps lliure per poder parlar i jugar perquè sinó@o no gastarien energia i no es podrien adormir.La tercera i última@o raó és que en el temps de pati molta gent esmorza i si no esmorzem tindrien molta gana perquè necessiten@o esmorzar.En conclusió, és@o necessari@o el temps de pati.
+[% t√≠tol] Creus que a l'escola hi ha d'haver temps de pati?
+Segons la meva opini√≥ a l'escola hi ha d'haver temps de pati.
+La primera ra√≥ √©s que els nens no estarien atents a classe@o, perqu√® no haur√≠em@o anat al pati.
+La segona ra√≥ √©s que els nens necessiten@o temps lliure per poder parlar i jugar perqu√® sin√≥@o no gastarien energia i no es podrien adormir.
+La tercera i √∫ltima@o ra√≥ √©s que en el temps de pati molta gent esmorza i si no esmorzem tindrien molta gana perqu√® necessiten@o esmorzar.
+En conclusi√≥, √©s@o necessari@o el temps de pati.

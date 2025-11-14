@@ -1,1 +1,3 @@
-[% Títol] EL PATIJo crec que el pati és@o important perquè no podem estar sempre treballant@o i és important tenir una estona lliure. Si sempre treballéssim@o estaríem@o molt cansats i tampoc aprendríem@o tant més@o a més@o a més@o [% Repetició a l’original] alguns ja fan extraescolars de mates, música@o, anglès@o, etc. Les professores o els professors tampoc tindrien temps de preparar les feines per a la classe.Per tant, jo crec que es necessita@o el PATI!
+[% T√≠tol] EL PATI
+Jo crec que el pati √©s@o important perqu√® no podem estar sempre treballant@o i √©s important tenir una estona lliure. Si sempre treball√©ssim@o estar√≠em@o molt cansats i tampoc aprendr√≠em@o tant m√©s@o a m√©s@o a m√©s@o [% Repetici√≥ a l'original] alguns ja fan extraescolars de mates, m√∫sica@o, angl√®s@o, etc. Les professores o els professors tampoc tindrien temps de preparar les feines per a la classe.
+Per tant, jo crec que es necessita@o el PATI!

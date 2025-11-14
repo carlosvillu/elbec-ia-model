@@ -1,1 +1,8 @@
-[% Títol] Creus que a l’escola es necessita temps de pati? Jo crec que sí@o necessitem temps de pati.Necessitem temps per menjar i relaxar-nos@o. Ja que enmig d’una classe podem tenir dolors de panxa per no menjar, i fins i tot ens podríem@o desmaiar@o. Ens relaxem@o parlant perquè@o de tants exàmens@o podríem@o estar estressats@o.Ens divertim en el pati.Com que el pati és@o un lloc gran i podem jugar a molts jocs per exemple si jo i les meves amigues estem avorrides@o podríem@o jugar molts jocs, per riure’ns i passar-la bé.Podem trobar-nos amb amics o amigues.Com que tenim amics o amigues a altres cursos el pati és@o un dels moments perfectes si no poden estar amb nosaltres fora de l’escola.En resum, jo crec que sí@o per poder menjar i relaxar-nos@o tant com relaxar-nos@o [% repetició a l’original] podem fer el contrari divertir-nos amb amics d’altres grups.
+[% T√≠tol] Creus que a l'escola es necessita temps de pati? 
+Jo crec que s√≠@o necessitem temps de pati.
+Necessitem temps per menjar i relaxar-nos@o. Ja que enmig d'una classe podem tenir dolors de panxa per no menjar, i fins i tot ens podr√≠em@o desmaiar@o. Ens relaxem@o parlant perqu√®@o de tants ex√†mens@o podr√≠em@o estar estressats@o.
+Ens divertim en el pati.
+Com que el pati √©s@o un lloc gran i podem jugar a molts jocs per exemple si jo i les meves amigues estem avorrides@o podr√≠em@o jugar molts jocs, per riure'ns i passar-la b√©.
+Podem trobar-nos amb amics o amigues.
+Com que tenim amics o amigues a altres cursos el pati √©s@o un dels moments perfectes si no poden estar amb nosaltres fora de l'escola.
+En resum, jo crec que s√≠@o per poder menjar i relaxar-nos@o tant com relaxar-nos@o [% repetici√≥ a l'original] podem fer el contrari divertir-nos amb amics d'altres grups.

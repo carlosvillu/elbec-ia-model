@@ -1,1 +1,3 @@
-[% text majoritàriament en castellà i inintel·ligible]CREUS@o QUE A L’ESCOLA HI HA D’HAVER TEMPS DE PATISÍ@o PORQUE@O@S SI NO JUGARÀ@o AMB@o PORQUE@o@s SINÓ@o NO SABIEN@o QUE SINÓ JUGARÀ@o NO PODEN@o JUGARÀ@o A NOTROAMI
+[% text majorit√†riament en castell√† i inintel¬∑ligible]
+CREUS@o QUE A L'ESCOLA HI HA D'HAVER TEMPS DE PATI
+S√ç@o PORQUE@O@S SI NO JUGAR√Ä@o AMB@o PORQUE@o@s SIN√ì@o NO SABIEN@o QUE SIN√ì JUGAR√Ä@o NO PODEN@o JUGAR√Ä@o A NOTROAMI

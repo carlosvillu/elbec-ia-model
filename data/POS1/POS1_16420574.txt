@@ -1,1 +1,2 @@
-[% t’tol] Creus que a lÕescola es necessita@o temps De pati?S’@o. Perqu@o s@o Nens i Nenes Desprs@o de feina poden Descansar@o i tranquilálitzar-se@o i menjar i tamb@o jugar amb els Amics o Amigues i Podem Agafar material del pati.
+[% tÃ­tol] Creus que a l'escola es necessita@o temps De pati?
+SÃ­@o. PerquÃ¨@o Ã©s@o Nens i Nenes DesprÃ©s@o de feina poden Descansar@o i tranquilÂ·litzar-se@o i menjar i tambÃ©@o jugar amb els Amics o Amigues i Podem Agafar material del pati.

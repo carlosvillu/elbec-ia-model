@@ -1,1 +1,6 @@
-[% Títol] creus que els nens i nenes han d’anar a l’escola?Jo crec que els nens i nenes han d’anar a l’escola per aprendre.En primer lloc, perquè no podrà@o saber moltes coses (llegir, escriure i sumar). Hi han alguns pares que no es fan responsables i alguns que no tenen diners.En segon lloc, a l’escola pots aconseguir molts amics. Els amics fan companyia.En últim@o lloc, no podria tenir treball. Als treballs a vegades necessites@o saber moltes coses i tenir experiència@o.En conclusió, els nens i nenes han d’anar a l’escola a aconseguir@o amics i tenen que@s aprendre.
+[% T√≠tol] creus que els nens i nenes han d'anar a l'escola?
+Jo crec que els nens i nenes han d'anar a l'escola per aprendre.
+En primer lloc, perqu√® no podr√†@o saber moltes coses (llegir, escriure i sumar). Hi han alguns pares que no es fan responsables i alguns que no tenen diners.
+En segon lloc, a l'escola pots aconseguir molts amics. Els amics fan companyia.
+En √∫ltim@o lloc, no podria tenir treball. Als treballs a vegades necessites@o saber moltes coses i tenir experi√®ncia@o.
+En conclusi√≥, els nens i nenes han d'anar a l'escola a aconseguir@o amics i tenen que@s aprendre.

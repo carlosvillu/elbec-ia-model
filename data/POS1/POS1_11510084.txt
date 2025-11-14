@@ -1,1 +1,10 @@
-[% Títol] CREUS QUE LES PERSONES DE LA TEVA EDAT HAN D’ANAR A L’ESCOLA?Sí@o, jo crec que les persones de la meva edat han d’anar a l’escola per aprendre coses que et poden servir a la vida.MATES: A la vida moderna es necessiten@o les matemàtiques per tot: anar a comprar, dividir, menjars, cuinar, els diners...LLengües@o: Avui en dia es necessiten@o molt les llengües@o. Per exemple: quan viatges necessites@o les llengües@o per comunicar-te, per comunicar-te [% Repetició a l’original] amb algú simplement...EDUCACIÓ FÍSICA@o: La necessites@o per tot, bé@o moltes coses: caminar, córrer, ballar@o, fer algun esport, etc.VALORS: Els valors són molt necessaris@o avui en dia i quan vas a comprar necessites@o valors, per tenir un amic has@o de tenir valors, etc.MÚSICA: no és@o lo més necessari@o del món però és@o divertit cantar, ballar@o, etc.Art: És com la música no és massa@o important però és@o divertit dibuixar, entendre el dibuix, etc.MEDI: totes les coses de medi són importants: l’Espanya física@o i política@o, els ecosistemes, la cèl·lula, etc.En conclusió@o, has@o d’anar a l’escola amb la meva edat.
+[% T√≠tol] CREUS QUE LES PERSONES DE LA TEVA EDAT HAN D'ANAR A L'ESCOLA?
+S√≠@o, jo crec que les persones de la meva edat han d'anar a l'escola per aprendre coses que et poden servir a la vida.
+MATES: A la vida moderna es necessiten@o les matem√†tiques per tot: anar a comprar, dividir, menjars, cuinar, els diners...
+LLeng√ºes@o: Avui en dia es necessiten@o molt les lleng√ºes@o. Per exemple: quan viatges necessites@o les lleng√ºes@o per comunicar-te, per comunicar-te [% Repetici√≥ a l'original] amb alg√∫ simplement...
+EDUCACI√ì F√çSICA@o: La necessites@o per tot, b√©@o moltes coses: caminar, c√≥rrer, ballar@o, fer algun esport, etc.
+VALORS: Els valors s√≥n molt necessaris@o avui en dia i quan vas a comprar necessites@o valors, per tenir un amic has@o de tenir valors, etc.
+M√öSICA: no √©s@o lo m√©s necessari@o del m√≥n per√≤ √©s@o divertit cantar, ballar@o, etc.
+Art: √âs com la m√∫sica no √©s massa@o important per√≤ √©s@o divertit dibuixar, entendre el dibuix, etc.
+MEDI: totes les coses de medi s√≥n importants: l'Espanya f√≠sica@o i pol√≠tica@o, els ecosistemes, la c√®l¬∑lula, etc.
+En conclusi√≥@o, has@o d'anar a l'escola amb la meva edat.

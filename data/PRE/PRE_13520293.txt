@@ -1,1 +1,8 @@
-En cas de ser un nen/a de 10 anys tindries que@s tindre un control parental, almenys.Arguments a favor i en contra.[% llista a l’original]1 en contra [% subratllat a l’original]: NO fa falta perquè@o hi@o han@o coses que són per +18.2 en contra [% subratllat a l’original]: NO perquè@o tens accés@o a tot internet.1 a favor [% subratllat a l’original]: SÍ@o perquè@o pots aprendre@o molts coneixements.2 a favor [% subratllat a l’original]: SÍ@o perquè@o pots trobar@o coses del teu gust.En conclusió@o: amb un control parental pots estar tranquil.
+En cas de ser un nen/a de 10 anys tindries que@s tindre un control parental, almenys.
+Arguments a favor i en contra.
+[% llista a l'original]
+1 en contra [% subratllat a l'original]: NO fa falta perqu√®@o hi@o han@o coses que s√≥n per +18.
+2 en contra [% subratllat a l'original]: NO perqu√®@o tens acc√©s@o a tot internet.
+1 a favor [% subratllat a l'original]: S√ç@o perqu√®@o pots aprendre@o molts coneixements.
+2 a favor [% subratllat a l'original]: S√ç@o perqu√®@o pots trobar@o coses del teu gust.
+En conclusi√≥@o: amb un control parental pots estar tranquil.

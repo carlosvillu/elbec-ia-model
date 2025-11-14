@@ -1,1 +1,4 @@
-[% Títol] CREUS QUE A L’ESCOLA ES NECESSITA TEMPS DE PATI, EL TEMPS D’ESBARJO?Jo crec que sí@o, perquè els nens/nenes no poden estar tota l’estona treballant@o i han@o de aire fresc de fora@o.Si estan tota l’estona treballant@o es cansarien molt i voldrien una estona de descans.Després del pati tenen una altra@o classe i després@o de esa@s classe tenen un altre cop pati o menjador.
+[% T√≠tol] CREUS QUE A L'ESCOLA ES NECESSITA TEMPS DE PATI, EL TEMPS D'ESBARJO?
+Jo crec que s√≠@o, perqu√® els nens/nenes no poden estar tota l'estona treballant@o i han@o de aire fresc de fora@o.
+Si estan tota l'estona treballant@o es cansarien molt i voldrien una estona de descans.
+Despr√©s del pati tenen una altra@o classe i despr√©s@o de esa@s classe tenen un altre cop pati o menjador.

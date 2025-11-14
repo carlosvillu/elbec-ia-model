@@ -1,1 +1,4 @@
-[% format llista a l’original]- Jo crec que sí@o i que no@o.- Jo crec que sí@o, depèn@o de quin mòbil@o. Un Nokia@s sí@o, perquè@o només@o pot trucar i no té@o tiktok@o@s, ni jocs, és@o perquè@o si vas sol pots trucar als teus pares@o, si fa falta o passa@o un imprevist i no te’l voldran@o robar@o.- Jo crec que no, perquè@o si tens un Iphone@o@s te’l poden robar@o, té@o TikTok@o@s i videojocs, et poden ficar ulleres@o, et pots distreure@o fent deures i jo hi ha ho@o he@o dit tot.
+[% format llista a l'original]
+- Jo crec que s√≠@o i que no@o.
+- Jo crec que s√≠@o, dep√®n@o de quin m√≤bil@o. Un Nokia@s s√≠@o, perqu√®@o nom√©s@o pot trucar i no t√©@o tiktok@o@s, ni jocs, √©s@o perqu√®@o si vas sol pots trucar als teus pares@o, si fa falta o passa@o un imprevist i no te'l voldran@o robar@o.
+- Jo crec que no, perqu√®@o si tens un Iphone@o@s te'l poden robar@o, t√©@o TikTok@o@s i videojocs, et poden ficar ulleres@o, et pots distreure@o fent deures i jo hi ha ho@o he@o dit tot.

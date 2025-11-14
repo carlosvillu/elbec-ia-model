@@ -1,1 +1,5 @@
-[% Títol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAURIEN D’ANAR A L’ESCOLA?Sí, perquè@o els nens i nenes de la nostra edat encara no han après@o moltes coses llavors per això hi ha@o cursos diferents, perquè@o a cada curs hi ha un nivell diferent per poder aprendre més@o.Nosaltres per exemple, no hem après@o tants mètodes@o de mates, ficar els accents, etc. Llavors la meva resposta és@o que sí@o perquè@o cada any anem@o aprenent coses diferents i més@o difícils@o, a mesura@o que anem@o creixent hi ha més dificultat a les classes.Per això@o hem d’anar a l’escola perquè@o cada any anem@o aprenent més@o i més@o fins que al final ho sabrem tot!  
+[% T√≠tol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAURIEN D'ANAR A L'ESCOLA?
+S√≠, perqu√®@o els nens i nenes de la nostra edat encara no han apr√®s@o moltes coses llavors per aix√≤ hi ha@o cursos diferents, perqu√®@o a cada curs hi ha un nivell diferent per poder aprendre m√©s@o.
+Nosaltres per exemple, no hem apr√®s@o tants m√®todes@o de mates, ficar els accents, etc. Llavors la meva resposta √©s@o que s√≠@o perqu√®@o cada any anem@o aprenent coses diferents i m√©s@o dif√≠cils@o, a mesura@o que anem@o creixent hi ha m√©s dificultat a les classes.
+Per aix√≤@o hem d'anar a l'escola perqu√®@o cada any anem@o aprenent m√©s@o i m√©s@o fins que al final ho sabrem tot!  
+

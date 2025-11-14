@@ -1,1 +1,2 @@
-[% Títol] CREUS QUE A L’ESCOLA ES NECESSITA TEMPS DE PATI?Jo crec que sí@o perquè@o necessitem@o refrescar la nostra memòria@o un altre raó@o és@o que ens faria mal de cap i també@o ens pot donar mal dels ulls també@o ens podríem@o desmaiar@o per estar tan concentrats@o en conclusió sí@o crec que a l’escola es necessita temps de pati per tots els nens.
+[% T√≠tol] CREUS QUE A L'ESCOLA ES NECESSITA TEMPS DE PATI?
+Jo crec que s√≠@o perqu√®@o necessitem@o refrescar la nostra mem√≤ria@o un altre ra√≥@o √©s@o que ens faria mal de cap i tamb√©@o ens pot donar mal dels ulls tamb√©@o ens podr√≠em@o desmaiar@o per estar tan concentrats@o en conclusi√≥ s√≠@o crec que a l'escola es necessita temps de pati per tots els nens.

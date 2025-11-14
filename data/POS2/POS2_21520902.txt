@@ -1,1 +1,3 @@
-[% text en majúscules i majoritàriament en castellà]NO, PORQUE@s SÓN@o DEMASIADO@s PEQUEÑOS@s I EN EN [% repetició a l’original] EL INSTAGRAM@o ÉS@o DE GRANDES, I SÓN@o MUY@o@s PEQUEÑOS@s, ALGUNES@o APLICACIONS@o SÓN@o DE DE [% repetició a l’original] MÁS@o@s DE 18 O DE 16/17 AÑOS@s.FIN@ FIN@s [% repetició a l’original]
+[% text en maj√∫scules i majorit√†riament en castell√†]
+NO, PORQUE@s S√ìN@o DEMASIADO@s PEQUE√ëOS@s I EN EN [% repetici√≥ a l'original] EL INSTAGRAM@o √âS@o DE GRANDES, I S√ìN@o MUY@o@s PEQUE√ëOS@s, ALGUNES@o APLICACIONS@o S√ìN@o DE DE [% repetici√≥ a l'original] M√ÅS@o@s DE 18 O DE 16/17 A√ëOS@s.
+FIN@ FIN@s [% repetici√≥ a l'original]

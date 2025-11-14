@@ -1,1 +1,7 @@
-[% T’tol] Creus que a lÕescola es necessita temps de pati, el temps dÕesbarjo?1» Jo crec que s’@o, perqu hi han vegades que alguns nens/es hi tardin ms@o que els altres.2» Jo crec que s’@o, perqu alguns nens/es quan@o acabin no lis dona@o temps de jugar.3» Jo crec que s’@o, perqu@o alguns nens/es lis costen ms@o menjar i necessiten temps per estar tranquil.4» Jo crec que s’@o, perqu@o necessitem relaxar-nos.5» Jo crec que s’@o, perqu@o necessitem ms@o espai, hi han de nens/es que necessiten espai per ells sols/es.6» Jo crec que s’@o, perqu@o els nens/es sÕagobien.
+[% TÃ­tol] Creus que a l'escola es necessita temps de pati, el temps d'esbarjo?
+1Âª Jo crec que sÃ­@o, perquÃ¨ hi han vegades que alguns nens/es hi tardin mÃ©s@o que els altres.
+2Âª Jo crec que sÃ­@o, perquÃ¨ alguns nens/es quan@o acabin no lis dona@o temps de jugar.
+3Âª Jo crec que sÃ­@o, perquÃ¨@o alguns nens/es lis costen mÃ©s@o menjar i necessiten temps per estar tranquil.
+4Âª Jo crec que sÃ­@o, perquÃ¨@o necessitem relaxar-nos.
+5Âª Jo crec que sÃ­@o, perquÃ¨@o necessitem mÃ©s@o espai, hi han de nens/es que necessiten espai per ells sols/es.
+6Âª Jo crec que sÃ­@o, perquÃ¨@o els nens/es s'agobien.

@@ -1,1 +1,7 @@
-[% Títol] Creus que a l’escola es necessita@o temps de pati.Jo@o crec que sí@o haurien de tenir temps de pati a l’escola.La primera raó@o és@o que els nens també@o tenim que@s divertir-nos perquè@o l’escola no es sol estudiar necessiten@o un poc d’estona per jugar.La segona raó@o és@o que el pati és@o un bon lloc per conèixer-nos@o més o jugar amb alguns d’un altre curs@o o l’altra classe.La tercera raó@o és@o que quan esmorzaríem@o? Estudiant? S’embrutarien totes les feines.La quarta@o raó@o és@o que si no tindrien pati no en coneixerien i no tindrien amics i a la vida tenim que ser socials.En conclusió@o, tots els nens tenen que@s divertir-se un poc també@o ens tindrien que@s conèixer-nos@o millor i si no quan esmorzarien embrutarien les feines i també@o no tindríem@o tants amics.
+[% T√≠tol] Creus que a l'escola es necessita@o temps de pati.
+Jo@o crec que s√≠@o haurien de tenir temps de pati a l'escola.
+La primera ra√≥@o √©s@o que els nens tamb√©@o tenim que@s divertir-nos perqu√®@o l'escola no es sol estudiar necessiten@o un poc d'estona per jugar.
+La segona ra√≥@o √©s@o que el pati √©s@o un bon lloc per con√®ixer-nos@o m√©s o jugar amb alguns d'un altre curs@o o l'altra classe.
+La tercera ra√≥@o √©s@o que quan esmorzar√≠em@o? Estudiant? S'embrutarien totes les feines.
+La quarta@o ra√≥@o √©s@o que si no tindrien pati no en coneixerien i no tindrien amics i a la vida tenim que ser socials.
+En conclusi√≥@o, tots els nens tenen que@s divertir-se un poc tamb√©@o ens tindrien que@s con√®ixer-nos@o millor i si no quan esmorzarien embrutarien les feines i tamb√©@o no tindr√≠em@o tants amics.

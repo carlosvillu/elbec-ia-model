@@ -1,1 +1,4 @@
-[% t抰ol] Creus que a l誩scola ha d説aver-hi@o pati?Jo crec que s扏o, per primera ra桜o 巗@o que estem nerviosos/es@o, este, nerviosos/es@o en classe@o. Una segona ra桜o si treballem hem2o de tenir pati. Una tercera ra桜o 巗@o que no podrem esmorzar i si no esmorzem tindrem gana.Conclusi桜o.Estem nerviosos/es@o si treballem hem@o de tenir pati, no esmorzem.
+[% t铆tol] Creus que a l'escola ha d'haver-hi@o pati?
+Jo crec que s铆@o, per primera ra贸@o 茅s@o que estem nerviosos/es@o, este, nerviosos/es@o en classe@o. Una segona ra贸@o si treballem hem2o de tenir pati. Una tercera ra贸@o 茅s@o que no podrem esmorzar i si no esmorzem tindrem gana.
+Conclusi贸@o.
+Estem nerviosos/es@o si treballem hem@o de tenir pati, no esmorzem.

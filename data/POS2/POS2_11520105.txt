@@ -1,1 +1,6 @@
-[% títol] Creus que els nens i nenes de la teva edat han de tenir mòbilJo cren que els nens i nenes de la meva edat No ha de tenir mòbil.La primera raó és que es desconnecten@o dels seus estudis perquè estan enganxats@o al mòbil.La segona raó és que estan tot el dia amb el mòbil perquè no tenen res a fer.L’última raó és que estan jugant tot el dia al mòbil i xatejant@o amb amics, amb aplicacions com per exemple: Instagram@s, els xats, TikTok@s, …En conclusió, No han de tindre mòbil a la meva edat perquè s’enganxen@o i es@o desconnecten@o de les coses més importants.
+[% t√≠tol] Creus que els nens i nenes de la teva edat han de tenir m√≤bil
+Jo cren que els nens i nenes de la meva edat No ha de tenir m√≤bil.
+La primera ra√≥ √©s que es desconnecten@o dels seus estudis perqu√® estan enganxats@o al m√≤bil.
+La segona ra√≥ √©s que estan tot el dia amb el m√≤bil perqu√® no tenen res a fer.
+L'√∫ltima ra√≥ √©s que estan jugant tot el dia al m√≤bil i xatejant@o amb amics, amb aplicacions com per exemple: Instagram@s, els xats, TikTok@s, ‚Ä¶
+En conclusi√≥, No han de tindre m√≤bil a la meva edat perqu√® s'enganxen@o i es@o desconnecten@o de les coses m√©s importants.

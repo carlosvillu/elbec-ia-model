@@ -1,1 +1,2 @@
-[% Títol] Creus que a l’escola hi ha d’haver temps de pati?Sí@o perquè@o si no hi ha@o temps@o de pati todo@s el classe va ir@s al pati cuando@s quiera@s. Sí@o perquè@o para@s ir@s al pati como@s a les 10:00 podem ir@s després@o de practicar i ir@s a la classe 10:30 como@s nosotros@s.
+[% T√≠tol] Creus que a l'escola hi ha d'haver temps de pati?
+S√≠@o perqu√®@o si no hi ha@o temps@o de pati todo@s el classe va ir@s al pati cuando@s quiera@s. S√≠@o perqu√®@o para@s ir@s al pati como@s a les 10:00 podem ir@s despr√©s@o de practicar i ir@s a la classe 10:30 como@s nosotros@s.

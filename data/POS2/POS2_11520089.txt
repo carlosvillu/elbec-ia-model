@@ -1,1 +1,7 @@
-[% títol] Creus que els Nens i Nenes de la teva edat han de tenir Mòbil?Jo crec que No haurien de tenir Mòbil.Una raó és que si tots els Nens tinguessin Mòbil, els pares es@o gastarien molts diners perquè són cars els Mòbils.També pot ser que els Nens a l’escola estarien tot el dia amb el Mòbil perquè estarien Molt viciats.A sobre, els Nens a casa estarien tot el dia amb el Mòbil ignorant les seves famílies@o perquè estarien Molt viciats.En resum, els Nens d’aquesta edat no haurien de tenir Mòbil.
+[% t√≠tol] Creus que els Nens i Nenes de la teva edat han de tenir M√≤bil?
+Jo crec que No haurien de tenir M√≤bil.
+Una ra√≥ √©s que si tots els Nens tinguessin M√≤bil, els pares es@o gastarien molts diners perqu√® s√≥n cars els M√≤bils.
+Tamb√© pot ser que els Nens a l'escola estarien tot el dia amb el M√≤bil perqu√® estarien Molt viciats.
+A sobre, els Nens a casa estarien tot el dia amb el M√≤bil ignorant les seves fam√≠lies@o perqu√® estarien Molt viciats.
+En resum, els Nens d'aquesta edat no haurien de tenir M√≤bil.
+

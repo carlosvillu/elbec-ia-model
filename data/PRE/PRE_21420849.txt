@@ -1,1 +1,7 @@
-[% títol] ÉS@o NECESSARI@o L’ESTONA DE@o PATI[% format de llista a l’original]1. És@o necessari@o el@o pati perquè@o tenim que@s jugar.2. És@o necessari@o el@o pati perquè@o en la classe ens agobiem@o molt@o.3. És@o necessari@o el@o pati per si estem nerviosos@o li treiem@o les nostres emocions@o.4. És@o necessari@o el@o pati perquè@o en la classe no és@o tot córrer@o i el@o pati sí@o és@o tot córrer@o.5. I a mi m’agrada el@o pati per estar amb els@o meus amics.
+[% t√≠tol] √âS@o NECESSARI@o L'ESTONA DE@o PATI
+[% format de llista a l'original]
+1. √âs@o necessari@o el@o pati perqu√®@o tenim que@s jugar.
+2. √âs@o necessari@o el@o pati perqu√®@o en la classe ens agobiem@o molt@o.
+3. √âs@o necessari@o el@o pati per si estem nerviosos@o li treiem@o les nostres emocions@o.
+4. √âs@o necessari@o el@o pati perqu√®@o en la classe no √©s@o tot c√≥rrer@o i el@o pati s√≠@o √©s@o tot c√≥rrer@o.
+5. I a mi m'agrada el@o pati per estar amb els@o meus amics.

@@ -1,1 +1,7 @@
-[% Títol] Creus que els nens i nenes de la teva edat han d’anar a l’escola?Sí@o perquè tots els nens i nenes han d’aprendre@o.També@o perquè@o a l’escola t’ho passes bé@o amb els teus amics.No, perquè@o a vegades depèn@o de l’assignatura@o no t’agrada.Sí@o, perquè@o a l’escola no només@o s’aprèn@o mates, català i castellà@o, també@o ens divertim fent@o plàstica, educació@0 física@0 i anglès.Sí@o, perquè l’escola a vegades pot ser divertida o avorrida@o.Sí@o, perquè@o també@o és@o una estona que ens podem divertir amb els nostres amics.
+[% T√≠tol] Creus que els nens i nenes de la teva edat han d'anar a l'escola?
+S√≠@o perqu√® tots els nens i nenes han d'aprendre@o.
+Tamb√©@o perqu√®@o a l'escola t'ho passes b√©@o amb els teus amics.
+No, perqu√®@o a vegades dep√®n@o de l'assignatura@o no t'agrada.
+S√≠@o, perqu√®@o a l'escola no nom√©s@o s'apr√®n@o mates, catal√† i castell√†@o, tamb√©@o ens divertim fent@o pl√†stica, educaci√≥@0 f√≠sica@0 i angl√®s.
+S√≠@o, perqu√® l'escola a vegades pot ser divertida o avorrida@o.
+S√≠@o, perqu√®@o tamb√©@o √©s@o una estona que ens podem divertir amb els nostres amics.

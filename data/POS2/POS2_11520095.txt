@@ -1,1 +1,7 @@
-[% t’tol] Creus Que els nens i nenes de la teva edat han de tenir MñBIL?No, no tindrien que@s tenir m˜bil els nens/es de la nostra edat.[% format llista a lÕoriginal]1: Podrien tenir un vici perqu estan acostumats a mirar-lo.2: No socialitzarien@o amb la gent perqu estan amb el m˜bil.3: No estarien interessats@o en les coses interessants@o perqu estarien interessats@o en les coses del m˜bil.No tindrien que tenir m˜bil per aquestes raons@o.
+[% tÃ­tol] Creus Que els nens i nenes de la teva edat han de tenir MÃ’BIL?
+No, no tindrien que@s tenir mÃ²bil els nens/es de la nostra edat.
+[% format llista a l'original]
+1: Podrien tenir un vici perquÃ¨ estan acostumats a mirar-lo.
+2: No socialitzarien@o amb la gent perquÃ¨ estan amb el mÃ²bil.
+3: No estarien interessats@o en les coses interessants@o perquÃ¨ estarien interessats@o en les coses del mÃ²bil.
+No tindrien que tenir mÃ²bil per aquestes raons@o.

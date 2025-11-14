@@ -1,1 +1,6 @@
-[% títol] Creus que els nens i nenes de la teva edat han de tenir Mòbil?Jo penso que els nens i nenes no poden tenir mòbil amb 10 anys.Jo crec que no poden tenir mòbil. Perquè@o no tenen la suficient edat.Jo crec que no sabrien com utilitzar-lo. Perquè@o sol jugarien a videojocs.Jo crec que depèn@o poden tenir mòbil. Perquè@o potser pot haver@o una persona que sí@o sàpiga@o com funciona.En conclusió@o, jo crec que no poden tenir mòbil però poder hi ha moltes persones de 10 anys que sí@o poden saber utilitzar-lo, però@o és@o millor que no tingui@o mòbil@o si no quan sigui@o més gran.
+[% t√≠tol] Creus que els nens i nenes de la teva edat han de tenir M√≤bil?
+Jo penso que els nens i nenes no poden tenir m√≤bil amb 10 anys.
+Jo crec que no poden tenir m√≤bil. Perqu√®@o no tenen la suficient edat.
+Jo crec que no sabrien com utilitzar-lo. Perqu√®@o sol jugarien a videojocs.
+Jo crec que dep√®n@o poden tenir m√≤bil. Perqu√®@o potser pot haver@o una persona que s√≠@o s√†piga@o com funciona.
+En conclusi√≥@o, jo crec que no poden tenir m√≤bil per√≤ poder hi ha moltes persones de 10 anys que s√≠@o poden saber utilitzar-lo, per√≤@o √©s@o millor que no tingui@o m√≤bil@o si no quan sigui@o m√©s gran.

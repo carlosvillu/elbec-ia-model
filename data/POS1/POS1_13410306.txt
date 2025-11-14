@@ -1,1 +1,6 @@
-[% Títol] CREUS QUE A L’ESCOLA HA D’HAVER PATI?Jo crec que a l’escola sí@o que ha d’haver pati.La primera raó és que quan passa molt temps a la classe t’agovies i per això@o ha d’haver pati. Per treure l’agovi que tens de les classes.En segon lloc és que hi ha que jugar amb els amics i passar-ho@o bé perquè a la classe no pots parlar amb els teus amics i també@o tenim gana d’esmorzar.Per acabar hi ha d’haver pati perquè les mestres volen descansar i parlar amb un altre mestre.En resum, a l’escola ha d’haver pati pati per molts motius: per els nens, les mestres... i perquè s’ho@o passi@o bé tot@o el món@o de l’escola.
+[% T√≠tol] CREUS QUE A L'ESCOLA HA D'HAVER PATI?
+Jo crec que a l'escola s√≠@o que ha d'haver pati.
+La primera ra√≥ √©s que quan passa molt temps a la classe t'agovies i per aix√≤@o ha d'haver pati. Per treure l'agovi que tens de les classes.
+En segon lloc √©s que hi ha que jugar amb els amics i passar-ho@o b√© perqu√® a la classe no pots parlar amb els teus amics i tamb√©@o tenim gana d'esmorzar.
+Per acabar hi ha d'haver pati perqu√® les mestres volen descansar i parlar amb un altre mestre.
+En resum, a l'escola ha d'haver pati pati per molts motius: per els nens, les mestres... i perqu√® s'ho@o passi@o b√© tot@o el m√≥n@o de l'escola.

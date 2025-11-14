@@ -1,1 +1,5 @@
-[% Títol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN D’ANAR A L’ESCOLA?Sí, perquè tenim d’aprendre per poder treballar de grans i que ens donguin diners.Sí, perquè és@o important aprendre coses com l’anglès@o que és@o un idioma “mundial”. [% Cometes a l’original]Sí, perquè tenim d’aprendre a cuidar-nos. Les cordes vocals són importants per la nostra veu i ens permeten parlar per això tenim de cuidar-nos@o. No, perquè si et fan bullying@o@s la teva família@o no voldrà@o que vagis, no perquè@o si la teva família@o és@o pobra@o no et pot pagar perquè@ vagis a l’escola i puguis aprendre.
+[% T√≠tol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN D'ANAR A L'ESCOLA?
+S√≠, perqu√® tenim d'aprendre per poder treballar de grans i que ens donguin diners.
+S√≠, perqu√® √©s@o important aprendre coses com l'angl√®s@o que √©s@o un idioma "mundial". [% Cometes a l'original]
+S√≠, perqu√® tenim d'aprendre a cuidar-nos. Les cordes vocals s√≥n importants per la nostra veu i ens permeten parlar per aix√≤ tenim de cuidar-nos@o. 
+No, perqu√® si et fan bullying@o@s la teva fam√≠lia@o no voldr√†@o que vagis, no perqu√®@o si la teva fam√≠lia@o √©s@o pobra@o no et pot pagar perqu√®@ vagis a l'escola i puguis aprendre.

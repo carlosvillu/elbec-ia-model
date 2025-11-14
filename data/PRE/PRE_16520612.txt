@@ -1,1 +1,2 @@
-[% títol] Creus que els nens de la teva edat han de tenir mòbil@o?Depèn@o, com ho utilitzen@o si és@o per perdre el temps no, perquè@o hi ha jocs que es compren i els nens poden comprar-ho.
+[% t√≠tol] Creus que els nens de la teva edat han de tenir m√≤bil@o?
+Dep√®n@o, com ho utilitzen@o si √©s@o per perdre el temps no, perqu√®@o hi ha jocs que es compren i els nens poden comprar-ho.

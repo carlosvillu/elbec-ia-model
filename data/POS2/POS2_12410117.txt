@@ -1,1 +1,6 @@
-[% Títol] CREUS QUE A L’ESCOLA ES NECESSITA TEMPS DE PATI, EL TEMPS D’ESBARJO@o?Sí, perquè una raó és que si no hi ha pati has d’estar quasi@o tot el temps estan en la classe i estudiar@o molt.Una segona raó és que si li has de dir una cosa important a un amic o a una persona li pots dir al pati.I una tercera raó seria@o que si tens extraescolar quan te’n@o vagis de l’escola cap a l’extraescolar@o estaràs@o molt agotat.En conclusió jo crec que es necessita temps de pati per fer coses.
+[% T√≠tol] CREUS QUE A L'ESCOLA ES NECESSITA TEMPS DE PATI, EL TEMPS D'ESBARJO@o?
+S√≠, perqu√® una ra√≥ √©s que si no hi ha pati has d'estar quasi@o tot el temps estan en la classe i estudiar@o molt.
+Una segona ra√≥ √©s que si li has de dir una cosa important a un amic o a una persona li pots dir al pati.
+I una tercera ra√≥ seria@o que si tens extraescolar quan te'n@o vagis de l'escola cap a l'extraescolar@o estar√†s@o molt agotat.
+En conclusi√≥ jo crec que es necessita temps de pati per fer coses.
+

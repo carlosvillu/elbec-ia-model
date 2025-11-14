@@ -1,1 +1,2 @@
-[% títol] Nens amb aquesta edat@o podem tindre mòbil@o?Perquè@o podem estar sols i si hi ha una emergència@o podem cridar als pares.
+[% t√≠tol] Nens amb aquesta edat@o podem tindre m√≤bil@o?
+Perqu√®@o podem estar sols i si hi ha una emerg√®ncia@o podem cridar als pares.

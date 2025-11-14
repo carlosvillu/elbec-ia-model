@@ -1,1 +1,7 @@
-[% Títol] CREUS QUE A L’ESCOLA ES NECESSITA TEMPS DE PATI, EL TEMPS D’ESBARJO@o?Jo crec que sí@o,Una raó és que necessites@o aire lliure i descansar de la classe, si no estaràs@o tancat tota l’estona.La segona raó és que també has de jugar i passar-t’ho@o bé, com escalar, córrer@o, ballar...L’última raó és que necessites parlar amb els teus companys, poder esmorzar i coses així@o.La conclusió és que si fas pati tindràs@o aire lliure, podràs@o jugar i parlar.
+[% T√≠tol] CREUS QUE A L'ESCOLA ES NECESSITA TEMPS DE PATI, EL TEMPS D'ESBARJO@o?
+Jo crec que s√≠@o,
+Una ra√≥ √©s que necessites@o aire lliure i descansar de la classe, si no estar√†s@o tancat tota l'estona.
+La segona ra√≥ √©s que tamb√© has de jugar i passar-t'ho@o b√©, com escalar, c√≥rrer@o, ballar...
+L'√∫ltima ra√≥ √©s que necessites parlar amb els teus companys, poder esmorzar i coses aix√≠@o.
+La conclusi√≥ √©s que si fas pati tindr√†s@o aire lliure, podr√†s@o jugar i parlar.
+

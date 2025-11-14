@@ -1,1 +1,6 @@
-[% títol] Creus que les persones de la teva edat han d’anar a l’escola?Per mi, els nens de la meva edat sí@o que tenen que@s anar a l’escola.La primera raó és que hi ha que anar a l’escola perquè@p sinó@o no aprenem i no sabríem@o res.En segon lloc, si ara no anem a l’escola, de grans no tindríem@o un futur bo@o, ja que no sabríem@o coses que t’ensenyen a l’escola com ara a nosaltres ens ensenyen a fer textos d’opinió. Per última raó@o i explicació, l’escola també és divertida, com que hi han molts nens i nenes podem ser els seus amics i jugar a moltes coses.En conclusió, tenim que@s aprendre i tenir un bon futur. També@o hi ha que tindre amics i si estudies@o podràs@o ser de gran el que valguis.
+[% t√≠tol] Creus que les persones de la teva edat han d'anar a l'escola?
+Per mi, els nens de la meva edat s√≠@o que tenen que@s anar a l'escola.
+La primera ra√≥ √©s que hi ha que anar a l'escola perqu√®@p sin√≥@o no aprenem i no sabr√≠em@o res.
+En segon lloc, si ara no anem a l'escola, de grans no tindr√≠em@o un futur bo@o, ja que no sabr√≠em@o coses que t'ensenyen a l'escola com ara a nosaltres ens ensenyen a fer textos d'opini√≥. 
+Per √∫ltima ra√≥@o i explicaci√≥, l'escola tamb√© √©s divertida, com que hi han molts nens i nenes podem ser els seus amics i jugar a moltes coses.
+En conclusi√≥, tenim que@s aprendre i tenir un bon futur. Tamb√©@o hi ha que tindre amics i si estudies@o podr√†s@o ser de gran el que valguis.

@@ -1,1 +1,2 @@
-[% Títol] Creus que a l’escola es necessita temps de pati, al temps d’esbarjo?Sí@o perquè@o es necessita treure les energies menjant@o@h. També@o no angoixar-se@o@s i tenim dret a divertir-nos i per poder-nos moure’ns i no estar sentats tot el rato@s i moure’ns més@o. 
+[% T√≠tol] Creus que a l'escola es necessita temps de pati, al temps d'esbarjo?
+S√≠@o perqu√®@o es necessita treure les energies menjant@o@h. Tamb√©@o no angoixar-se@o@s i tenim dret a divertir-nos i per poder-nos moure'ns i no estar sentats tot el rato@s i moure'ns m√©s@o. 

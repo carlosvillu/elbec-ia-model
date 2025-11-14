@@ -1,1 +1,2 @@
-[% text en majúscules]CREC QUE NO HAN DE TENIR MÒBIL@o. LA 1 RAÓ@o ÉS@o QUE SE ES PODEN@o QUEDAR@o CEGS@o.
+[% text en maj√∫scules]
+CREC QUE NO HAN DE TENIR M√íBIL@o. LA 1 RA√ì@o √âS@o QUE SE ES PODEN@o QUEDAR@o CEGS@o.

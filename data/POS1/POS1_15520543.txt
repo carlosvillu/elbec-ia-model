@@ -1,1 +1,8 @@
-CREC [% majúscules a l’original]: jo@o crec que no han de tenir mòbil.- RAÓ@o 1: Si tenen mòbil s’enganxen.Explicació@o: I no jugaran tant amb els amics/a.RAÓ@o 2: Podem veure coses per adults.Explicació@o: Veuran coses d’adults com contingut@o sexual i vídeos@o de por.RAÓ@o 3: Podem perdre el mòbil.Explicació@o: I això@o fa que tinguis@o ansietat@o perquè@o no trobes@o el mòbil.Conclusió@o: En conclusió@o no han@o de tenir mòbil, perquè@o poden veure contingut@o sexual o vídeos@o de por.
+CREC [% maj√∫scules a l'original]: jo@o crec que no han de tenir m√≤bil.
+- RA√ì@o 1: Si tenen m√≤bil s'enganxen.
+Explicaci√≥@o: I no jugaran tant amb els amics/a.
+RA√ì@o 2: Podem veure coses per adults.
+Explicaci√≥@o: Veuran coses d'adults com contingut@o sexual i v√≠deos@o de por.
+RA√ì@o 3: Podem perdre el m√≤bil.
+Explicaci√≥@o: I aix√≤@o fa que tinguis@o ansietat@o perqu√®@o no trobes@o el m√≤bil.
+Conclusi√≥@o: En conclusi√≥@o no han@o de tenir m√≤bil, perqu√®@o poden veure contingut@o sexual o v√≠deos@o de por.

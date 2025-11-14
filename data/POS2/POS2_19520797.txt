@@ -1,1 +1,7 @@
-[% títol en majúscules] CREUS QUE A L’ESCOLA HI HA D’HAVER@o TEMPS DE PATI?Jo crec que és@o molt important que tots els nens i les nenes tinguin temps de pati a les escoles.Els nens i nenes tenen dret ai necessiten anar al pati perquè@o els dona@o l’aire, si estan tancats@o totes les hores de les escoles a les classes@o es poden marejar@o i desmaiar@o.L’hora del pati és@o un moment del dia que els infants es poden conèixer@o, poden jugar, poden parlar, …Però si no hi ha estona de pati no es poden socialitzar@o ni conèixer@o entre ells.Un dels moments que podem menjar l’esmorzar, si no mengem@o ens podem marejar i fins i tot ens podem desmaiar@o.En conclusió@o, és@o molt important l’hora del pati a les escoles.
+[% t√≠tol en maj√∫scules] CREUS QUE A L'ESCOLA HI HA D'HAVER@o TEMPS DE PATI?
+Jo crec que √©s@o molt important que tots els nens i les nenes tinguin temps de pati a les escoles.
+Els nens i nenes tenen dret ai necessiten anar al pati perqu√®@o els dona@o l'aire, si estan tancats@o totes les hores de les escoles a les classes@o es poden marejar@o i desmaiar@o.
+L'hora del pati √©s@o un moment del dia que els infants es poden con√®ixer@o, poden jugar, poden parlar, ‚Ä¶
+Per√≤ si no hi ha estona de pati no es poden socialitzar@o ni con√®ixer@o entre ells.
+Un dels moments que podem menjar l'esmorzar, si no mengem@o ens podem marejar i fins i tot ens podem desmaiar@o.
+En conclusi√≥@o, √©s@o molt important l'hora del pati a les escoles.

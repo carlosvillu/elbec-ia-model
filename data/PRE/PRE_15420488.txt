@@ -1,1 +1,2 @@
-[% títol] Creus que les persones de la teva edat han d’anar a l’escola?Sí@o i també@o d’uns altres edats més@o petites i més@o grans des de I3 a 6è@o, i també@o per aprendre coses de l’escola o també@o històries@o de l’escola però@o a l’escola no venim a fer coses males, per exemple sempre fer baralles i tot això@o venim per aprendre moltes coses més@o.
+[% t√≠tol] Creus que les persones de la teva edat han d'anar a l'escola?
+S√≠@o i tamb√©@o d'uns altres edats m√©s@o petites i m√©s@o grans des de I3 a 6√®@o, i tamb√©@o per aprendre coses de l'escola o tamb√©@o hist√≤ries@o de l'escola per√≤@o a l'escola no venim a fer coses males, per exemple sempre fer baralles i tot aix√≤@o venim per aprendre moltes coses m√©s@o.

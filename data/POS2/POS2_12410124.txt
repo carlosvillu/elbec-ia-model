@@ -1,1 +1,6 @@
-[% Títol] CREUS QUE A L’ESCOLA ES@o NECESSITA TEMPS DE PATI, EL TEMPS D’ESBARJO?Jo crec que sí que es@o necessita temps d’esbarjo.La primera raó és que així pots descansar, jugar i pots esmorzar.La segona raó és que així no estàs fent classe tot, tot [% repetició a l’original] el dia!La tercera raó és que també pots estudiar al pati o a la biblioteca.En conclusió, jo crec que és necessari tindre temps d’esbarjo per jugar, descansar. Així no fas classe tot el dia i també pots fer feina a la biblioteca.
+[% T√≠tol] CREUS QUE A L'ESCOLA ES@o NECESSITA TEMPS DE PATI, EL TEMPS D'ESBARJO?
+Jo crec que s√≠ que es@o necessita temps d'esbarjo.
+La primera ra√≥ √©s que aix√≠ pots descansar, jugar i pots esmorzar.
+La segona ra√≥ √©s que aix√≠ no est√†s fent classe tot, tot [% repetici√≥ a l'original] el dia!
+La tercera ra√≥ √©s que tamb√© pots estudiar al pati o a la biblioteca.
+En conclusi√≥, jo crec que √©s necessari tindre temps d'esbarjo per jugar, descansar. Aix√≠ no fas classe tot el dia i tamb√© pots fer feina a la biblioteca.

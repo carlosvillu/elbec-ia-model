@@ -1,1 +1,7 @@
-[% títol] CREIEU QUE LES PERSONES DE LA VOSTRA EDAT HAN D’ANAR A L’ESCOLA?Jo penso que les persones de la meva edat sí que haurien d’anar a l’escola [% subratllat].Penso això per les següents@o raons@o: La primera, és perquè és lo normal, el que fa tothom.La segona raó, és perquè de grans, podriem tenir dificultats i podríem@o perdre el treball.La tercera, és perquè potser donaríem@o massa feina i no podríem@o estar tot el dia mirant la televisió@o.I la quarta i l’última raó, és perquè no estaríem ben educats ni tindríem bona disciplina.
+[% t√≠tol] CREIEU QUE LES PERSONES DE LA VOSTRA EDAT HAN D'ANAR A L'ESCOLA?
+Jo penso que les persones de la meva edat s√≠ que haurien d'anar a l'escola [% subratllat].
+Penso aix√≤ per les seg√ºents@o raons@o: 
+La primera, √©s perqu√® √©s lo normal, el que fa tothom.
+La segona ra√≥, √©s perqu√® de grans, podriem tenir dificultats i podr√≠em@o perdre el treball.
+La tercera, √©s perqu√® potser donar√≠em@o massa feina i no podr√≠em@o estar tot el dia mirant la televisi√≥@o.
+I la quarta i l'√∫ltima ra√≥, √©s perqu√® no estar√≠em ben educats ni tindr√≠em bona disciplina.

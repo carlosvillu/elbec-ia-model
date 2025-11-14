@@ -1,1 +1,4 @@
-[% T’tol] El patiJo crec que s’@o s@o bo tenir 30 min de pati per˜ no tenir 1h de pati perqu@o s@o massa@o.ƒs un moment@o de descans per estar jugant@o, parlant@o, jugant@o a futbol o bˆsquet@o.ƒs@o un moment per menjar, per desconnectar@o de les classes, sortir, un moment de llibertat, sentir-te lliure.
+[% TÃ­tol] El pati
+Jo crec que sÃ­@o Ã©s@o bo tenir 30 min de pati perÃ² no tenir 1h de pati perquÃ¨@o Ã©s@o massa@o.
+Ã‰s un moment@o de descans per estar jugant@o, parlant@o, jugant@o a futbol o bÃ squet@o.
+Ã‰s@o un moment per menjar, per desconnectar@o de les classes, sortir, un moment de llibertat, sentir-te lliure.

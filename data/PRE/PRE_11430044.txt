@@ -1,1 +1,2 @@
-[% Títol] Creus que a l’escola es necessita temps de pati?Sí, perquè hi ha d’haver un moment a l’escola que els nens puguin treure l’energia porten aguantant-se tot el matí o dia perquè si no hi hagués pati els nens podrien fer coses que no estan permeses a classe només perquè han de treure energia i no l’han tret.
+[% T√≠tol] Creus que a l'escola es necessita temps de pati?
+S√≠, perqu√® hi ha d'haver un moment a l'escola que els nens puguin treure l'energia porten aguantant-se tot el mat√≠ o dia perqu√® si no hi hagu√©s pati els nens podrien fer coses que no estan permeses a classe nom√©s perqu√® han de treure energia i no l'han tret.

@@ -1,1 +1,6 @@
-[% Títol] Creus que els nens i nenes de la teva edat han de tenir mòbil@o?Jo crec que no hem de tenir mòbil@o!La primera raó és que no hem de tenir mòbil@o perquè@o estaríem@o viciats i no faríem@o els deures ni estaríem@o amb la família@o.La segona raó és que no hem@o de tenir mòbil@o a la nostra edat perquè@o a les xarxes socials hi han coses no de la nostra edat.La tercera raó és@o que cap menor de 16 anys ha de tenir-ne perquè ho diu la llei.En conclusió, el mòbil a la nostra edat és@o innecessari@o i inútil@o.
+[% T√≠tol] Creus que els nens i nenes de la teva edat han de tenir m√≤bil@o?
+Jo crec que no hem de tenir m√≤bil@o!
+La primera ra√≥ √©s que no hem de tenir m√≤bil@o perqu√®@o estar√≠em@o viciats i no far√≠em@o els deures ni estar√≠em@o amb la fam√≠lia@o.
+La segona ra√≥ √©s que no hem@o de tenir m√≤bil@o a la nostra edat perqu√®@o a les xarxes socials hi han coses no de la nostra edat.
+La tercera ra√≥ √©s@o que cap menor de 16 anys ha de tenir-ne perqu√® ho diu la llei.
+En conclusi√≥, el m√≤bil a la nostra edat √©s@o innecessari@o i in√∫til@o.

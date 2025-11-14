@@ -1,3 +1,6 @@
-[% Títol] A L'ESCOLA ES NECESSITA TEMPS DE PATI
+[% T√≠tol] A L'ESCOLA ES NECESSITA TEMPS DE PATI
 
-M'han@o preguntat que si crec que A l’escola@o es necessita temps de pati o d’esbarjo, asi@s que vaig a respondre.Jo@o crec que sí@o i a la vegada no, mira, primer diré@o perquè@o crec que sí@o. Jo@o crec que sí@o perquè@o dins de l’hora de jugar (cosa que m’agrada) també hi ha l’hora de menjar, ja@o que si no mengem@o, en la classe estarem amb molta gana. Ademas@s, que si no tenim pati no ens podem comunicar tant amb els amics perquè@o en classe no estem parlant (jo@o sí@o).També crec que no, perquè@o no és@o tant necessari@o estar jugant@o, corrents... Perquè@o l’únic@o que fa és@o alterar-nos i donar-nos set@o, però@o la meva resposta és@o que sí@ [% subratllat] és@o necessari@o.
+M'han@o preguntat que si crec que A l'escola@o es necessita temps de pati o d'esbarjo, asi@s que vaig a respondre.
+
+Jo@o crec que s√≠@o i a la vegada no, mira, primer dir√©@o perqu√®@o crec que s√≠@o. Jo@o crec que s√≠@o perqu√®@o dins de l'hora de jugar (cosa que m'agrada) tamb√© hi ha l'hora de menjar, ja@o que si no mengem@o, en la classe estarem amb molta gana. Ademas@s, que si no tenim pati no ens podem comunicar tant amb els amics perqu√®@o en classe no estem parlant (jo@o s√≠@o).
+Tamb√© crec que no, perqu√®@o no √©s@o tant necessari@o estar jugant@o, corrents... Perqu√®@o l'√∫nic@o que fa √©s@o alterar-nos i donar-nos set@o, per√≤@o la meva resposta √©s@o que s√≠@ [% subratllat] √©s@o necessari@o.

@@ -1,1 +1,3 @@
-[% títol] TEMPS DEL PATIJo crec que sí@o necessitem estona de pati perquè@o una estona ja que estem a la classe tot el dia, podríem@o tenir una estona.També@o els nens/es petits i els grans ens agobiem.
+[% t√≠tol] TEMPS DEL PATI
+Jo crec que s√≠@o necessitem estona de pati perqu√®@o una estona ja que estem a la classe tot el dia, podr√≠em@o tenir una estona.
+Tamb√©@o els nens/es petits i els grans ens agobiem.

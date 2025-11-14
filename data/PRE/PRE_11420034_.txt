@@ -1,1 +1,2 @@
-[% títol] Creus que a l’escola es necessita temps de pati?Jo crec que sí@o, perquè sinó@o on esmorzariem@o? I 
+[% t√≠tol] Creus que a l'escola es necessita temps de pati?
+Jo crec que s√≠@o, perqu√® sin√≥@o on esmorzariem@o? I 

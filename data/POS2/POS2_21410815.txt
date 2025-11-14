@@ -1,1 +1,3 @@
-Sí@o per aprendre@o a utilitzar-lo@o i perquè la. No perquè ha@o webs@o que no són@o adequades per la nostra edat com una exemple@o XXX [% lletres repetides a l’original].SÍ@o [% majúscules a l’original], per fer feines que envia@o l’escola, ens envien la totes@o de@o multiplicar@o i dividir@o.NO [% majúcules a l’original], perquè és@o important@o protegir@o la nostra identitat@o i perquè no és@o rastregin@o.
+S√≠@o per aprendre@o a utilitzar-lo@o i perqu√® la. No perqu√® ha@o webs@o que no s√≥n@o adequades per la nostra edat com una exemple@o XXX [% lletres repetides a l'original].
+S√ç@o [% maj√∫scules a l'original], per fer feines que envia@o l'escola, ens envien la totes@o de@o multiplicar@o i dividir@o.
+NO [% maj√∫cules a l'original], perqu√® √©s@o important@o protegir@o la nostra identitat@o i perqu√® no √©s@o rastregin@o.

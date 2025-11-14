@@ -1,1 +1,6 @@
-[% Títol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN DE TENIR MÒBIL?Jo crec que els nens i les nenes de la meva edat no han de tenir mòbilLa primera raó és que els nens i les nenes de la meva edat no han de tenir mòbil perquè pot crear addicció@o.La segona raó és que ningú@o de la meva edat ha de tenir mòbil, perquè és@o dolent per la vista i pot causar que et quedis cec@o.La tercera raó és que no han de tenir mòbil perquè el mòbil ha creat molts accidents@o i per culpa d’aquests@o accidents@o del mòbil ha mort molta gent.En conclusió, no és@o bo que els nens i les nenes de la meva edat tinguin mòbil@o perquè al llarg de la vida poden venir moltes coses negatives.
+[% T√≠tol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN DE TENIR M√íBIL?
+Jo crec que els nens i les nenes de la meva edat no han de tenir m√≤bil
+La primera ra√≥ √©s que els nens i les nenes de la meva edat no han de tenir m√≤bil perqu√® pot crear addicci√≥@o.
+La segona ra√≥ √©s que ning√∫@o de la meva edat ha de tenir m√≤bil, perqu√® √©s@o dolent per la vista i pot causar que et quedis cec@o.
+La tercera ra√≥ √©s que no han de tenir m√≤bil perqu√® el m√≤bil ha creat molts accidents@o i per culpa d'aquests@o accidents@o del m√≤bil ha mort molta gent.
+En conclusi√≥, no √©s@o bo que els nens i les nenes de la meva edat tinguin m√≤bil@o perqu√® al llarg de la vida poden venir moltes coses negatives.

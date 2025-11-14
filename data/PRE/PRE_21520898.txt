@@ -1,1 +1,9 @@
-L’hora del pati és@o molt important perquè@o:[% format de llista a l’original]· Estic amb els meus amics i amigues.· Pots estudiar i llegir al pati.· Faig amics i amigues noves/nous, d’uns altres cursos: 3r, 4t …· M’ho passo molt bé@o.· Ajudo als més@o petits i@o petites.· Coneixo a profes d’uns altres cursos: 2n, 1r.[% a partir d’aquí en majúscules] PERÒ EL PATI SERIA MOLT MILLOR I DIVERTIT SI … TOTS JUGUEM@o AL ESCONDITE@s!!! [% signes d’exclamació a l’original]
+L'hora del pati √©s@o molt important perqu√®@o:
+[% format de llista a l'original]
+¬∑ Estic amb els meus amics i amigues.
+¬∑ Pots estudiar i llegir al pati.
+¬∑ Faig amics i amigues noves/nous, d'uns altres cursos: 3r, 4t ‚Ä¶
+¬∑ M'ho passo molt b√©@o.
+¬∑ Ajudo als m√©s@o petits i@o petites.
+¬∑ Coneixo a profes d'uns altres cursos: 2n, 1r.
+[% a partir d'aqu√≠ en maj√∫scules] PER√í EL PATI SERIA MOLT MILLOR I DIVERTIT SI ‚Ä¶ TOTS JUGUEM@o AL ESCONDITE@s!!! [% signes d'exclamaci√≥ a l'original]

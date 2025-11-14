@@ -1,1 +1,4 @@
-[% Títol] Creus que les persones de la teva edat han d’anar a l’escola?Jo crec que sí@o, les meves raons són@o: 1 aprens moltes coses, ja es pot fer professors@o particulars però@o és@o important relacionar-se amb altres persones i fer amics. 2 La primària@o és@o una de les coses més importants@o.3 Fas manualitats, aprens, fas amics i activitats noves.4 Tens que@o fer treball en grup (de vegades), després acabes i fi. Al dia següent@o fas coses diferents@o, coses noves fins el divendres, després tens dos dies per fer el que vulguis@o, es fa dilluns i coses més divertides.
+[% T√≠tol] Creus que les persones de la teva edat han d'anar a l'escola?
+Jo crec que s√≠@o, les meves raons s√≥n@o: 1 aprens moltes coses, ja es pot fer professors@o particulars per√≤@o √©s@o important relacionar-se amb altres persones i fer amics. 2 La prim√†ria@o √©s@o una de les coses m√©s importants@o.
+3 Fas manualitats, aprens, fas amics i activitats noves.
+4 Tens que@o fer treball en grup (de vegades), despr√©s acabes i fi. Al dia seg√ºent@o fas coses diferents@o, coses noves fins el divendres, despr√©s tens dos dies per fer el que vulguis@o, es fa dilluns i coses m√©s divertides.

@@ -1,1 +1,4 @@
-[% Títol] CREUS QUE A L’ESCOLA ES NECESSITA TEMPS DE PATI?Jo crec que sí@o, perquè@o si no estem molta estona pensant@o, treballant@o i asseguts@o que ens cansem.També@o crec que el Govern@o de Catalunya ho@o fa obligatori@o.Crec que també@o és per aprofitar el temps d’esmorzar.
+[% T√≠tol] CREUS QUE A L'ESCOLA ES NECESSITA TEMPS DE PATI?
+Jo crec que s√≠@o, perqu√®@o si no estem molta estona pensant@o, treballant@o i asseguts@o que ens cansem.
+Tamb√©@o crec que el Govern@o de Catalunya ho@o fa obligatori@o.
+Crec que tamb√©@o √©s per aprofitar el temps d'esmorzar.

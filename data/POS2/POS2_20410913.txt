@@ -1,1 +1,2 @@
-[% Títol] Creus que les persones de la teva edat han d’anar a l’escola?Crec que sí@o perquè aprenem@o noves coses i també@o amics i també@o perquè ensenyen@o coses noves i perquè@o tenim amics i perquè hi ha un menjador@o on mengem@o i així@o no tenim d’anar a casa a menjar@o i no tenim de sortir@o de l’escola i crec que sí@o és necessari@o anar@o a l’escola.
+[% T√≠tol] Creus que les persones de la teva edat han d'anar a l'escola?
+Crec que s√≠@o perqu√® aprenem@o noves coses i tamb√©@o amics i tamb√©@o perqu√® ensenyen@o coses noves i perqu√®@o tenim amics i perqu√® hi ha un menjador@o on mengem@o i aix√≠@o no tenim d'anar a casa a menjar@o i no tenim de sortir@o de l'escola i crec que s√≠@o √©s necessari@o anar@o a l'escola.

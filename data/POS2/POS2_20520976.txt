@@ -1,1 +1,2 @@
-[% títol] Creus que els nens i nenes han d’anar a l’escola??? [% interrogants a l’original]Jo crec que sí@o, perquè@o hem d’estudiar i cada dia aprendre una cosa nova. També@o com socialitzar amb els companys, fer amics i passar-se-lo bé. Perquè@o si no vas a l’escola no tindràs@o estudis i seràs@o més difícil trobar treball.
+[% t√≠tol] Creus que els nens i nenes han d'anar a l'escola??? [% interrogants a l'original]
+Jo crec que s√≠@o, perqu√®@o hem d'estudiar i cada dia aprendre una cosa nova. Tamb√©@o com socialitzar amb els companys, fer amics i passar-se-lo b√©. Perqu√®@o si no vas a l'escola no tindr√†s@o estudis i ser√†s@o m√©s dif√≠cil trobar treball.

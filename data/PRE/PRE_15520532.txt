@@ -1,1 +1,3 @@
-[% títol] Creus que les persones de la teva edat Han d’anar a l’escola?Sí@o, perquè@o tenen que@s saber el valor de totes les coses@o, Multiplicacions@o, sumes, restes, Divisions, Amics, etc@o. (Una Història@o) Un dia uns indígens@o estaven@o en el carrer demanant diners i un ric que vivia per la zona lis va preguntar – Una pregunta, tu vas a l’escola. I la nena li va dir que no, el ric lis va dir – I volia aprendre@o coses@o de l’escola, I acomiadar-los.
+[% t√≠tol] Creus que les persones de la teva edat Han d'anar a l'escola?
+S√≠@o, perqu√®@o tenen que@s saber el valor de totes les coses@o, Multiplicacions@o, sumes, restes, Divisions, Amics, etc@o. 
+(Una Hist√≤ria@o) Un dia uns ind√≠gens@o estaven@o en el carrer demanant diners i un ric que vivia per la zona lis va preguntar ‚Äì Una pregunta, tu vas a l'escola. I la nena li va dir que no, el ric lis va dir ‚Äì I volia aprendre@o coses@o de l'escola, I acomiadar-los.

@@ -1,1 +1,2 @@
-[% Títol] Creus que els nens i nenes de la teva edat han de tenir mòbil?Jo crec que no poden utilitzar el mòbil com la nostra@o edat@o els nens de la nostra edat@o no poden perquè s’enganxen@o molts minuts. No poden veure@o sempre el mòbil perquè li faran malbé els@o ulls. En conclusió, no poden mirar el mòbil sempre perquè@o li faran molt mal els@o ulls.
+[% T√≠tol] Creus que els nens i nenes de la teva edat han de tenir m√≤bil?
+Jo crec que no poden utilitzar el m√≤bil com la nostra@o edat@o els nens de la nostra edat@o no poden perqu√® s'enganxen@o molts minuts. No poden veure@o sempre el m√≤bil perqu√® li faran malb√© els@o ulls. En conclusi√≥, no poden mirar el m√≤bil sempre perqu√®@o li faran molt mal els@o ulls.

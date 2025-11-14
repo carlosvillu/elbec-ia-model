@@ -1,1 +1,2 @@
-[% Títol] Creus que l’escola necessita@o temps de pati.M’agradaria que tingués@o un camp de gespa i que estigui@o més@o net el pati. També m’agradaria tindre@o un estany@o a l’hort i que la lateral@o estigui@o més@o neta@o. El pati també serveix@o per llegir i fer els deures i també per fer educació@o física.
+[% T√≠tol] Creus que l'escola necessita@o temps de pati.
+M'agradaria que tingu√©s@o un camp de gespa i que estigui@o m√©s@o net el pati. Tamb√© m'agradaria tindre@o un estany@o a l'hort i que la lateral@o estigui@o m√©s@o neta@o. El pati tamb√© serveix@o per llegir i fer els deures i tamb√© per fer educaci√≥@o f√≠sica.

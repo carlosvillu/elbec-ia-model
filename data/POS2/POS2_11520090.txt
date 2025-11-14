@@ -1,1 +1,6 @@
-[% títol] CREUS QUE ELS NENS I LES NENES DE LA TEVA EDAT HAN DE TENIR MÒBIL?Jo crec que no haurien de tenir; però si l’utilitzes per algo@s important no passa res.Una raó, és que si estàs sempre amb el mòbil no el voldràs deixar@o i tindràs un vici; perquè@o llavors podries no voler jugar a sortir al carrer.També, si el tens no s’ha d’utilitzar per jugar a videojocs, sinó que per buscar informació; perquè buscant@o informació poden desenvolupar la nostra intel·ligència.L’última raó, és que hem d’aprofitar al màxim, poder jugar i disfrutar; perquè quan siguem més grans quasi sempre estaràs amb el mòbil.En conclusió, el mòbil per poder buscar informació està bé, però en general és millor que disfrutem, juguem@o i que ens divertim sense el mòbil.
+[% t√≠tol] CREUS QUE ELS NENS I LES NENES DE LA TEVA EDAT HAN DE TENIR M√íBIL?
+Jo crec que no haurien de tenir; per√≤ si l'utilitzes per algo@s important no passa res.
+Una ra√≥, √©s que si est√†s sempre amb el m√≤bil no el voldr√†s deixar@o i tindr√†s un vici; perqu√®@o llavors podries no voler jugar a sortir al carrer.
+Tamb√©, si el tens no s'ha d'utilitzar per jugar a videojocs, sin√≥ que per buscar informaci√≥; perqu√® buscant@o informaci√≥ poden desenvolupar la nostra intel¬∑lig√®ncia.
+L'√∫ltima ra√≥, √©s que hem d'aprofitar al m√†xim, poder jugar i disfrutar; perqu√® quan siguem m√©s grans quasi sempre estar√†s amb el m√≤bil.
+En conclusi√≥, el m√≤bil per poder buscar informaci√≥ est√† b√©, per√≤ en general √©s millor que disfrutem, juguem@o i que ens divertim sense el m√≤bil.

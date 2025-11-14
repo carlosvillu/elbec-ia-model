@@ -1,1 +1,6 @@
-[% Títol] Creus que a l’escola es necessita temps de pati, el temps d’esbarjo?Jo crec que sí, que necessitem temps de pati a l’escola.La 1ª raó: perquè@o si no@o estem asseguts tot el dia i no fem exercici@o.La 2ª raó: perquè@o així@o podem jugar enlloc d’estar pensant tota l’estona.L’última raó: és que som@o lliures al pati i ningú ens obliga a fer coses.En conclusió, tots i totes necessitem fer exercici@o físic.
+[% T√≠tol] Creus que a l'escola es necessita temps de pati, el temps d'esbarjo?
+Jo crec que s√≠, que necessitem temps de pati a l'escola.
+La 1¬™ ra√≥: perqu√®@o si no@o estem asseguts tot el dia i no fem exercici@o.
+La 2¬™ ra√≥: perqu√®@o aix√≠@o podem jugar enlloc d'estar pensant tota l'estona.
+L'√∫ltima ra√≥: √©s que som@o lliures al pati i ning√∫ ens obliga a fer coses.
+En conclusi√≥, tots i totes necessitem fer exercici@o f√≠sic.

@@ -1,1 +1,5 @@
-[% títol] LA MEVA OPINIÓ SOBRE EL PATIJo penso que el pati és molt divertit i crec que tots ens ho passem molt bé, però penso que és massa temps.Per a mi, el pati és molt xulo, tot i que a vegades a la gent no li agrada perquè està sol o moltes vegades hi ha conflictes.Està molt bé que facin un pati, perquè@o la gent descansi, però penso que el pati de la tarda és massa llarg, crec que hauria d’haver-hi un límit com 1 hora aprox.En resum, jo crec que és una bona idea fer patis entre les classes, però haurien de reduir el temps.
+[% t√≠tol] LA MEVA OPINI√ì SOBRE EL PATI
+Jo penso que el pati √©s molt divertit i crec que tots ens ho passem molt b√©, per√≤ penso que √©s massa temps.
+Per a mi, el pati √©s molt xulo, tot i que a vegades a la gent no li agrada perqu√® est√† sol o moltes vegades hi ha conflictes.
+Est√† molt b√© que facin un pati, perqu√®@o la gent descansi, per√≤ penso que el pati de la tarda √©s massa llarg, crec que hauria d'haver-hi un l√≠mit com 1 hora aprox.
+En resum, jo crec que √©s una bona idea fer patis entre les classes, per√≤ haurien de reduir el temps.

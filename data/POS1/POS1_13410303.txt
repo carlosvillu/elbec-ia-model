@@ -1,1 +1,6 @@
-[% Títol] Creus que a l’escola ha d’haver pati?Per iniciar, jo crec que sí@o hem@o de tenir hora de pati.La primera raó és@o que si no ens avorriríem@o sense@o anar@o al pati perquè@o si no tens pati cada dia t’avorriries@o.La segona raó és@o que és@o diverttit anar@o al pati perquè et pots varrejar@o amb amics de l’altra classe.L’últim@o motiu és@o que si no vas al pati t’agoviaries i voldries sortir al pati a tomar@s l’aire@o.En resum, que les escoles han@o de tenir pati per jugar i per tomar@s l’aire i no estar tancats a la classe tot el dia.
+[% T√≠tol] Creus que a l'escola ha d'haver pati?
+Per iniciar, jo crec que s√≠@o hem@o de tenir hora de pati.
+La primera ra√≥ √©s@o que si no ens avorrir√≠em@o sense@o anar@o al pati perqu√®@o si no tens pati cada dia t'avorriries@o.
+La segona ra√≥ √©s@o que √©s@o diverttit anar@o al pati perqu√® et pots varrejar@o amb amics de l'altra classe.
+L'√∫ltim@o motiu √©s@o que si no vas al pati t'agoviaries i voldries sortir al pati a tomar@s l'aire@o.
+En resum, que les escoles han@o de tenir pati per jugar i per tomar@s l'aire i no estar tancats a la classe tot el dia.

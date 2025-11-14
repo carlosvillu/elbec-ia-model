@@ -1,1 +1,2 @@
-[% Títol] Creus que a l’escola es necessita@o temps de pati.Sí@o, perquè@o tenim dret de descansar. També@o podem@o jugar amb la nostra amic o amiga de l’altra classe@o. Així@o podem jugar lliure@o.
+[% T√≠tol] Creus que a l'escola es necessita@o temps de pati.
+S√≠@o, perqu√®@o tenim dret de descansar. Tamb√©@o podem@o jugar amb la nostra amic o amiga de l'altra classe@o. Aix√≠@o podem jugar lliure@o.

@@ -1,1 +1,9 @@
-[% explicita les parts de l’esquema de l’estratègia CREC]Dir què@o crecJo crec que no tenen que@s tenir mòbil.1. Què@o podríem@o fer amb el mòbilJo crec que no perquè@o lis farà@o mal als ulls.2. Podríem@o fer coses que no toquen@o.Podríem@o tenir el mòbil tota l’estona.3. Podríem@o mirar coses que no toquen.Així@o podríem@o fer unes@o altres coses.
+[% explicita les parts de l'esquema de l'estrat√®gia CREC]
+Dir qu√®@o crec
+Jo crec que no tenen que@s tenir m√≤bil.
+1. Qu√®@o podr√≠em@o fer amb el m√≤bil
+Jo crec que no perqu√®@o lis far√†@o mal als ulls.
+2. Podr√≠em@o fer coses que no toquen@o.
+Podr√≠em@o tenir el m√≤bil tota l'estona.
+3. Podr√≠em@o mirar coses que no toquen.
+Aix√≠@o podr√≠em@o fer unes@o altres coses.

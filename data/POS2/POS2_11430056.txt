@@ -1,1 +1,6 @@
-[% Títol] CREUS QUE ELS NENS DE LA TEVA EDAT HAN DE TENIR MÒBIL@o.Jo crec que no, no han de tenir mòbil@o.La primera raó és que@o si tenim mòbil@o estaríem@o tot el rato@s mirant-lo i agafaríem@o addicció@o. La segona raó és que@o si estàs@o tot el rato@s amb el mòbil no pots estar tant amb els familiars i amicsL’última raó és l’edat, que@o som massa petits per tenir mòbil@o. El que podem fer és@o fer servir el mòbil@o de la mare/pare per els deures, etc.En resum, no hem de tenir mòbil perquè agafaríem@o addicció@o, no estaríem@o amb amics i per últim no tenim l’edat.
+[% T√≠tol] CREUS QUE ELS NENS DE LA TEVA EDAT HAN DE TENIR M√íBIL@o.
+Jo crec que no, no han de tenir m√≤bil@o.
+La primera ra√≥ √©s que@o si tenim m√≤bil@o estar√≠em@o tot el rato@s mirant-lo i agafar√≠em@o addicci√≥@o. 
+La segona ra√≥ √©s que@o si est√†s@o tot el rato@s amb el m√≤bil no pots estar tant amb els familiars i amics
+L'√∫ltima ra√≥ √©s l'edat, que@o som massa petits per tenir m√≤bil@o. El que podem fer √©s@o fer servir el m√≤bil@o de la mare/pare per els deures, etc.
+En resum, no hem de tenir m√≤bil perqu√® agafar√≠em@o addicci√≥@o, no estar√≠em@o amb amics i per √∫ltim no tenim l'edat.

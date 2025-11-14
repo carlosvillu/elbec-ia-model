@@ -1,1 +1,5 @@
-[% format de llista a l’original]- Sí@o, perquè@o no hi van a l’escola no serien@o intel·ligents@o.- Sí@o, perquè@o aprenen coses noves.- Sí@o, per no llevar-se tan@o tard.- Sí@o, perquè quan siguin grans no sabran tantes coses de música@o, matemàtiques@o, ciències@o, geografia, d’esports …
+[% format de llista a l'original]
+- S√≠@o, perqu√®@o no hi van a l'escola no serien@o intel¬∑ligents@o.
+- S√≠@o, perqu√®@o aprenen coses noves.
+- S√≠@o, per no llevar-se tan@o tard.
+- S√≠@o, perqu√® quan siguin grans no sabran tantes coses de m√∫sica@o, matem√†tiques@o, ci√®ncies@o, geografia, d'esports ‚Ä¶

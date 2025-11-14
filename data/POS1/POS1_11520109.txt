@@ -1,1 +1,2 @@
-[% títol] Creieu que les persones de la vostra edat@o han d’anar a l’escola?Jo crec que les persones de la meva edat@o han d’anar@o a l’escola perquè sinó@o no aprens i no treballes i no guanyes diners, però@o si ets pobre i no tens diners podries intentar d’alguna manera pagar, com donar-li cada mes 1$ o com puguis@o pagar o et accepten@o per ser pobre i no has de pagar.
+[% t√≠tol] Creieu que les persones de la vostra edat@o han d'anar a l'escola?
+Jo crec que les persones de la meva edat@o han d'anar@o a l'escola perqu√® sin√≥@o no aprens i no treballes i no guanyes diners, per√≤@o si ets pobre i no tens diners podries intentar d'alguna manera pagar, com donar-li cada mes 1$ o com puguis@o pagar o et accepten@o per ser pobre i no has de pagar.

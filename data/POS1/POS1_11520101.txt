@@ -1,1 +1,2 @@
-[% títol] Creieu que les persones de la vostra edat@o han d’anar a l’escola?Jo crec que sí@o han d’anar a l’escola perquè s’ha d’estudiar per poguer després treballar i hi ha coses que les fas servir al dia a dia (com les matemàtiques) que serveixen per moltes coses.
+[% t√≠tol] Creieu que les persones de la vostra edat@o han d'anar a l'escola?
+Jo crec que s√≠@o han d'anar a l'escola perqu√® s'ha d'estudiar per poguer despr√©s treballar i hi ha coses que les fas servir al dia a dia (com les matem√†tiques) que serveixen per moltes coses.

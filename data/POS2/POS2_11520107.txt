@@ -1,1 +1,6 @@
-[% títol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN DE TENIR MÒBIL?Jo crec que no, que els nens de la meva edat no han de tenir mòbil.La primera raó és que no es mouen sols, llavors no necessiten un mòbil per estar ubicats o poder trucar.La segona raó és que pot ser perillós@o, perquè pels lladres és més fàcil robar el mòbil als nens petits.L’última raó és que un mòbil és una responsabilitat molt gran i, a més, és una cosa cara, llavors com els nens són molt distreguts el poden perdre fàcilment@o.En conclusió, no és una bona idea que els nens de 10 o 11 anys (la meva edat) tinguin mòbil perquè el poden perdre, els hi poden robar i fer passar una mala estona, etc.
+[% t√≠tol] CREUS QUE ELS NENS I NENES DE LA TEVA EDAT HAN DE TENIR M√íBIL?
+Jo crec que no, que els nens de la meva edat no han de tenir m√≤bil.
+La primera ra√≥ √©s que no es mouen sols, llavors no necessiten un m√≤bil per estar ubicats o poder trucar.
+La segona ra√≥ √©s que pot ser perill√≥s@o, perqu√® pels lladres √©s m√©s f√†cil robar el m√≤bil als nens petits.
+L'√∫ltima ra√≥ √©s que un m√≤bil √©s una responsabilitat molt gran i, a m√©s, √©s una cosa cara, llavors com els nens s√≥n molt distreguts el poden perdre f√†cilment@o.
+En conclusi√≥, no √©s una bona idea que els nens de 10 o 11 anys (la meva edat) tinguin m√≤bil perqu√® el poden perdre, els hi poden robar i fer passar una mala estona, etc.

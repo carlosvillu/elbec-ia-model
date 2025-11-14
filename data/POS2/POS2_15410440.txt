@@ -1,1 +1,6 @@
-[% Títol] Creus que a l’escola hauria d’haver pati?Jo crec que sí@o, a l’escola ha d’haver pati.La primera raó és@o que els nens haurien@o de jugar al pati perquè@o et diverteixes.La segona raó és@o que a l’escola ha d’haver pati perquè@o estaries@o avorrit@o.La tercera raó és@o que els nens haurien@o de tenir un pati propi perquè@o no venen molta gent.En conclusió@o, les persones haurien@o de tenir un pati propi i seients per decansar.
+[% T√≠tol] Creus que a l'escola hauria d'haver pati?
+Jo crec que s√≠@o, a l'escola ha d'haver pati.
+La primera ra√≥ √©s@o que els nens haurien@o de jugar al pati perqu√®@o et diverteixes.
+La segona ra√≥ √©s@o que a l'escola ha d'haver pati perqu√®@o estaries@o avorrit@o.
+La tercera ra√≥ √©s@o que els nens haurien@o de tenir un pati propi perqu√®@o no venen molta gent.
+En conclusi√≥@o, les persones haurien@o de tenir un pati propi i seients per decansar.

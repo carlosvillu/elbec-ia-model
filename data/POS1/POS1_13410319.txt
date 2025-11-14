@@ -1,1 +1,2 @@
-[% Títol] Creus que a l’escola ha d’haver pati?Jo crec que a l’escola sí@o ha d’haver el@o pati perquè@o els nens i nenes de l’escola també han de cansa i menjar l’esmorzar@o i també puguis jugar amb teus amics i també@o pots córrer i pots jugar futbol, bàsquet@o.
+[% T√≠tol] Creus que a l'escola ha d'haver pati?
+Jo crec que a l'escola s√≠@o ha d'haver el@o pati perqu√®@o els nens i nenes de l'escola tamb√© han de cansa i menjar l'esmorzar@o i tamb√© puguis jugar amb teus amics i tamb√©@o pots c√≥rrer i pots jugar futbol, b√†squet@o.
