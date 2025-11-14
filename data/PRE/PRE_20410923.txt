@@ -1,0 +1,1 @@
+[% Títol] Creus que les@o persones de la teva edat han de tenir mòbil?Sí@o, perquè@o si es perden poden llamar@s a la seva mare i@o poden comunicar-se amb els seus amics i familiars i@o amics [% repetició a l’original]. Poder jugar a videojocs, fer fotos, vídeos@o, pedir@s un taxi i@o quedar amb els amics.

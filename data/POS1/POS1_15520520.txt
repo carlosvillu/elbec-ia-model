@@ -1,0 +1,1 @@
+[% títol] Creus que els nens de la teva edat@o han@o de tenir mòbil@oRaó@o 1: és@o que el mòbil@o no pots utilitzar fins als 12 anys.perquè@o estaries tot el dia amb el mòbil@oRaó@o 2: [% acaba aquí]

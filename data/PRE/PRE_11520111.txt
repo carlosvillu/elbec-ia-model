@@ -1,0 +1,1 @@
+[% títol] PATI[% no hi ha text escrit, només el títol]
