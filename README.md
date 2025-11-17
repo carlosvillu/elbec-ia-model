@@ -1,6 +1,6 @@
-# UAB IA Model
+# ELBEC IA Model
 
-Text normalization and data processing tools for UAB Catalan text corpus. This repository contains Python scripts for processing and validating Catalan text files used in linguistic and AI research.
+Text normalization and data processing tools for ELBEC Catalan text corpus. This repository contains Python scripts for processing and validating Catalan text files used in linguistic and AI research.
 
 ## Overview
 
@@ -13,7 +13,7 @@ This project provides utilities for:
 
 ### 1. normalize_texts.py
 
-Normalizes Catalan text files by applying transformations compatible with UABTexthandler's PlainTextToPlainTextNormalizedMapper.js.
+Normalizes Catalan text files by applying transformations compatible with ELBECTexthandler's PlainTextToPlainTextNormalizedMapper.js.
 
 **Features:**
 - Removes annotation markers (@o, @s)
@@ -68,7 +68,7 @@ Files missing: 5
 The project expects the following directory structure:
 
 ```
-uab-ia-model/
+elbec-ia-model/
 ├── data/
 │   ├── POS1/
 │   │   ├── consignas.csv
@@ -90,7 +90,7 @@ uab-ia-model/
 
 ## License
 
-This project is part of UAB (Universitat Autònoma de Barcelona) research work.
+This project is part of ELBEC research work.
 
 ## Contributing
 
