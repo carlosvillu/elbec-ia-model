@@ -11,7 +11,62 @@ This project provides utilities for:
 
 ## Scripts
 
-### 1. normalize_texts.py
+### 1. evaluate_texts.py
+
+Evaluates all normalized texts (_NOR.txt files) using a deployed evaluation API (typically on RunPod.io).
+
+**Features:**
+- Processes all `_NOR.txt` files in POS1, POS2, and PRE folders
+- Extracts curso (grade level) dynamically from text ID
+- Submits texts in batches to the evaluation API
+- Streams results in real-time using Server-Sent Events
+- Generates CSV files with evaluation results (nota and feedback)
+- Supports configurable batch sizes and folder selection
+- Health check validation before processing
+
+**Usage:**
+```bash
+# Install dependencies first
+pip install -r requirements.txt
+
+# Basic usage
+python evaluate_texts.py --api-host https://your-runpod-instance.proxy.runpod.net
+
+# Custom batch size
+python evaluate_texts.py --api-host https://api.example.com --batch-size 20
+
+# Process specific folders only
+python evaluate_texts.py --api-host https://api.example.com --folders POS1 POS2
+
+# Skip health check
+python evaluate_texts.py --api-host https://api.example.com --skip-health-check
+
+# Don't combine results
+python evaluate_texts.py --api-host https://api.example.com --no-combine
+```
+
+**Output:**
+- Per-folder CSVs: `data/{folder}/results_{folder}_{timestamp}.csv`
+- Combined CSV: `results_all_folders_{timestamp}.csv` (unless `--no-combine` is used)
+- Columns: folder, id, filename, curso, consigna, nota, feedback
+
+**Grade Level Extraction:**
+The curso is automatically extracted from the text ID (third character):
+- `POS1_11410003_NOR.txt` → ID: `11410003` → curso: `4t ESO`
+- `POS1_11510082_NOR.txt` → ID: `11510082` → curso: `5è ESO`
+
+### 2. evaluate_texts.ipynb
+
+Jupyter notebook version of the evaluation script with the same functionality. Provides an interactive environment for text evaluation with detailed progress visualization.
+
+**Usage:**
+```bash
+jupyter notebook evaluate_texts.ipynb
+```
+
+Update the `API_HOST` variable in the first cell and run all cells sequentially.
+
+### 3. normalize_texts.py
 
 Normalizes Catalan text files by applying transformations compatible with ELBECTexthandler's PlainTextToPlainTextNormalizedMapper.js.
 
@@ -36,7 +91,7 @@ The script processes all `.txt` files in the `data/POS1`, `data/POS2`, and `data
 - Input: `data/POS1/document.txt`
 - Output: `data/POS1/document_NOR.txt`
 
-### 2. add_file_exists_column.py
+### 4. add_file_exists_column.py
 
 Validates file references in CSV files by checking if the referenced files exist in the filesystem.
 
@@ -86,7 +141,11 @@ elbec-ia-model/
 ## Requirements
 
 - Python 3.6+
-- No external dependencies required (uses only standard library)
+- For `evaluate_texts.py` and `evaluate_texts.ipynb`:
+  - `requests>=2.31.0`
+  - `pandas>=2.0.0`
+  - Install with: `pip install -r requirements.txt`
+- For other scripts: No external dependencies required (uses only standard library)
 
 ## License
 
